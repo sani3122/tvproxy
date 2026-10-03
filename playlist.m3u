@@ -1,7 +1,162 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-10-03 06:08 UTC
-# streams  : 33
+# generated: 2026-10-03 12:11 UTC
+# streams  : 52
+
+#EXTINF:-1 tvg-name="Spain vs Czechia | 01:45 | 04/10/2026 [Nonstopservice]" tvg-logo="" tvg-id="Live.Event.us" group-title="UEFA Nations League",Spain vs Czechia | 01:45 | 04/10/2026 [Nonstopservice]
+#EXTVLCOPT:http-referrer=https://streame.center/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-origin=https://streame.center
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Origin=https://streame.center
+#EXTHTTP:Referer: https://streame.center/|Origin: https://streame.center
+https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8?st=4A1xAIe23XnRABJf1wo0HhgCJiaBFbXC9_rbF0Nxgmo&e=1791039174
+
+#EXTINF:-1 tvg-name="[Scottish Premiership] SPFL Tennents Sixes (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Scottish Premiership",[Scottish Premiership] SPFL Tennents Sixes (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/shhhh.m3u8
+
+#EXTINF:-1 tvg-name="[Greece Basketball League] Mykonos vs PAOK (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" tvg-id="Basketball.Dummy.us" group-title="Greece Basketball League",[Greece Basketball League] Mykonos vs PAOK (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.44/hls/ZOOOA.m3u8
+
+#EXTINF:-1 tvg-name="[Spanish Segunda Liga] Albacete vs Eibar (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" tvg-id="Soccer.Dummy.us" group-title="Spanish Segunda Liga",[Spanish Segunda Liga] Albacete vs Eibar (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.44/hls/shhhhaAA.m3u8
+
+#EXTINF:-1 tvg-name="[German Women Bundesliga] RB Leipzig W vs Mainz W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" tvg-id="Soccer.Dummy.us" group-title="German Women Bundesliga",[German Women Bundesliga] RB Leipzig W vs Mainz W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.44/hls/shhhhaA.m3u8
+
+#EXTINF:-1 tvg-name="[Horse Racing] Horse Racing UK (FAWA)" tvg-logo="" tvg-id="Racing.Dummy.us" group-title="Horse Racing",[Horse Racing] Horse Racing UK (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.194/hls/vavavava.m3u8
+
+#EXTINF:-1 tvg-name="[United Rugby Championship] Lions vs Ospreys (FAWA)" tvg-logo="" tvg-id="Rugby.Dummy.us" group-title="United Rugby Championship",[United Rugby Championship] Lions vs Ospreys (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/EPPPPQQQQQQQQ.m3u8
+
+#EXTINF:-1 tvg-name="[English League Two] Chesterfield vs Tranmere (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" tvg-id="Soccer.Dummy.us" group-title="English League Two",[English League Two] Chesterfield vs Tranmere (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/EPPPPQQQQQQQ.m3u8
+
+#EXTINF:-1 tvg-name="[Golf] Golf Alfred Dunhill Links Championship (FAWA)" tvg-logo="https://files.catbox.moe/0u2n4x.png" tvg-id="Golf.Dummy.us" group-title="Golf",[Golf] Golf Alfred Dunhill Links Championship (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.44/hls/iiiiaA.m3u8
+
+#EXTINF:-1 tvg-name="[Sweden Women Allsvenskan] Vittsjo W vs Eskilstuna Utd W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/16.png" tvg-id="Soccer.Dummy.us" group-title="Sweden Women Allsvenskan",[Sweden Women Allsvenskan] Vittsjo W vs Eskilstuna Utd W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/EPPPPQQQQQQ.m3u8
+
+#EXTINF:-1 tvg-name="[Sweden Women Allsvenskan] Pitea W vs Norrkoping W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/16.png" tvg-id="Soccer.Dummy.us" group-title="Sweden Women Allsvenskan",[Sweden Women Allsvenskan] Pitea W vs Norrkoping W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/EPPPPQQQQQ.m3u8
+
+#EXTINF:-1 tvg-name="[Sweden Division 1] Stockholm Internazionale vs Assyriska FF (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Sweden Division 1",[Sweden Division 1] Stockholm Internazionale vs Assyriska FF (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/EPPPPQQQQ.m3u8
+
+#EXTINF:-1 tvg-name="[Sweden Division 1] Enkoping SK vs Gefle (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Sweden Division 1",[Sweden Division 1] Enkoping SK vs Gefle (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/EPPPPQQQ.m3u8
+
+#EXTINF:-1 tvg-name="[Sweden Division 1] Tvaaker vs Hassleholms IF (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Sweden Division 1",[Sweden Division 1] Tvaaker vs Hassleholms IF (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/EPPPPQQ.m3u8
+
+#EXTINF:-1 tvg-name="[Sweden Division 1] Angelholm vs Rosengard (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Sweden Division 1",[Sweden Division 1] Angelholm vs Rosengard (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/EPPPPQ.m3u8
+
+#EXTINF:-1 tvg-name="[Asian Games] South Korea U23 vs Japan U23 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Asian Games",[Asian Games] South Korea U23 vs Japan U23 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/HOOOQQQQQAA.m3u8
+
+#EXTINF:-1 tvg-name="[Italy Women Serie A] Parma W vs Ternana W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Italy Women Serie A",[Italy Women Serie A] Parma W vs Ternana W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/HOOOQQQQQA.m3u8
+
+#EXTINF:-1 tvg-name="[Japan J League Cup] Kashiwa Reysol vs Gamba Osaka (FAWA)" tvg-logo="https://files.catbox.moe/85fh3s.png" tvg-id="Soccer.Dummy.us" group-title="Japan J League Cup",[Japan J League Cup] Kashiwa Reysol vs Gamba Osaka (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/HOOOQQQQQ.m3u8
+
+#EXTINF:-1 tvg-name="[ASEAN Championship] Hong Kong vs Cambodia (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2261.png" tvg-id="Soccer.Dummy.us" group-title="ASEAN Championship",[ASEAN Championship] Hong Kong vs Cambodia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/HOOOQQQQ.m3u8
+
+#EXTINF:-1 tvg-name="[Spanish Liga F Women] Sevilla FC W vs Badalona W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="Spanish Liga F Women",[Spanish Liga F Women] Sevilla FC W vs Badalona W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.41/hls/HOOOQQ.m3u8
+
+#EXTINF:-1 tvg-name="[MMA Fighting] MMA BKFC : Hepi vs Shewmaker (FAWA)" tvg-logo="" tvg-id="PPV.EVENTS.Dummy.us" group-title="MMA Fighting",[MMA Fighting] MMA BKFC : Hepi vs Shewmaker (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.50/hls/TTTTQ.m3u8
+
+#EXTINF:-1 tvg-name="[Cricket] India vs West Indies (FAWA)" tvg-logo="https://files.catbox.moe/rwd8mv.png" tvg-id="Cricket.Dummy.us" group-title="Cricket",[Cricket] India vs West Indies (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: http://www.fawanews.sc/
+http://193.47.62.50/hls/TTTT.m3u8
 
 #EXTINF:-1 tvg-name="[World Rally] World Rally Championship Italy (FAWA)" tvg-logo="" tvg-id="Racing.Dummy.us" group-title="World Rally",[World Rally] World Rally Championship Italy (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -9,34 +164,6 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: http://www.fawanews.sc/
 https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fdms.redbull.tv%2Fv5%2Fdestination%2Frallytv%2F07f960dc-fd36-466c-971f-64a597518b83%2Fpersonal_computer%2Fhttp%2Fus%2Fen_US%2Fplaylist.m3u8&ref=http%3A%2F%2Fwww.fawanews.sc%2F&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[Rugby NZ NPC] Waikato vs Tasman (FAWA)" tvg-logo="" tvg-id="Rugby.Dummy.us" group-title="Rugby NZ NPC",[Rugby NZ NPC] Waikato vs Tasman (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: http://www.fawanews.sc/
-http://193.47.62.55/hls/AAAAqqq.m3u8
-
-#EXTINF:-1 tvg-name="[Asian Games] China U23 vs Uzbekistan U23 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Asian Games",[Asian Games] China U23 vs Uzbekistan U23 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: http://www.fawanews.sc/
-http://193.47.62.44/hls/WAWAWAAA.m3u8
-
-#EXTINF:-1 tvg-name="[Japan J League] Fujieda MYFC vs Shonan Bellmare (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2199.png" tvg-id="Soccer.Dummy.us" group-title="Japan J League",[Japan J League] Fujieda MYFC vs Shonan Bellmare (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: http://www.fawanews.sc/
-http://193.47.62.44/hls/WAWAWAA.m3u8
-
-#EXTINF:-1 tvg-name="[Cricket Asian Cup] Pakistan vs India (FAWA)" tvg-logo="https://files.catbox.moe/rwd8mv.png" tvg-id="Cricket.Dummy.us" group-title="Cricket Asian Cup",[Cricket Asian Cup] Pakistan vs India (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: http://www.fawanews.sc/
-http://193.47.62.55/hls/AAAA.m3u8
 
 #EXTINF:-1 tvg-name="[Tennis ATP] Tennis ATP Beijing (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Tennis ATP",[Tennis ATP] Tennis ATP Beijing (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -59,68 +186,124 @@ http://193.47.62.55/hls/JJJJJ.m3u8
 #EXTHTTP:Referer: http://www.fawanews.sc/
 http://193.47.62.55/hls/NUUUQQ.m3u8
 
-#EXTINF:-1 tvg-name="[NHL Hockey] Vegas Golden Knights vs Anaheim Ducks (FAWA)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" tvg-id="Ice.Hockey.Dummy.us" group-title="NHL Hockey",[NHL Hockey] Vegas Golden Knights vs Anaheim Ducks (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="[UEFA Nations League] España vs República Checa 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA Nations League",[UEFA Nations League] España vs República Checa 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: http://www.fawanews.sc/
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Flive.kinescopecdn.net%2Fon-air%2F5bf2c07e-3604-42cf-959a-67ed8914ffd5%2F3e82418e-6528-46e7-bc54-9b2a71ac1611%2Fmaster.m3u8&ref=http%3A%2F%2Fwww.fawanews.sc%2F&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=espn&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=espn
+https://c2f2zq.fubo18.com:443/espn/mono.m3u8?token=b91bfc2bbe8344541413835649c096189a93d1c8-1e-1791046419-1791028419
 
-#EXTINF:-1 tvg-name="[CFL Canadian Football] Saskatchewan Roughriders vs Calgary Stampeders (FAWA)" tvg-logo="https://files.catbox.moe/ivnrrj.png" tvg-id="Football.Dummy.us" group-title="CFL Canadian Football",[CFL Canadian Football] Saskatchewan Roughriders vs Calgary Stampeders (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="[UEFA Nations League] España vs República Checa 3 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA Nations League",[UEFA Nations League] España vs República Checa 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=foxsports2_usa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: http://www.fawanews.sc/
-http://193.47.62.50/hls/RARARAQ.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=foxsports2_usa&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=foxsports2_usa
+https://b2ZmaWNpYWw.fubo18.com:443/foxsports2_usa/mono.m3u8?token=b007e521f59d90a13f85740b9bdab61321ff2600-2b-1791046419-1791028419
 
-#EXTINF:-1 tvg-name="[MotoGP] MotoGP Grand Prix of Japan (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/MotoGP-Logo-500x281.png" tvg-id="Racing.Dummy.us" group-title="MotoGP",[MotoGP] MotoGP Grand Prix of Japan (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-name="[League Two] Chesterfield vs Tranmere Rovers 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png" tvg-id="Soccer.Dummy.us" group-title="League Two",[League Two] Chesterfield vs Tranmere Rovers 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: http://www.fawanews.sc/
-http://193.47.62.41/hls/duuuAAAAAA.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney1
+https://eWVz.fubo18.com:443/disney1/mono.m3u8?token=e91038f0d2e0dde2535a4a8af1d55b362b1e682b-10-1791046419-1791028419
+
+#EXTINF:-1 tvg-name="[LaLiga SmartBank] Albacete vs Eibar 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="LaLiga SmartBank",[LaLiga SmartBank] Albacete vs Eibar 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=hypermotion1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=hypermotion1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=hypermotion1
+https://am91cm5leQ.fubo18.com:443/hypermotion1/mono.m3u8?token=41768b5a714d5b59dae3a4677ef26a2a1bda38fe-c9-1791046419-1791028419
+
+#EXTINF:-1 tvg-name="[UEFA Nations League] Macedonia del Norte vs Escocia 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA Nations League",[UEFA Nations League] Macedonia del Norte vs Escocia 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=foxsoccerplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=foxsoccerplus&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=foxsoccerplus
+https://c2f2zq.fubo18.com:443/foxsoccerplus/mono.m3u8?token=78c3c963d23980cad971fa4a3f8bcb28e69c7bb9-3-1791046419-1791028419
+
+#EXTINF:-1 tvg-name="[UEFA Nations League] Finlandia vs Albania 3 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA Nations League",[UEFA Nations League] Finlandia vs Albania 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=foxsports2_usa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=foxsports2_usa&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=foxsports2_usa
+https://am91cm5leQ.fubo18.com:443/foxsports2_usa/mono.m3u8?token=4bdca18a856434fa4bc5b515c2df2144f096e279-45-1791046420-1791028420
+
+#EXTINF:-1 tvg-name="[Amistoso] India vs Brasil 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Amistoso",[Amistoso] India vs Brasil 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=sportv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=sportv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=sportv
+https://bgvnzw5k.fubo18.com:443/sportv/mono.m3u8?token=fbf9d94ba96b55c8024b7cf2f74a82cf233280a6-4-1791046420-1791028420
+
+#EXTINF:-1 tvg-name="[LaLiga SmartBank] Almería vs Burgos 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="LaLiga SmartBank",[LaLiga SmartBank] Almería vs Burgos 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=hypermotion1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=hypermotion1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=hypermotion1
+https://YXdlc29tZQ.fubo18.com:443/hypermotion1/mono.m3u8?token=98e4913c263556fcfd144d1a3205dbd329258476-c1-1791046421-1791028421
+
+#EXTINF:-1 tvg-name="[UEFA Nations League] Croacia vs Inglaterra 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA Nations League",[UEFA Nations League] Croacia vs Inglaterra 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=espn&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=espn
+https://bmf0aw9u.fubo18.com:443/espn/mono.m3u8?token=e7dfe10138ef7dedc2cac77a0b4587e887a823ed-ac-1791046421-1791028421
+
+#EXTINF:-1 tvg-name="[UEFA Nations League] Bielorrusia vs San Marino 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA Nations League",[UEFA Nations League] Bielorrusia vs San Marino 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=foxsoccerplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=foxsoccerplus&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=foxsoccerplus
+https://Ym9yZQ.fubo18.com:443/foxsoccerplus/mono.m3u8?token=544e703abfc48999fd5ea0f3eb688a0b39eee159-6e-1791046421-1791028421
+
+#EXTINF:-1 tvg-name="[UEFA Nations League] Estonia vs Luxemburgo 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA Nations League",[UEFA Nations League] Estonia vs Luxemburgo 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=foxsports2_usa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=foxsports2_usa&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=foxsports2_usa
+https://Ym9yZQ.fubo18.com:443/foxsports2_usa/mono.m3u8?token=e4b73e1ba5f138e99c38ff34ebf84a1a7b6fa992-7-1791046421-1791028421
+
+#EXTINF:-1 tvg-name="[LaLiga SmartBank] Sabadell vs FC Andorra 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="LaLiga SmartBank",[LaLiga SmartBank] Sabadell vs FC Andorra 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=hypermotion2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=hypermotion2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=hypermotion2
+https://y2fzdgxl.fubo18.com:443/hypermotion2/mono.m3u8?token=45b8fed0728177cd105564d9ea780a7fcdd58abc-ed-1791046421-1791028421
+
+#EXTINF:-1 tvg-name="[LaLiga SmartBank] Cádiz vs Leganés 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="LaLiga SmartBank",[LaLiga SmartBank] Cádiz vs Leganés 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=hypermotion1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=hypermotion1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=hypermotion1
+https://bgvnzw5k.fubo18.com:443/hypermotion1/mono.m3u8?token=475a08347ef654bd3693e8a40b6c6b219ed30786-a6-1791046422-1791028422
+
+#EXTINF:-1 tvg-name="[Amistoso] Canadá vs Perú 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Amistoso",[Amistoso] Canadá vs Perú 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=americatv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=americatv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=americatv
+https://b2ZmaWNpYWw.fubo18.com:443/americatv/mono.m3u8?token=455162821b4a606b7b0bbdbd65b0b634e17779d5-87-1791046422-1791028422
 
 #EXTINF:-1 tvg-name="[NFL] NFL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] NFL Network (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl-network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=nfl-network&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://ondemand.st/embed/?id=nfl-network
-https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=61Hbo4GS18kdc670AEoT8w&e=1791050858
+https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=WOOh9s2qWNJjqIRSagEAPg&e=1791072519
 
 #EXTINF:-1 tvg-name="[Golf] Sky Sports Golf (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" tvg-id="Golf.Dummy.us" group-title="Golf",[Golf] Sky Sports Golf (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sky-sports-golf-29059
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=sky-sports-golf-29059&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://ondemand.st/embed/?id=sky-sports-golf-29059
-https://messi.damitv.st/live-hls/channel/sky-sports-golf-29059/playlist.m3u8?tk=61Hbo4GS18kdc670AEoT8w&e=1791050858
+https://messi.damitv.st/live-hls/channel/sky-sports-golf-29059/playlist.m3u8?tk=WOOh9s2qWNJjqIRSagEAPg&e=1791072519
 
-#EXTINF:-1 tvg-name="[LUX] LUX 063 (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="LUX",[LUX] LUX 063 (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57447?ad=111
+#EXTINF:-1 tvg-name="[Motorsports] Motocross of Nations | Day 2 (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/a8f82ebe777e51c51f7fda8aef1e15b9-thumbnail.jpg" tvg-id="Racing.Dummy.us" group-title="Motorsports",[Motorsports] Motocross of Nations | Day 2 (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=motocross-of-nations--day-2-29774
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57447?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57447?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57447%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57447%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[Boxing] Cardenas vs Timko (iSTRMEAST)" tvg-logo="" tvg-id="PPV.EVENTS.Dummy.us" group-title="Boxing",[Boxing] Cardenas vs Timko (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57446?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57446?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57446?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57446%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57446%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[Other] ONE Fight Night: Erdogan vs Elliott (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Other",[Other] ONE Fight Night: Erdogan vs Elliott (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57443?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57443?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57443?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57443%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57443%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[Boxing] Omari Jones vs Alan Sanchez (iSTRMEAST)" tvg-logo="" tvg-id="PPV.EVENTS.Dummy.us" group-title="Boxing",[Boxing] Omari Jones vs Alan Sanchez (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57440?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57440?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57440?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57440%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57440%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=motocross-of-nations--day-2-29774&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://ondemand.st/embed/?id=motocross-of-nations--day-2-29774
+https://messi.damitv.st/live-hls/channel/motocross-of-nations--day-2-29774/playlist.m3u8?tk=WOOh9s2qWNJjqIRSagEAPg&e=1791072519
 
 #EXTINF:-1 tvg-name="[Formula 1] Formula 1 2026 - Bahrain GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" tvg-id="Racing.Dummy.us" group-title="Formula 1",[Formula 1] Formula 1 2026 - Bahrain GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57392?ad=111
@@ -128,41 +311,6 @@ https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisma
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57392?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57392?ad=111
 https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57392%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57392%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[MMA] UFC 332: Silva vs. Wang | English (STRMCNTR)" tvg-logo="" tvg-id="PPV.EVENTS.Dummy.us" group-title="MMA",[MMA] UFC 332: Silva vs. Wang | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streame.center
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fzeuryuegn48.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[American Football] Montana State Bobcats vs Idaho Vandals | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" tvg-id="Football.Dummy.us" group-title="American Football",[American Football] Montana State Bobcats vs Idaho Vandals | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streame.center
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Foipozuezeji33.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[American Football] Alabama Crimson Tide vs. Mississippi State Bulldogs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" tvg-id="Football.Dummy.us" group-title="American Football",[American Football] Alabama Crimson Tide vs. Mississippi State Bulldogs | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streame.center
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2FJHDAJBDnjdna30.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[American Football] Middle Tennessee Blue Raiders vs. Kansas Jayhawks | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" tvg-id="Football.Dummy.us" group-title="American Football",[American Football] Middle Tennessee Blue Raiders vs. Kansas Jayhawks | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streame.center
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fsfjnzabacah31.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[American Football] UCF Knights vs. Houston Cougars | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" tvg-id="Football.Dummy.us" group-title="American Football",[American Football] UCF Knights vs. Houston Cougars | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streame.center
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fqsdnajbq32.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
 #EXTINF:-1 tvg-name="[American Football] Louisville Cardinals vs. NC State Wolfpack | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" tvg-id="Football.Dummy.us" group-title="American Football",[American Football] Louisville Cardinals vs. NC State Wolfpack | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
@@ -177,13 +325,6 @@ https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://streame.center
 https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2F24SDAZFcsqnj24.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[Racing] Gulf Air Bahrain Grand Prix in Malaysia — FP3 | English (STRMCNTR)" tvg-logo="" tvg-id="Racing.Dummy.us" group-title="Racing",[Racing] Gulf Air Bahrain Grand Prix in Malaysia — FP3 | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streame.center
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fhbfkazbkaznc49.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
 #EXTINF:-1 tvg-name="[Hockey] Chicago Blackhawks vs. Buffalo Sabres | English (STRMCNTR)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" tvg-id="Ice.Hockey.Dummy.us" group-title="Hockey",[Hockey] Chicago Blackhawks vs. Buffalo Sabres | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
@@ -205,13 +346,6 @@ https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://streame.center
 https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Flmdsjkfgv52.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[Hockey] Ottawa Senators vs. Toronto Maple Leafs | English (STRMCNTR)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" tvg-id="Ice.Hockey.Dummy.us" group-title="Hockey",[Hockey] Ottawa Senators vs. Toronto Maple Leafs | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streame.center
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Frtzaeyvhb53.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
 #EXTINF:-1 tvg-name="[Hockey] Carolina Hurricanes vs. Philadelphia Flyers | English (STRMCNTR)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f3d2.png" tvg-id="Ice.Hockey.Dummy.us" group-title="Hockey",[Hockey] Carolina Hurricanes vs. Philadelphia Flyers | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
