@@ -1,154 +1,483 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-10-08 20:12 UTC
-# streams  : 25
-
-#EXTINF:-1 tvg-name="[Reserve League] Sarmiento Res. vs Vélez Sársfield Res. | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Reserve League",[Reserve League] Sarmiento Res. vs Vélez Sársfield Res. | Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=tntsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=tntsports&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=tntsports
-https://c2f2zq.fubo18.com:443/tntsports/mono.m3u8?token=a3efe8f26aa0dfaedf5dc22ab2f1edb96f7ebaf6-73-1791507392-1791489392
-
-#EXTINF:-1 tvg-name="[Liga 1] UCV Moquegua vs Cienciano | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" tvg-id="Soccer.Dummy.us" group-title="Liga 1",[Liga 1] UCV Moquegua vs Cienciano | Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=liga1max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=liga1max&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=liga1max
-https://y2fzdgxl.fubo18.com:443/liga1max/mono.m3u8?token=d439132fe9430aab4ac2304f9d1a4e8bf6c2aaf8-91-1791507392-1791489392
-
-#EXTINF:-1 tvg-name="[Liga 2] Tacna Heroica vs Carlos Manucci | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Liga 2",[Liga 2] Tacna Heroica vs Carlos Manucci | Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=eventos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=eventos&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=eventos
-https://b2ZmaWNpYWw.fubo18.com:443/eventos/mono.m3u8?token=e9c1f438f20788f22328c706d1778bc110bfb0bf-d9-1791507392-1791489392
-
-#EXTINF:-1 tvg-name="[Liga 1] Atlético Grau vs Los Chankas | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" tvg-id="Soccer.Dummy.us" group-title="Liga 1",[Liga 1] Atlético Grau vs Los Chankas | Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=liga1max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=liga1max&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=liga1max
-https://y2fzdgxl.fubo18.com:443/liga1max/mono.m3u8?token=463b238573d36d24cb5bd26abe38281e76f258e2-5-1791507392-1791489392
+# generated: 2026-10-09 00:42 UTC
+# streams  : 72
 
 #EXTINF:-1 tvg-name="[Brasileirão] Santos vs Flamengo | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" tvg-id="Soccer.Dummy.us" group-title="Brasileirão",[Brasileirão] Santos vs Flamengo | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=winsports&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=winsports
-https://YXdlc29tZQ.fubo18.com:443/winsports/mono.m3u8?token=c85bdd4ec6ecf925814e3422788662df02f68e29-2d-1791507392-1791489392
+https://c2f2zq.fubo18.com:443/winsports/mono.m3u8?token=d836bbca0c87361df68671aa0e842a83b35a48e8-26-1791523582-1791505582
 
 #EXTINF:-1 tvg-name="[Brasileirão] Santos vs Flamengo | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" tvg-id="Soccer.Dummy.us" group-title="Brasileirão",[Brasileirão] Santos vs Flamengo | Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=premiere1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=premiere1
-https://a2lja3m.fubo18.com:443/premiere1/mono.m3u8?token=d6ac06028e089d6b69c8a3c05bfc888c916a0836-aa-1791507392-1791489392
+https://c2f2zq.fubo18.com:443/premiere1/mono.m3u8?token=9b877019e751f3a50fa7654b54cad46a58950dfb-ff-1791523582-1791505582
 
 #EXTINF:-1 tvg-name="[Serie B] Nautico Recife vs Novorizontino | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Serie B",[Serie B] Nautico Recife vs Novorizontino | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=premiere6&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=premiere6
-https://dglvz29s.fubo18.com:443/premiere6/mono.m3u8?token=3d9516cc916ced453bcf40f03b09150d731eba03-b2-1791507393-1791489393
+https://a2lja3m.fubo18.com:443/premiere6/mono.m3u8?token=3c665c0eac9a55ac470fae4df76774b3889e002a-cc-1791523582-1791505582
 
 #EXTINF:-1 tvg-name="[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" tvg-id="Soccer.Dummy.us" group-title="Brasileirão",[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=premiere3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=premiere3
-https://c2f2zq.fubo18.com:443/premiere3/mono.m3u8?token=fa4d5e5ac3acff1e76f6613986d5dfd439abfb5b-42-1791507393-1791489393
+https://c2f2zq.fubo18.com:443/premiere3/mono.m3u8?token=6b89a8811367c85b99ebc91eb9f59c8fa46f43f6-61-1791523582-1791505582
 
 #EXTINF:-1 tvg-name="[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" tvg-id="Soccer.Dummy.us" group-title="Brasileirão",[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=liga1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=liga1max&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=liga1max
-https://Ym9yZQ.fubo18.com:443/liga1max/mono.m3u8?token=ed7c59a65fa58116a5f4b9b01b815be4ba07cf2a-cd-1791507393-1791489393
+https://c2f2zq.fubo18.com:443/liga1max/mono.m3u8?token=f88549b815d83a4d9a7b8f0492d196e84a9bf11d-3c-1791523582-1791505582
+
+#EXTINF:-1 tvg-name="[NHL] Ottawa Senators vs Philadelphia Flyers | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Ottawa Senators vs Philadelphia Flyers | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney5&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney5
+https://c2f2zq.fubo18.com:443/disney5/mono.m3u8?token=b35fe64fa4f2280d23e2ba30aa40bd4367f6e21a-1e-1791523582-1791505582
+
+#EXTINF:-1 tvg-name="[NHL] Tampa Bay Lightning vs Minnesota Wild | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Tampa Bay Lightning vs Minnesota Wild | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney6&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney6
+https://bmf0aw9u.fubo18.com:443/disney6/mono.m3u8?token=8cc5f9920970969843d60836d2ce47f91260ba65-bc-1791523582-1791505582
+
+#EXTINF:-1 tvg-name="[NHL] Boston Bruins vs Utah Mammoth | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Boston Bruins vs Utah Mammoth | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney7
+https://bmf0aw9u.fubo18.com:443/disney7/mono.m3u8?token=ea59cb533f506743952e787f680ae9363c997380-25-1791523582-1791505582
+
+#EXTINF:-1 tvg-name="[NHL] Montreal Canadiens vs Nashville Predators | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Montreal Canadiens vs Nashville Predators | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney8&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney8
+https://dglvz29s.fubo18.com:443/disney8/mono.m3u8?token=cbe90bdb3962a3dedb08e146fdfe7efa00798b21-39-1791523583-1791505583
+
+#EXTINF:-1 tvg-name="[NHL] Carolina Hurricanes vs Vancouver Canucks | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Carolina Hurricanes vs Vancouver Canucks | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney9&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney9
+https://Ym9yZQ.fubo18.com:443/disney9/mono.m3u8?token=3287790cf7235237bc441d5db8fa1606201db777-78-1791523583-1791505583
+
+#EXTINF:-1 tvg-name="[NHL] Buffalo Sabres vs Dallas Stars | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Buffalo Sabres vs Dallas Stars | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney10&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney10
+https://dglvz29s.fubo18.com:443/disney10/mono.m3u8?token=3b184d26611df89869d38bb14b388ef61c93ffd7-8a-1791523583-1791505583
+
+#EXTINF:-1 tvg-name="[Liga BetPlay] Atlético Nacional vs Deportes Tolima | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Liga BetPlay",[Liga BetPlay] Atlético Nacional vs Deportes Tolima | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=winplus&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=winplus
+https://y2fzdgxl.fubo18.com:443/winplus/mono.m3u8?token=27d068f55866c271a7fd67920098daea3ffa8ec6-8c-1791523583-1791505583
+
+#EXTINF:-1 tvg-name="[NHL] New York Islanders vs Chicago Blackhawks | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] New York Islanders vs Chicago Blackhawks | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney11&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney11
+https://dglvz29s.fubo18.com:443/disney11/mono.m3u8?token=d5dced729fed8849abc6989c071558d100ab5134-eb-1791523583-1791505583
+
+#EXTINF:-1 tvg-name="[MLB] Chicago White Sox vs Cleveland Guardians | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" tvg-id="MLB.Baseball.Dummy.us" group-title="MLB",[MLB] Chicago White Sox vs Cleveland Guardians | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=espn3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=espn3
+https://b2ZmaWNpYWw.fubo18.com:443/espn3/mono.m3u8?token=8b3c9abd897920272db7712574b1774ae5bfbdae-e3-1791523583-1791505583
 
 #EXTINF:-1 tvg-name="[NFL] Dallas Cowboys vs Tampa Bay Buccaneers | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Dallas Cowboys vs Tampa Bay Buccaneers | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=espn5&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=espn5
-https://am91cm5leQ.fubo18.com:443/espn5/mono.m3u8?token=0906abf006832040cba60d7675699c0cd0c07d27-11-1791507393-1791489393
-
-#EXTINF:-1 tvg-name="[NFL] Dallas Cowboys vs Tampa Bay Buccaneers | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Dallas Cowboys vs Tampa Bay Buccaneers | Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=disney2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=disney2
-https://bmf0aw9u.fubo18.com:443/disney2/mono.m3u8?token=e273df646f13606c04c96c32ac2598398dc9ff13-29-1791507393-1791489393
+https://Ym9yZQ.fubo18.com:443/espn5/mono.m3u8?token=ba3bcea1a4d48ce533eb232e2b88703cf6d06bd2-92-1791523584-1791505584
 
 #EXTINF:-1 tvg-name="[Brasileirão] Fluminense vs Coritiba | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" tvg-id="Soccer.Dummy.us" group-title="Brasileirão",[Brasileirão] Fluminense vs Coritiba | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=premiere5&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=premiere5
-https://bgvnzw5k.fubo18.com:443/premiere5/mono.m3u8?token=42e07bdc21b409fa119ff8840a18170e304b4327-d0-1791507393-1791489393
+https://eWVz.fubo18.com:443/premiere5/mono.m3u8?token=5c8465b403b2a3cf2fba3fc7773f842259af7f68-7c-1791523584-1791505584
 
 #EXTINF:-1 tvg-name="[Brasileirão] Palmeiras vs Bahia | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" tvg-id="Soccer.Dummy.us" group-title="Brasileirão",[Brasileirão] Palmeiras vs Bahia | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=winsports&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=winsports
-https://y2fzdgxl.fubo18.com:443/winsports/mono.m3u8?token=5e6d8c506378022a4de0692c8fe96b0dc7d7d5d7-ca-1791507394-1791489394
+https://bmf0aw9u.fubo18.com:443/winsports/mono.m3u8?token=36b321c4897f90126fb64709e8139e98895b0ae1-36-1791523584-1791505584
 
 #EXTINF:-1 tvg-name="[Brasileirão] Palmeiras vs Bahia | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" tvg-id="Soccer.Dummy.us" group-title="Brasileirão",[Brasileirão] Palmeiras vs Bahia | Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=premiere2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=premiere2
-https://bmf0aw9u.fubo18.com:443/premiere2/mono.m3u8?token=f01ae8963c599fe8eaebd469a76897a7f369daed-4f-1791507394-1791489394
+https://bmf0aw9u.fubo18.com:443/premiere2/mono.m3u8?token=bbe9c7f3e756479a9cec11571fa19d364d5c4406-65-1791523584-1791505584
 
 #EXTINF:-1 tvg-name="[Liga de Expansión MX] Alebrijes de Oaxaca vs Correcaminos UAT | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png" tvg-id="Soccer.Dummy.us" group-title="Liga de Expansión MX",[Liga de Expansión MX] Alebrijes de Oaxaca vs Correcaminos UAT | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2mx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=espn2mx&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=espn2mx
-https://eWVz.fubo18.com:443/espn2mx/mono.m3u8?token=5f672a64892d9d536fb2b03380d5435d915c268a-8a-1791507394-1791489394
+https://c2f2zq.fubo18.com:443/espn2mx/mono.m3u8?token=53054ba7c13d3998f5eb567e05f19343ef99d64b-a3-1791523584-1791505584
 
 #EXTINF:-1 tvg-name="[Liga BetPlay] Fortaleza CEIF vs Millonarios | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Liga BetPlay",[Liga BetPlay] Fortaleza CEIF vs Millonarios | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=winplus&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=winplus
-https://YXdlc29tZQ.fubo18.com:443/winplus/mono.m3u8?token=17a9e20f86e554c9f3d581f1b5a16b2983cc0338-73-1791507394-1791489394
+https://c2f2zq.fubo18.com:443/winplus/mono.m3u8?token=1d9b120229a320577509e0461883dbae9654d368-7f-1791523584-1791505584
+
+#EXTINF:-1 tvg-name="[Primera División] Inter San Carlos vs Pérez Zeledón | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="Primera División",[Primera División] Inter San Carlos vs Pérez Zeledón | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=futv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=futv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=futv
+https://Ym9yZQ.fubo18.com:443/futv/mono.m3u8?token=79b6f3d6747c1e39728d2b861e79d9b92e7a5df0-c3-1791523585-1791505585
 
 #EXTINF:-1 tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Los Angeles Lakers vs Sacramento Kings | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://la18hd.su/vivo/canales.php?stream=espn3&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://la18hd.su/vivo/canales.php?stream=espn3
-https://bgvnzw5k.fubo18.com:443/espn3/mono.m3u8?token=b864497b769e431badebf02e44ed9d06a4b1c490-7e-1791507394-1791489394
+https://bmf0aw9u.fubo18.com:443/espn3/mono.m3u8?token=1eaebfa80119287046faf78cd4c12eadd3079afc-bd-1791523585-1791505585
+
+#EXTINF:-1 tvg-name="[NBA] Boston Celtics vs Cleveland Cavaliers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_boston-celtics-vs-cleveland-cavaliers_Boston_Celtics_vs_Cleveland_Ca" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Boston Celtics vs Cleveland Cavaliers (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/boston-celtics-vs-cleveland-cavaliers1080p3/index.m3u8?_e=1791535284&_n=225cc0e53bb2b275&_t=gLSBe9cL_eLsOViYmw3Q4A
+
+#EXTINF:-1 tvg-name="[NBA] New Orleans Pelicans vs Miami Heat (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_new-orleans-pelicans-vs-miami-heat_New_Orleans_Pelicans_vs_Miami_" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] New Orleans Pelicans vs Miami Heat (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/new-orleans-pelicans-vs-miami-heat1080p3/index.m3u8?_e=1791535284&_n=ade7612719345250&_t=HN4lkf_7GtRHH8raYhIZjg
+
+#EXTINF:-1 tvg-name="[NBA] Philadelphia 76ers vs Brooklyn Nets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_philadelphia-76ers-vs-brooklyn-nets_Philadelphia_76ers_vs_Brooklyn" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Philadelphia 76ers vs Brooklyn Nets (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/philadelphia-76ers-vs-brooklyn-nets1080p3/index.m3u8?_e=1791535285&_n=886ccf5daf4f215b&_t=-ptpKZmQO9vkzbvtl13gBA
+
+#EXTINF:-1 tvg-name="[NBA] Washington Wizards vs New York Knicks (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_washington-wizards-vs-new-york-knicks_Washington_Wizards_vs_New_York" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Washington Wizards vs New York Knicks (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/washington-wizards-vs-new-york-knicks1080p3/index.m3u8?_e=1791535285&_n=79fd211d26f660c4&_t=_RQ6crg2DfHQPxVlvFnw1w
+
+#EXTINF:-1 tvg-name="[NBA] Atlanta Hawks vs San Antonio Spurs (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_atlanta-hawks-vs-san-antonio-spurs_Atlanta_Hawks_vs_San_Antonio_S" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Atlanta Hawks vs San Antonio Spurs (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/atlanta-hawks-vs-san-antonio-spurs1080p3/index.m3u8?_e=1791535285&_n=08bef7d03b19e335&_t=PZL_cySDamUdfcQnZMtHZQ
+
+#EXTINF:-1 tvg-name="[NHL] Philadelphia Flyers vs Ottawa Senators (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_philadelphia-flyers-vs-ottawa-senators_Philadelphia_Flyers_vs_Ottawa_" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Philadelphia Flyers vs Ottawa Senators (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/philadelphia-flyers-vs-ottawa-senators1080p3/index.m3u8?_e=1791535286&_n=21778cef7036f9e1&_t=0W4VDGCEkeA5VtHnOORiCw
+
+#EXTINF:-1 tvg-name="[NHL] Utah Mammoth vs Boston Bruins (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_utah-mammoth-vs-boston-bruins_Utah_Mammoth_vs_Boston_Bruins" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Utah Mammoth vs Boston Bruins (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/utah-mammoth-vs-boston-bruins1080p3/index.m3u8?_e=1791535286&_n=91dbd57fd5de178d&_t=C9wawyT8stuAacfs2X-_cg
+
+#EXTINF:-1 tvg-name="[NHL] Dallas Stars vs Buffalo Sabres (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_dallas-stars-vs-buffalo-sabres_Dallas_Stars_vs_Buffalo_Sabres" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Dallas Stars vs Buffalo Sabres (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/dallas-stars-vs-buffalo-sabres1080p3/index.m3u8?_e=1791535287&_n=511bb70a9efd5c5c&_t=ovUdYHNVDq7XQEvWUY6BLA
+
+#EXTINF:-1 tvg-name="[NHL] Nashville Predators vs Montreal Canadiens (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_nashville-predators-vs-montreal-canadiens_Nashville_Predators_vs_Montrea" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Nashville Predators vs Montreal Canadiens (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/nashville-predators-vs-montreal-canadiens1080p3/index.m3u8?_e=1791535287&_n=3492b3f9b15fdbd8&_t=0gE_MXHDbpZLJMeVTH7gvQ
+
+#EXTINF:-1 tvg-name="[NHL] Minnesota Wild vs Tampa Bay Lightning (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_minnesota-wild-vs-tampa-bay-lightning_Minnesota_Wild_vs_Tampa_Bay_Li" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Minnesota Wild vs Tampa Bay Lightning (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/minnesota-wild-vs-tampa-bay-lightning1080p3/index.m3u8?_e=1791535288&_n=a581c972e78758e6&_t=K6J1Hu4mx_9T8hEhqc3Uig
+
+#EXTINF:-1 tvg-name="[NHL] Vancouver Canucks vs Carolina Hurricanes (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_vancouver-canucks-vs-carolina-hurricanes_Vancouver_Canucks_vs_Carolina_" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Vancouver Canucks vs Carolina Hurricanes (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/vancouver-canucks-vs-carolina-hurricanes1080p3/index.m3u8?_e=1791535288&_n=b4aa8d67231126c2&_t=Jzah6wU9CADOawEQYvNZKw
+
+#EXTINF:-1 tvg-name="[NHL] Chicago Blackhawks vs New York Islanders (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_chicago-blackhawks-vs-new-york-islanders_Chicago_Blackhawks_vs_New_York" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Chicago Blackhawks vs New York Islanders (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/chicago-blackhawks-vs-new-york-islanders1080p3/index.m3u8?_e=1791535288&_n=4e581a908b3974cd&_t=3DSFbIUhJcc03z1k9hzuaA
+
+#EXTINF:-1 tvg-name="[NHL] San Jose Sharks vs St. Louis Blues (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_san-jose-sharks-vs-st-louis-blues_San_Jose_Sharks_vs_St_Louis_Bl" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] San Jose Sharks vs St. Louis Blues (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/san-jose-sharks-vs-st-louis-blues1080p3/index.m3u8?_e=1791535289&_n=d97742282d99caa6&_t=GYzvLhv6rUdlSV8c5yOi8A
+
+#EXTINF:-1 tvg-name="[MLB] Cleveland Guardians vs Chicago White Sox (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/baseball_cleveland-guardians-vs-chicago-white-sox_Cleveland_Guardians_vs_Chicago" tvg-id="MLB.Baseball.Dummy.us" group-title="MLB",[MLB] Cleveland Guardians vs Chicago White Sox (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/cleveland-guardians-vs-chicago-white-sox1080p3/index.m3u8?_e=1791535289&_n=79bccbdd3416ed38&_t=5AvrZ_C21LQ0xUZupbRPcQ
+
+#EXTINF:-1 tvg-name="[NCAAF] Sam Houston Bearkats vs Liberty Flames (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_sam-houston-bearkats-vs-liberty-flames_Sam_Houston_Bearkats_vs_Libert" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Sam Houston Bearkats vs Liberty Flames (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/sam-houston-bearkats-vs-liberty-flames1080p/index.m3u8?_e=1791535290&_n=85ced49f57474402&_t=ymPg5XkMKYSoGNBE25483g
+
+#EXTINF:-1 tvg-name="[NCAAF] Missouri State Bears vs Western Kentucky Hilltoppers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_missouri-state-bears-vs-western-kentucky-hilltoppers_Missouri_State_Bears_vs_Wester" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Missouri State Bears vs Western Kentucky Hilltoppers (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/missouri-state-bears-vs-western-kentucky-hilltoppers1080p/index.m3u8?_e=1791535290&_n=ec5180a9cdb97501&_t=wJ7dZg7xA-PsGQGVxvGROw
+
+#EXTINF:-1 tvg-name="[NCAAF] South Florida Bulls vs UTSA Roadrunners (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_south-florida-bulls-vs-utsa-roadrunners_South_Florida_Bulls_vs_UTSA_Ro" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] South Florida Bulls vs UTSA Roadrunners (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/south-florida-bulls-vs-utsa-roadrunners1080p/index.m3u8?_e=1791535290&_n=023f40ff9ca67c45&_t=ILg9xBO9G4SIaFwb9aw8bg
+
+#EXTINF:-1 tvg-name="[NCAAF] South Alabama Jaguars vs Arkansas State Red Wolves (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_south-alabama-jaguars-vs-arkansas-state-red-wolves_South_Alabama_Jaguars_vs_Arkan" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] South Alabama Jaguars vs Arkansas State Red Wolves (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/south-alabama-jaguars-vs-arkansas-state-red-wolves1080p/index.m3u8?_e=1791535291&_n=708af52eeb2dd50c&_t=6Nd0Zwjwj-eLHYlpjuyPwQ
 
 #EXTINF:-1 tvg-name="[NFL] NFL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] NFL Network (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl-network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=nfl-network&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://ondemand.st/embed/?id=nfl-network
-https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=fj1sp8AZrvv66itC-ycJmw&e=1791533492
+https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=rj3DfAXHyqATLHKRPYB-rw&e=1791549682
+
+#EXTINF:-1 tvg-name="[NFL] Tampa Bay Buccaneers at Dallas Cowboys (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/ac750a83dc032b0947fd50846d76bea6-thumbnail.jpg" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Tampa Bay Buccaneers at Dallas Cowboys (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl/2026-10-08/tb-dal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=nfl/2026-10-08/tb-dal&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://ondemand.st/embed/?id=nfl/2026-10-08/tb-dal
+https://messi.damitv.st/live-hls/channel/nfl/2026-10-08/tb-dal/playlist.m3u8?tk=rj3DfAXHyqATLHKRPYB-rw&e=1791549682
 
 #EXTINF:-1 tvg-name="[Golf] Sky Sports Golf (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" tvg-id="Golf.Dummy.us" group-title="Golf",[Golf] Sky Sports Golf (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sky-sports-golf-29059
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=sky-sports-golf-29059&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://ondemand.st/embed/?id=sky-sports-golf-29059
-https://messi.damitv.st/live-hls/channel/sky-sports-golf-29059/playlist.m3u8?tk=fj1sp8AZrvv66itC-ycJmw&e=1791533492
+https://messi.damitv.st/live-hls/channel/sky-sports-golf-29059/playlist.m3u8?tk=rj3DfAXHyqATLHKRPYB-rw&e=1791549682
 
 #EXTINF:-1 tvg-name="[NHL] NHL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] NHL Network (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nhl-network-29780
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=nhl-network-29780&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://ondemand.st/embed/?id=nhl-network-29780
-https://messi.damitv.st/live-hls/channel/nhl-network-29780/playlist.m3u8?tk=fj1sp8AZrvv66itC-ycJmw&e=1791533492
+https://messi.damitv.st/live-hls/channel/nhl-network-29780/playlist.m3u8?tk=rj3DfAXHyqATLHKRPYB-rw&e=1791549682
+
+#EXTINF:-1 tvg-name="[NHL] Colorado Avalanche vs. Calgary Flames (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/378d3a4b8de04b1a6dfbad47948e5802-thumbnail.jpg" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Colorado Avalanche vs. Calgary Flames (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nhl/2026-10-08/col-cgy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=nhl/2026-10-08/col-cgy&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://ondemand.st/embed/?id=nhl/2026-10-08/col-cgy
+https://messi.damitv.st/live-hls/channel/nhl/2026-10-08/col-cgy/playlist.m3u8?tk=rj3DfAXHyqATLHKRPYB-rw&e=1791549682
+
+#EXTINF:-1 tvg-name="[Wrestling] TNA Impact (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" tvg-id="PPV.EVENTS.Dummy.us" group-title="Wrestling",[Wrestling] TNA Impact (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=tna/2026-10-08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=tna/2026-10-08&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://ondemand.st/embed/?id=tna/2026-10-08
+https://messi.damitv.st/live-hls/channel/tna/2026-10-08/playlist.m3u8?tk=fDwKkjrh3QbRX2J5mzK9NQ&e=1791549683
 
 #EXTINF:-1 tvg-name="[Tennis] Tennis Channel (DAMITV)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" tvg-id="Soccer.Dummy.us" group-title="Tennis",[Tennis] Tennis Channel (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~admin-tennis-channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/embed/?id=sd-admin~admin-tennis-channel&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://ondemand.st/embed/?id=sd-admin~admin-tennis-channel
-https://messi.damitv.st/live-sd/streamed/admin/admin-tennis-channel/playlist.m3u8?tk=glBP-1F6cxkASiKwIoRGuQ&e=1791533493
+https://messi.damitv.st/live-sd/streamed/admin/admin-tennis-channel/playlist.m3u8?tk=fDwKkjrh3QbRX2J5mzK9NQ&e=1791549683
+
+#EXTINF:-1 tvg-name="[NFL] Dallas Cowboys vs Tampa Bay Buccaneers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Dallas Cowboys vs Tampa Bay Buccaneers (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57722?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57722?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57722?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57722%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57722%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NHL] St. Louis Blues vs San Jose Sharks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] St. Louis Blues vs San Jose Sharks (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57742?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57742?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57742?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57742%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57742%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[MLB] Chicago White Sox vs Cleveland Guardians (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" tvg-id="MLB.Baseball.Dummy.us" group-title="MLB",[MLB] Chicago White Sox vs Cleveland Guardians (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57743?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57743?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57743?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57743%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57743%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[UFC] UFC BJJ 12: Moura vs Fornarino (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="UFC",[UFC] UFC BJJ 12: Moura vs Fornarino (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57734?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57734?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57734?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57734%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57734%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NBA Preseason] San Antonio Spurs vs Atlanta Hawks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Preseason",[NBA Preseason] San Antonio Spurs vs Atlanta Hawks (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57744?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57744?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57744?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57744%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57744%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[CFB] UTSA vs South Florida (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" tvg-id="NCAA.Sports.Dummy.us" group-title="CFB",[CFB] UTSA vs South Florida (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57739?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57739?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57739?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57739%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57739%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[CFB] Arkansas State vs South Alabama (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" tvg-id="NCAA.Sports.Dummy.us" group-title="CFB",[CFB] Arkansas State vs South Alabama (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57737?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57737?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57737?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57737%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57737%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NBA Preseason] Brooklyn Nets vs Philadelphia 76ers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Preseason",[NBA Preseason] Brooklyn Nets vs Philadelphia 76ers (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57741?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57741?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57741?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57741%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57741%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NHL] New York Islanders vs Chicago Blackhawks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] New York Islanders vs Chicago Blackhawks (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57738?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57738?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57738?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57738%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57738%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NBA Preseason] Miami Heat vs New Orleans Pelicans (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Preseason",[NBA Preseason] Miami Heat vs New Orleans Pelicans (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57736?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57736?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57736?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57736%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57736%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NBA Preseason] New York Knicks vs Washington Wizards (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Preseason",[NBA Preseason] New York Knicks vs Washington Wizards (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57740?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57740?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57740?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57740%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57740%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NHL] Boston Bruins vs Utah Mammoth (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Boston Bruins vs Utah Mammoth (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57733?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57733?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57733?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57733%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57733%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NBA Preseason] Cleveland Cavaliers vs Boston Celtics (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Preseason",[NBA Preseason] Cleveland Cavaliers vs Boston Celtics (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57725?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57725?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57725?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57725%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57725%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NHL] Montréal Canadiens vs Nashville Predators (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Montréal Canadiens vs Nashville Predators (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57724?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57724?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57724?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57724%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57724%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NHL] Buffalo Sabres vs Dallas Stars (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Buffalo Sabres vs Dallas Stars (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57727?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57727?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57727?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57727%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57727%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NHL] Carolina Hurricanes vs Vancouver Canucks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Carolina Hurricanes vs Vancouver Canucks (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57728?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57728?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57728?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57728%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57728%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NHL] Ottawa Senators vs Philadelphia Flyers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Ottawa Senators vs Philadelphia Flyers (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57730?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57730?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57730?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57730%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57730%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[NHL] Tampa Bay Lightning vs Minnesota Wild (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Tampa Bay Lightning vs Minnesota Wild (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57726?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57726?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57726?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57726%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57726%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[CFB] Liberty Flames vs Sam Houston State (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" tvg-id="NCAA.Sports.Dummy.us" group-title="CFB",[CFB] Liberty Flames vs Sam Houston State (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57731?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57731?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57731?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57731%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57731%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[CFB] Western Kentucky vs Missouri State (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" tvg-id="NCAA.Sports.Dummy.us" group-title="CFB",[CFB] Western Kentucky vs Missouri State (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57729?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57729?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57729?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57729%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57729%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[Boxing] Osleys Iglesias vs Oliver Zaren (iSTRMEAST)" tvg-logo="" tvg-id="PPV.EVENTS.Dummy.us" group-title="Boxing",[Boxing] Osleys Iglesias vs Oliver Zaren (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57719?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/57719?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/57719?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F57719%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F57719%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
 #EXTINF:-1 tvg-name="[Football] UFC 332 (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Football",[Football] UFC 332 (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/ufc-332/
