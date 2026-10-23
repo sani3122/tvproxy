@@ -1,15 +1,220 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-10-23 13:14 UTC
-# streams  : 4
+# generated: 2026-10-23 18:42 UTC
+# streams  : 36
 
-#EXTINF:-1 tvg-name="Al-Faisaly vs Al Nassr | 20:30 | 23/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Saudi Pro League",Al-Faisaly vs Al Nassr | 20:30 | 23/10/2026 [Wildgames]
-#EXTVLCOPT:http-referrer=https://matchora.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://matchora.to
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchora.to/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchora.to
-#EXTHTTP:Referer: https://matchora.to/|Origin: https://matchora.to
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fe.veziha.cyou%2Fhls%2F1898976%2Findex.m3u8%3Ft%3DMTg5ODk3NnwxNzkyNzYwMjc3fHx8fGQ2OWMxOTdi.AieeNABZlBwb_RVpqyGn9qAtDM3BsqIIUN18vJFJelQ&ref=https%3A%2F%2Fmatchora.to%2F&origin=https%3A%2F%2Fmatchora.to&ua=Mozilla%2F5.0%20%28X11%3B%20Ubuntu%3B%20Linux%20x86_64%3B%20rv%3A156.0%29%20Gecko%2F20100101%20Firefox%2F156.0
+#EXTINF:-1 tvg-name="Alanyaspor vs Kocaelispor | LIVE | 24/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Turkish Süper Lig",Alanyaspor vs Kocaelispor | LIVE | 24/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=c39a7e658e9c50b484d2e841aebb3181%2Findex.m3u8&e=1792779454&sig=iamjeeVOqbM4DLW-nMXJHwMEdzHBV318UUktLAX6qis&v=1792777654-2611
+
+#EXTINF:-1 tvg-name="Alanyaspor vs Kocaelispor | LIVE | 24/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="Turkish Süper Lig",Alanyaspor vs Kocaelispor | LIVE | 24/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=c39a7e658e9c50b484d2e841aebb3181%2Findex.m3u8&e=1792779466&sig=kpXCCn2aQk8CRDb4jwVZPF_OvrWjfCgqFMnSBqrMuOg
+
+#EXTINF:-1 tvg-name="Go Ahead Eagles vs Telstar | 01:00 | 24/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Eredivisie",Go Ahead Eagles vs Telstar | 01:00 | 24/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=a08663a4fc28ff247dda5e18cd4c7d89%2Findex.m3u8&e=1792779515&sig=g4E91Q47v0_uTqz-8n1TfBFtLLMcNperGQF0NV_no3E&v=1792777715-3638
+
+#EXTINF:-1 tvg-name="Go Ahead Eagles vs Telstar | 01:00 | 24/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Eredivisie",Go Ahead Eagles vs Telstar | 01:00 | 24/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=a08663a4fc28ff247dda5e18cd4c7d89%2Findex.m3u8&e=1792779551&sig=NZQJtWed8lvMKyTmFu4WIc6FUbvcXWfTrtUSCXEQr8U&v=1792777751-3476
+
+#EXTINF:-1 tvg-name="VfB Stuttgart vs Borussia Mönchengladbach | 01:30 | 24/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",VfB Stuttgart vs Borussia Mönchengladbach | 01:30 | 24/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1792779718&sig=VpcPsLqTVcyb1LXSUImZZN7dQ3uMRaGQUIZY9xnOwwU&v=1792777918-1396
+
+#EXTINF:-1 tvg-name="VfB Stuttgart vs Borussia Mönchengladbach | 01:30 | 24/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",VfB Stuttgart vs Borussia Mönchengladbach | 01:30 | 24/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1792779912&sig=r_w-MLbHQ_hPJIoc96DjtFRK-rCtJB4pk7gjOfdv4_Q&v=1792778112-8035
+
+#EXTINF:-1 tvg-name="VfB Stuttgart vs Borussia Mönchengladbach | 01:30 | 24/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",VfB Stuttgart vs Borussia Mönchengladbach | 01:30 | 24/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1792779957&sig=M3ZH36RazlCv5tM0MR4amYmqxjufvXGxecTOTEEL8Kw
+
+#EXTINF:-1 tvg-name="Torino vs Monza | 01:45 | 24/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Serie A",Torino vs Monza | 01:45 | 24/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=d7bb70bbe1dafb9cbec7469b899bee63%2Findex.m3u8&e=1792780093&sig=UV_HR3rP8pi2ns93fwxo-KT8gUqEQKRr0aOc5gyiDmA&v=1792778293-5694
+
+#EXTINF:-1 tvg-name="Torino vs Monza | 01:45 | 24/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Serie A",Torino vs Monza | 01:45 | 24/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=d7bb70bbe1dafb9cbec7469b899bee63%2Findex.m3u8&e=1792780255&sig=MdI9GYGKY-3eeezQCHMVlQUY84o3HCU0uivIeWCDodc&v=1792778455-1826
+
+#EXTINF:-1 tvg-name="Torino vs Monza | 01:45 | 24/10/2026 [Odyssney]" tvg-logo="" tvg-id="Live.Event.us" group-title="Serie A",Torino vs Monza | 01:45 | 24/10/2026 [Odyssney]
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://frame.egybest.fit
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6ImNZOWxFdW5NNi9nUU9aS3AyMzByMlE9PSIsInZhbHVlIjoiNUZwaHZBQUtOYlRCK0t4dUU4S1B1aHg1bjBXT0UvSW1neEE4N0hFMnN4ODhoa2h6bS8yR0EzU3E2MDlwdVNwYzBQcnhTeW1Idzl5Y3ljcXlHbk55UmpFQWZnS1pENmZqUHhLV1NlNVROSy9PU3oySkRUenZCYytpQlQvYnR2NHIiLCJtYWMiOiJiMDM0Mzg0OTA1Mzg1OTM3NGE1NzczOTgwZGNkYjIzMzU4OTdkNWUwODIwN2UzZWM1N2JiNmMwZDU3NzkwYmFkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ii9xYTlxQVRGMWZ0eU42aUYwMXo2S1E9PSIsInZhbHVlIjoiOThIb2pCMkUySEZTQUhweHc5cWlyZXJHc1FvaEZRUzhCMWF3N1FnZ3VZRC85eHVZejRzL0xhUWE4cnBoQlNzdFJ6eFNrM1dvR0hPQ1VzRzJQUmI0OHBmbjRKbGt1V2FKdTNqREMzcHVSM1g5aysyVi9IaWZnVU9NUkpxaHVKOVUiLCJtYWMiOiI0MzAxNTNlMWJhNDM0ZmI5OGY2OTllNDI1ZTNlMjQ4MjlmYzE4NjBjNDJkYmU4ZGNlOGE4ZmU1ODEyYTlmNzgyIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://frame.egybest.fit/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://frame.egybest.fit&Cookie=XSRF-TOKEN=eyJpdiI6ImNZOWxFdW5NNi9nUU9aS3AyMzByMlE9PSIsInZhbHVlIjoiNUZwaHZBQUtOYlRCK0t4dUU4S1B1aHg1bjBXT0UvSW1neEE4N0hFMnN4ODhoa2h6bS8yR0EzU3E2MDlwdVNwYzBQcnhTeW1Idzl5Y3ljcXlHbk55UmpFQWZnS1pENmZqUHhLV1NlNVROSy9PU3oySkRUenZCYytpQlQvYnR2NHIiLCJtYWMiOiJiMDM0Mzg0OTA1Mzg1OTM3NGE1NzczOTgwZGNkYjIzMzU4OTdkNWUwODIwN2UzZWM1N2JiNmMwZDU3NzkwYmFkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ii9xYTlxQVRGMWZ0eU42aUYwMXo2S1E9PSIsInZhbHVlIjoiOThIb2pCMkUySEZTQUhweHc5cWlyZXJHc1FvaEZRUzhCMWF3N1FnZ3VZRC85eHVZejRzL0xhUWE4cnBoQlNzdFJ6eFNrM1dvR0hPQ1VzRzJQUmI0OHBmbjRKbGt1V2FKdTNqREMzcHVSM1g5aysyVi9IaWZnVU9NUkpxaHVKOVUiLCJtYWMiOiI0MzAxNTNlMWJhNDM0ZmI5OGY2OTllNDI1ZTNlMjQ4MjlmYzE4NjBjNDJkYmU4ZGNlOGE4ZmU1ODEyYTlmNzgyIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://frame.egybest.fit/|Origin: https://frame.egybest.fit|Cookie: XSRF-TOKEN=eyJpdiI6ImNZOWxFdW5NNi9nUU9aS3AyMzByMlE9PSIsInZhbHVlIjoiNUZwaHZBQUtOYlRCK0t4dUU4S1B1aHg1bjBXT0UvSW1neEE4N0hFMnN4ODhoa2h6bS8yR0EzU3E2MDlwdVNwYzBQcnhTeW1Idzl5Y3ljcXlHbk55UmpFQWZnS1pENmZqUHhLV1NlNVROSy9PU3oySkRUenZCYytpQlQvYnR2NHIiLCJtYWMiOiJiMDM0Mzg0OTA1Mzg1OTM3NGE1NzczOTgwZGNkYjIzMzU4OTdkNWUwODIwN2UzZWM1N2JiNmMwZDU3NzkwYmFkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ii9xYTlxQVRGMWZ0eU42aUYwMXo2S1E9PSIsInZhbHVlIjoiOThIb2pCMkUySEZTQUhweHc5cWlyZXJHc1FvaEZRUzhCMWF3N1FnZ3VZRC85eHVZejRzL0xhUWE4cnBoQlNzdFJ6eFNrM1dvR0hPQ1VzRzJQUmI0OHBmbjRKbGt1V2FKdTNqREMzcHVSM1g5aysyVi9IaWZnVU9NUkpxaHVKOVUiLCJtYWMiOiI0MzAxNTNlMWJhNDM0ZmI5OGY2OTllNDI1ZTNlMjQ4MjlmYzE4NjBjNDJkYmU4ZGNlOGE4ZmU1ODEyYTlmNzgyIiwidGFnIjoiIn0%3D
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fhls.dptv.info%2Flive%2Fespn-401874957%2Findex.m3u8&ref=https%3A%2F%2Fframe.egybest.fit%2F&origin=https%3A%2F%2Fframe.egybest.fit&cookie=XSRF-TOKEN%3DeyJpdiI6ImNZOWxFdW5NNi9nUU9aS3AyMzByMlE9PSIsInZhbHVlIjoiNUZwaHZBQUtOYlRCK0t4dUU4S1B1aHg1bjBXT0UvSW1neEE4N0hFMnN4ODhoa2h6bS8yR0EzU3E2MDlwdVNwYzBQcnhTeW1Idzl5Y3ljcXlHbk55UmpFQWZnS1pENmZqUHhLV1NlNVROSy9PU3oySkRUenZCYytpQlQvYnR2NHIiLCJtYWMiOiJiMDM0Mzg0OTA1Mzg1OTM3NGE1NzczOTgwZGNkYjIzMzU4OTdkNWUwODIwN2UzZWM1N2JiNmMwZDU3NzkwYmFkIiwidGFnIjoiIn0%253D%3B%20laravel_session%3DeyJpdiI6Ii9xYTlxQVRGMWZ0eU42aUYwMXo2S1E9PSIsInZhbHVlIjoiOThIb2pCMkUySEZTQUhweHc5cWlyZXJHc1FvaEZRUzhCMWF3N1FnZ3VZRC85eHVZejRzL0xhUWE4cnBoQlNzdFJ6eFNrM1dvR0hPQ1VzRzJQUmI0OHBmbjRKbGt1V2FKdTNqREMzcHVSM1g5aysyVi9IaWZnVU9NUkpxaHVKOVUiLCJtYWMiOiI0MzAxNTNlMWJhNDM0ZmI5OGY2OTllNDI1ZTNlMjQ4MjlmYzE4NjBjNDJkYmU4ZGNlOGE4ZmU1ODEyYTlmNzgyIiwidGFnIjoiIn0%253D&ua=Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%3B%20rv%3A156.0%29%20Gecko%2F20100101%20Firefox%2F156.0
+
+#EXTINF:-1 tvg-name="Torino vs Monza | 01:45 | 24/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="Serie A",Torino vs Monza | 01:45 | 24/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=d7bb70bbe1dafb9cbec7469b899bee63%2Findex.m3u8&e=1792780279&sig=FYr8lZVVjdWhfGI7rzBHrYkTHAQENvVFefaw5HCx20k
+
+#EXTINF:-1 tvg-name="Brest vs Nice | 01:45 | 24/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Brest vs Nice | 01:45 | 24/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1792780447&sig=p3QKZ3LQzbOgkvRKWsjIG5Hy-O48SqpstT6SSgSZdSI&v=1792778647-9025
+
+#EXTINF:-1 tvg-name="Brest vs Nice | 01:45 | 24/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Brest vs Nice | 01:45 | 24/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1792780609&sig=lEcoRpzvvGEG7dwA8flwkWDsSHViCgXnzxNo5FHQj8M&v=1792778809-7655
+
+#EXTINF:-1 tvg-name="Brest vs Nice | 01:45 | 24/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Brest vs Nice | 01:45 | 24/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1792780653&sig=j9-uK5vkyeTrPo7DgVB-gzihjvU6XeZ0lIkHy5p12ZQ
+
+#EXTINF:-1 tvg-name="KV Kortrijk vs KV Mechelen | 01:45 | 24/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Belgian Pro League",KV Kortrijk vs KV Mechelen | 01:45 | 24/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=c43f93e25cb602599a2ba9a5ed372394%2Findex.m3u8&e=1792780810&sig=zEtckWt_A7CBcw6f7z2m0n-CF_iuVFge39TxOuPA_sA&v=1792779010-8316
+
+#EXTINF:-1 tvg-name="Ipswich Town vs Nottingham Forest | 02:00 | 24/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Premier League",Ipswich Town vs Nottingham Forest | 02:00 | 24/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=01dcaf29f853f0ca15226bbdb28b5e82%2Findex.m3u8&e=1792780879&sig=PDw0gtqgyC1qvucosVQGZHetSgWzMr_m4N8hc34TeIk&v=1792779079-2312
+
+#EXTINF:-1 tvg-name="Ipswich Town vs Nottingham Forest | 02:00 | 24/10/2026 [Odyssney]" tvg-logo="" tvg-id="Live.Event.us" group-title="Premier League",Ipswich Town vs Nottingham Forest | 02:00 | 24/10/2026 [Odyssney]
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://frame.egybest.fit
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6IkprZzRxOVptV0J5ZjdBOE5SaWJhbUE9PSIsInZhbHVlIjoib1I3dzgzS2p5U0xQWWN2WmgycEdieFptQWVESUhmMEJSOEZJWTZnZ0UzZ0hER2wvblIvQW9wRWEvQ2VJYTg1K2cvcEhxV3VMR1NwbzRId1NHdE4xMVplSWZyaHJsdVQrUmxoVG5VbGxHS3RkYnlodHhNS2JjVmFUanRjdjBBUE0iLCJtYWMiOiJjYmU2ZDdmOTQ0YWUwNTU0NzliM2JhZWYxNGJmMTRlNzJiYzNmZWI0OTgxMzE3MTA4YmIyMzgxZGEyY2RlYWIzIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IjBSQzBXSnhZcU9ub0wvaTRJSUZ5TXc9PSIsInZhbHVlIjoiazQ1Wm5iczg2d2tsc1RiRkxocHFWcHhsK3p2bGJzM3daeXRjNVc5YUVhRE5aL0s3SUJoQmNkYitMeTd3NVNVekwxOExyOVdqOWsvbTZ3b3RITjArR3pRWGJlRXdqdGhtYjNEamhhYXF3Sm1ycEhyOEF6QjUzNU04RGlVRXNFN0IiLCJtYWMiOiI3MmQ0MTBjMDAxMDM2M2U0Mzc5MzZkNmQwODNjN2QyNjQ3MTFiMGYwN2YwNGFkMDM5MmVlZWMzMWQwMzZjYjE3IiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://frame.egybest.fit/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://frame.egybest.fit&Cookie=XSRF-TOKEN=eyJpdiI6IkprZzRxOVptV0J5ZjdBOE5SaWJhbUE9PSIsInZhbHVlIjoib1I3dzgzS2p5U0xQWWN2WmgycEdieFptQWVESUhmMEJSOEZJWTZnZ0UzZ0hER2wvblIvQW9wRWEvQ2VJYTg1K2cvcEhxV3VMR1NwbzRId1NHdE4xMVplSWZyaHJsdVQrUmxoVG5VbGxHS3RkYnlodHhNS2JjVmFUanRjdjBBUE0iLCJtYWMiOiJjYmU2ZDdmOTQ0YWUwNTU0NzliM2JhZWYxNGJmMTRlNzJiYzNmZWI0OTgxMzE3MTA4YmIyMzgxZGEyY2RlYWIzIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IjBSQzBXSnhZcU9ub0wvaTRJSUZ5TXc9PSIsInZhbHVlIjoiazQ1Wm5iczg2d2tsc1RiRkxocHFWcHhsK3p2bGJzM3daeXRjNVc5YUVhRE5aL0s3SUJoQmNkYitMeTd3NVNVekwxOExyOVdqOWsvbTZ3b3RITjArR3pRWGJlRXdqdGhtYjNEamhhYXF3Sm1ycEhyOEF6QjUzNU04RGlVRXNFN0IiLCJtYWMiOiI3MmQ0MTBjMDAxMDM2M2U0Mzc5MzZkNmQwODNjN2QyNjQ3MTFiMGYwN2YwNGFkMDM5MmVlZWMzMWQwMzZjYjE3IiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://frame.egybest.fit/|Origin: https://frame.egybest.fit|Cookie: XSRF-TOKEN=eyJpdiI6IkprZzRxOVptV0J5ZjdBOE5SaWJhbUE9PSIsInZhbHVlIjoib1I3dzgzS2p5U0xQWWN2WmgycEdieFptQWVESUhmMEJSOEZJWTZnZ0UzZ0hER2wvblIvQW9wRWEvQ2VJYTg1K2cvcEhxV3VMR1NwbzRId1NHdE4xMVplSWZyaHJsdVQrUmxoVG5VbGxHS3RkYnlodHhNS2JjVmFUanRjdjBBUE0iLCJtYWMiOiJjYmU2ZDdmOTQ0YWUwNTU0NzliM2JhZWYxNGJmMTRlNzJiYzNmZWI0OTgxMzE3MTA4YmIyMzgxZGEyY2RlYWIzIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IjBSQzBXSnhZcU9ub0wvaTRJSUZ5TXc9PSIsInZhbHVlIjoiazQ1Wm5iczg2d2tsc1RiRkxocHFWcHhsK3p2bGJzM3daeXRjNVc5YUVhRE5aL0s3SUJoQmNkYitMeTd3NVNVekwxOExyOVdqOWsvbTZ3b3RITjArR3pRWGJlRXdqdGhtYjNEamhhYXF3Sm1ycEhyOEF6QjUzNU04RGlVRXNFN0IiLCJtYWMiOiI3MmQ0MTBjMDAxMDM2M2U0Mzc5MzZkNmQwODNjN2QyNjQ3MTFiMGYwN2YwNGFkMDM5MmVlZWMzMWQwMzZjYjE3IiwidGFnIjoiIn0%3D
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fhls.dptv.info%2Flive%2Fespn-401879253%2Findex.m3u8&ref=https%3A%2F%2Fframe.egybest.fit%2F&origin=https%3A%2F%2Fframe.egybest.fit&cookie=XSRF-TOKEN%3DeyJpdiI6IkprZzRxOVptV0J5ZjdBOE5SaWJhbUE9PSIsInZhbHVlIjoib1I3dzgzS2p5U0xQWWN2WmgycEdieFptQWVESUhmMEJSOEZJWTZnZ0UzZ0hER2wvblIvQW9wRWEvQ2VJYTg1K2cvcEhxV3VMR1NwbzRId1NHdE4xMVplSWZyaHJsdVQrUmxoVG5VbGxHS3RkYnlodHhNS2JjVmFUanRjdjBBUE0iLCJtYWMiOiJjYmU2ZDdmOTQ0YWUwNTU0NzliM2JhZWYxNGJmMTRlNzJiYzNmZWI0OTgxMzE3MTA4YmIyMzgxZGEyY2RlYWIzIiwidGFnIjoiIn0%253D%3B%20laravel_session%3DeyJpdiI6IjBSQzBXSnhZcU9ub0wvaTRJSUZ5TXc9PSIsInZhbHVlIjoiazQ1Wm5iczg2d2tsc1RiRkxocHFWcHhsK3p2bGJzM3daeXRjNVc5YUVhRE5aL0s3SUJoQmNkYitMeTd3NVNVekwxOExyOVdqOWsvbTZ3b3RITjArR3pRWGJlRXdqdGhtYjNEamhhYXF3Sm1ycEhyOEF6QjUzNU04RGlVRXNFN0IiLCJtYWMiOiI3MmQ0MTBjMDAxMDM2M2U0Mzc5MzZkNmQwODNjN2QyNjQ3MTFiMGYwN2YwNGFkMDM5MmVlZWMzMWQwMzZjYjE3IiwidGFnIjoiIn0%253D&ua=Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%3B%20rv%3A156.0%29%20Gecko%2F20100101%20Firefox%2F156.0
+
+#EXTINF:-1 tvg-name="Ipswich Town vs Nottingham Forest | 02:00 | 24/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Premier League",Ipswich Town vs Nottingham Forest | 02:00 | 24/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=01dcaf29f853f0ca15226bbdb28b5e82%2Findex.m3u8&e=1792781118&sig=ThM1qcpyeiFUEOERVieRwclv5NECScXLjV-rye0nP-8&v=1792779318-5260
+
+#EXTINF:-1 tvg-name="Alavés vs Málaga | 02:00 | 24/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Alavés vs Málaga | 02:00 | 24/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1792781447&sig=ra08NGZBLQ74uB0u1ja_EOYPXqhP9eG7FeuADphUD7Q&v=1792779647-8088
+
+#EXTINF:-1 tvg-name="Alavés vs Málaga | 02:00 | 24/10/2026 [Odyssney]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Alavés vs Málaga | 02:00 | 24/10/2026 [Odyssney]
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://frame.egybest.fit
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6Ii96R2ZicjU0VlpYc3I1Q3pScjFoVnc9PSIsInZhbHVlIjoibHZUZ0RXeFU3dnVOOENCdDMyVFlNVGZTYmVWcUk5TlVDVE90Rk5CQmd3OVNOY2w2ZTB3dm41WWdxVFd0Z0pSb2VZeU9EREIvY3RSU1Fxa0FmREN2QW94VUltOWE1SEo0Z3Vmd3lCSXhKZWFJN0ErSG96SUJISjRKSFVGQmdKZTAiLCJtYWMiOiIwNTdmMzk4MjUzZGQxNWJiNmU4MjM3ODRlYTBmZjliYWQxMTdlN2E5ZDk1YTFiNTI1ODM0NjUwZjBhOGRmMWI0IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlIvL3hCS2phS09YMWNmNm9UaVJxQUE9PSIsInZhbHVlIjoiclgweWR1OEkzSXVHYzN4SGFad1pzOUU5WFZoTi9lYkhTNWExVERtNWJ0WFZ3eUxhOVNaUFRHanB2UWZSdnJJRDZYK21rbkN5clhwTks0UUhlc0owZUQ2VFJsN0Nod09pWGhiUGJJcSs2b2VTK0RQV291V091QmhpMnR1VEVhdXIiLCJtYWMiOiJhOTQ3YjEwN2IwY2E5ODk0OGI0MTRjNmQ1Njg4ZWY0YzRmODNmY2UwMDU5ZTYwYWQyY2ZjNjgzNWVjZTU1N2VhIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://frame.egybest.fit/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://frame.egybest.fit&Cookie=XSRF-TOKEN=eyJpdiI6Ii96R2ZicjU0VlpYc3I1Q3pScjFoVnc9PSIsInZhbHVlIjoibHZUZ0RXeFU3dnVOOENCdDMyVFlNVGZTYmVWcUk5TlVDVE90Rk5CQmd3OVNOY2w2ZTB3dm41WWdxVFd0Z0pSb2VZeU9EREIvY3RSU1Fxa0FmREN2QW94VUltOWE1SEo0Z3Vmd3lCSXhKZWFJN0ErSG96SUJISjRKSFVGQmdKZTAiLCJtYWMiOiIwNTdmMzk4MjUzZGQxNWJiNmU4MjM3ODRlYTBmZjliYWQxMTdlN2E5ZDk1YTFiNTI1ODM0NjUwZjBhOGRmMWI0IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlIvL3hCS2phS09YMWNmNm9UaVJxQUE9PSIsInZhbHVlIjoiclgweWR1OEkzSXVHYzN4SGFad1pzOUU5WFZoTi9lYkhTNWExVERtNWJ0WFZ3eUxhOVNaUFRHanB2UWZSdnJJRDZYK21rbkN5clhwTks0UUhlc0owZUQ2VFJsN0Nod09pWGhiUGJJcSs2b2VTK0RQV291V091QmhpMnR1VEVhdXIiLCJtYWMiOiJhOTQ3YjEwN2IwY2E5ODk0OGI0MTRjNmQ1Njg4ZWY0YzRmODNmY2UwMDU5ZTYwYWQyY2ZjNjgzNWVjZTU1N2VhIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://frame.egybest.fit/|Origin: https://frame.egybest.fit|Cookie: XSRF-TOKEN=eyJpdiI6Ii96R2ZicjU0VlpYc3I1Q3pScjFoVnc9PSIsInZhbHVlIjoibHZUZ0RXeFU3dnVOOENCdDMyVFlNVGZTYmVWcUk5TlVDVE90Rk5CQmd3OVNOY2w2ZTB3dm41WWdxVFd0Z0pSb2VZeU9EREIvY3RSU1Fxa0FmREN2QW94VUltOWE1SEo0Z3Vmd3lCSXhKZWFJN0ErSG96SUJISjRKSFVGQmdKZTAiLCJtYWMiOiIwNTdmMzk4MjUzZGQxNWJiNmU4MjM3ODRlYTBmZjliYWQxMTdlN2E5ZDk1YTFiNTI1ODM0NjUwZjBhOGRmMWI0IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlIvL3hCS2phS09YMWNmNm9UaVJxQUE9PSIsInZhbHVlIjoiclgweWR1OEkzSXVHYzN4SGFad1pzOUU5WFZoTi9lYkhTNWExVERtNWJ0WFZ3eUxhOVNaUFRHanB2UWZSdnJJRDZYK21rbkN5clhwTks0UUhlc0owZUQ2VFJsN0Nod09pWGhiUGJJcSs2b2VTK0RQV291V091QmhpMnR1VEVhdXIiLCJtYWMiOiJhOTQ3YjEwN2IwY2E5ODk0OGI0MTRjNmQ1Njg4ZWY0YzRmODNmY2UwMDU5ZTYwYWQyY2ZjNjgzNWVjZTU1N2VhIiwidGFnIjoiIn0%3D
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fhls.dptv.info%2Flive%2Fespn-401882836%2Findex.m3u8&ref=https%3A%2F%2Fframe.egybest.fit%2F&origin=https%3A%2F%2Fframe.egybest.fit&cookie=XSRF-TOKEN%3DeyJpdiI6Ii96R2ZicjU0VlpYc3I1Q3pScjFoVnc9PSIsInZhbHVlIjoibHZUZ0RXeFU3dnVOOENCdDMyVFlNVGZTYmVWcUk5TlVDVE90Rk5CQmd3OVNOY2w2ZTB3dm41WWdxVFd0Z0pSb2VZeU9EREIvY3RSU1Fxa0FmREN2QW94VUltOWE1SEo0Z3Vmd3lCSXhKZWFJN0ErSG96SUJISjRKSFVGQmdKZTAiLCJtYWMiOiIwNTdmMzk4MjUzZGQxNWJiNmU4MjM3ODRlYTBmZjliYWQxMTdlN2E5ZDk1YTFiNTI1ODM0NjUwZjBhOGRmMWI0IiwidGFnIjoiIn0%253D%3B%20laravel_session%3DeyJpdiI6IlIvL3hCS2phS09YMWNmNm9UaVJxQUE9PSIsInZhbHVlIjoiclgweWR1OEkzSXVHYzN4SGFad1pzOUU5WFZoTi9lYkhTNWExVERtNWJ0WFZ3eUxhOVNaUFRHanB2UWZSdnJJRDZYK21rbkN5clhwTks0UUhlc0owZUQ2VFJsN0Nod09pWGhiUGJJcSs2b2VTK0RQV291V091QmhpMnR1VEVhdXIiLCJtYWMiOiJhOTQ3YjEwN2IwY2E5ODk0OGI0MTRjNmQ1Njg4ZWY0YzRmODNmY2UwMDU5ZTYwYWQyY2ZjNjgzNWVjZTU1N2VhIiwidGFnIjoiIn0%253D&ua=Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%3B%20rv%3A156.0%29%20Gecko%2F20100101%20Firefox%2F156.0
+
+#EXTINF:-1 tvg-name="Alavés vs Málaga | 02:00 | 24/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Alavés vs Málaga | 02:00 | 24/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1792781503&sig=L-mLlQEbBbedkTKOWYL1CxNRtnbD--6owvkbSobVHVs
+
+#EXTINF:-1 tvg-name="[Bundesliga] Borussia Mönchengladbach vs VfB Stuttgart | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" tvg-id="Soccer.Dummy.us" group-title="Bundesliga",[Bundesliga] Borussia Mönchengladbach vs VfB Stuttgart | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401884761
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401884761&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401884761
+https://instreams.xyz/live3/tv401884761/index.m3u8?st=qG8UjKXhyJNi5MzPbVPMgg&e=1792791695
+
+#EXTINF:-1 tvg-name="[Serie A] Monza vs Torino | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Serie A",[Serie A] Monza vs Torino | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401874957
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401874957&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401874957
+https://instreams.pro/live3/tv401874957/index.m3u8?st=VEtBZe4MMZPKSEXZosf49Q&e=1792791701
+
+#EXTINF:-1 tvg-name="[Ligue 1] Nice vs Brest | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Ligue 1",[Ligue 1] Nice vs Brest | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401876428
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401876428&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401876428
+https://instreams.xyz/live3/tv401876428/index.m3u8?st=XTrw6oJS5XeUep5HNqT9vw&e=1792791703
+
+#EXTINF:-1 tvg-name="[Premier League] Nottingham Forest vs Ipswich Town | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Premier League",[Premier League] Nottingham Forest vs Ipswich Town | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401879253
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401879253&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401879253
+https://instreams.pro/live3/tv401879253/index.m3u8?st=gPIPN0Ea4rpZGElFHfleUA&e=1792791707
+
+#EXTINF:-1 tvg-name="[La Liga] Málaga vs Alavés | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="La Liga",[La Liga] Málaga vs Alavés | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401882836
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401882836&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401882836
+https://instreams.live/live3/tv401882836/index.m3u8?st=72R9TkjSlpPUOgdvWlTCWw&e=1792791709
+
+#EXTINF:-1 tvg-name="[Saudi Pro League] Al-Qadsiah vs Al-Hilal (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Saudi Pro League",[Saudi Pro League] Al-Qadsiah vs Al-Hilal (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58441?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58441?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58441?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58441%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58441%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
 #EXTINF:-1 tvg-name="[Formula 1] Formula 1 2026 - USA GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" tvg-id="Racing.Dummy.us" group-title="Formula 1",[Formula 1] Formula 1 2026 - USA GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58439?ad=111
@@ -24,6 +229,48 @@ https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisma
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://streame.center
 https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2FJHDAJBDnjdna30.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[Football] VfB Stuttgart vs. Borussia Mönchengladbach | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Football",[Football] VfB Stuttgart vs. Borussia Mönchengladbach | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streame.center
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fueyeztrazb4.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[Football] Brest vs. Nice | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Football",[Football] Brest vs. Nice | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streame.center
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fdza5z8f69.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[Football] Torino vs. Monza | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Football",[Football] Torino vs. Monza | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streame.center
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2FsyaLqucEne4k.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[Football] Ipswich Town vs. Nottingham Forest | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Football",[Football] Ipswich Town vs. Nottingham Forest | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streame.center
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2F24SDAZFcsqnj24.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[Football] Alavés vs. Málaga | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Football",[Football] Alavés vs. Málaga | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streame.center
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2F377qj1h2727.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[Basketball] Chicago Bulls vs. Milwaukee Bucks | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" tvg-id="Basketball.Dummy.us" group-title="Basketball",[Basketball] Chicago Bulls vs. Milwaukee Bucks | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streame.center
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fedgestream2.pro%2Fhls%2Fmlkijfezag65.m3u8&ref=https%3A%2F%2Fstreame.center&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
 #EXTINF:-1 tvg-name="[Racing] MSC Cruises United States Grand Prix — FP1 | English (STRMCNTR)" tvg-logo="" tvg-id="Racing.Dummy.us" group-title="Racing",[Racing] MSC Cruises United States Grand Prix — FP1 | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
