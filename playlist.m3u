@@ -1,119 +1,15 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-10-26 01:38 UTC
-# streams  : 17
+# generated: 2026-10-26 07:41 UTC
+# streams  : 2
 
-#EXTINF:-1 tvg-name="[NBA] Toronto Raptors vs Minnesota Timberwolves (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_toronto-raptors-vs-minnesota-timberwolves_Toronto_Raptors_vs_Minnesota_T" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Toronto Raptors vs Minnesota Timberwolves (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/toronto-raptors-vs-minnesota-timberwolves1080p3/index.m3u8?_e=1793007458&_n=bf75eed4d7d994b8&_t=Hq5J5yf-xwB6BgVgL4l0XQ
-
-#EXTINF:-1 tvg-name="[NBA] LA Clippers vs Oklahoma City Thunder (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_la-clippers-vs-oklahoma-city-thunder_LA_Clippers_vs_Oklahoma_City_T" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] LA Clippers vs Oklahoma City Thunder (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/la-clippers-vs-oklahoma-city-thunder1080p3/index.m3u8?_e=1793007458&_n=cff5ed173dfe3581&_t=jjvpAEFc-6_eYX305Fg4Yg
-
-#EXTINF:-1 tvg-name="[NBA] Detroit Pistons vs Philadelphia 76ers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_detroit-pistons-vs-philadelphia-76ers_Detroit_Pistons_vs_Philadelphi" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Detroit Pistons vs Philadelphia 76ers (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/detroit-pistons-vs-philadelphia-76ers1080p3/index.m3u8?_e=1793007459&_n=edc2db01198130dd&_t=PiqNFYKf9e-KUr3LWShg6Q
-
-#EXTINF:-1 tvg-name="[NBA] Memphis Grizzlies vs Sacramento Kings (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_memphis-grizzlies-vs-sacramento-kings_Memphis_Grizzlies_vs_Sacrament" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Memphis Grizzlies vs Sacramento Kings (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/memphis-grizzlies-vs-sacramento-kings1080p3/index.m3u8?_e=1793007459&_n=9f3c0ee8ef6fc60d&_t=QkqoKLSbxYp1zaJBT3rkBA
-
-#EXTINF:-1 tvg-name="[NHL] Montreal Canadiens vs Winnipeg Jets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_montreal-canadiens-vs-winnipeg-jets_Montreal_Canadiens_vs_Winnipeg" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Montreal Canadiens vs Winnipeg Jets (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/montreal-canadiens-vs-winnipeg-jets1080p3/index.m3u8?_e=1793007461&_n=a089edb5007efbd9&_t=20UQO5HVRgBWB2-6N4KjDg
-
-#EXTINF:-1 tvg-name="[NHL] Colorado Avalanche vs Nashville Predators (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_colorado-avalanche-vs-nashville-predators_Colorado_Avalanche_vs_Nashvill" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Colorado Avalanche vs Nashville Predators (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/colorado-avalanche-vs-nashville-predators1080p3/index.m3u8?_e=1793007461&_n=43597dae38c56010&_t=t2LVc-AJEQyULGHel1uUBQ
-
-#EXTINF:-1 tvg-name="[NFL] Kansas City Chiefs vs Seattle Seahawks (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_kansas-city-chiefs-vs-seattle-seahawks_Kansas_City_Chiefs_vs_Seattle_" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Kansas City Chiefs vs Seattle Seahawks (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/kansas-city-chiefs-vs-seattle-seahawks1080p/index.m3u8?_e=1793007462&_n=243b120bb41e3863&_t=_XS6q7_CBLMwDtYwEvO4Qw
-
-#EXTINF:-1 tvg-name="[MLS] LA Galaxy vs LAFC | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="MLS",[MLS] LA Galaxy vs LAFC | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv761904
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv761904&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv761904
-https://instreams.pro/live3/tv761904/index.m3u8?st=CJ-Dm-spUB9etaLWGNv8tw&e=1792989465
-
-#EXTINF:-1 tvg-name="[NFL] Seattle Seahawks vs Kansas City Chiefs (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Seattle Seahawks vs Kansas City Chiefs (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58664?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58664?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58664?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58664%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58664%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[NBA] Sacramento Kings vs Memphis Grizzlies (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Sacramento Kings vs Memphis Grizzlies (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58694?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58694?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58694?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58694%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58694%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[MLS] Los Angeles FC vs LA Galaxy (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="MLS",[MLS] Los Angeles FC vs LA Galaxy (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58692?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58692?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58692?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58692%2Fload-playlist-multi&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58692%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[NHL] Nashville Predators vs Colorado Avalanche (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Nashville Predators vs Colorado Avalanche (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58689?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58689?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58689?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58689%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58689%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[NBA] Philadelphia 76ers vs Detroit Pistons (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Philadelphia 76ers vs Detroit Pistons (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58690?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58690?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58690?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58690%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58690%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[NBA] Minnesota Timberwolves vs Toronto Raptors (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Minnesota Timberwolves vs Toronto Raptors (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58683?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58683?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58683?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58683%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58683%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[NBA] New York Knicks vs Orlando Magic (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] New York Knicks vs Orlando Magic (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58686?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58686?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58686?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58686%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58686%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-name="[NHL] Winnipeg Jets vs Montréal Canadiens (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Winnipeg Jets vs Montréal Canadiens (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58684?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58684?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58684?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58684%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58684%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-name="Sevilla vs Osasuna | 03:00 | 27/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Sevilla vs Osasuna | 03:00 | 27/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1793002007&sig=tvmIScLSC0yvaKEFPNsG0nPKqjUobWpMwIbme4CjuGE&v=1793000207-5958
 
 #EXTINF:-1 tvg-name="[Nascar Cup Series] Nascar Cup Series 2026 - Yellawood 500 (iSTRMEAST)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/NASCAR-Logo.png" tvg-id="Racing.Dummy.us" group-title="Nascar Cup Series",[Nascar Cup Series] Nascar Cup Series 2026 - Yellawood 500 (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58654?ad=111
