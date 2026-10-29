@@ -1,122 +1,157 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-10-29 17:17 UTC
-# streams  : 14
+# generated: 2026-10-29 21:58 UTC
+# streams  : 20
 
-#EXTINF:-1 tvg-name="Al Khaleej vs Al Hazem |  [Watchsports] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Saudi Pro League",Al Khaleej vs Al Hazem |  [Watchsports] #2
-#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
-#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6IjFMMzIrSGdvdDcrdjZDVkhlWFBoeXc9PSIsInZhbHVlIjoibC9CR01nQjZwMUpLT1hMOUVYdE1wMWZVdGZjTEI1MEtBYVUwcjMrU2tiMXU2R0llTzlNMHd6Szg5UnZzb3RkK2hTRUd4VFpTR0tsTVJBbXArQ3FFeTNFcmJiV3o4TG9XRnp1TkRpMmtNS1lnSkdlQTZtZ1NYdEpxa0pqNlVPVXgiLCJtYWMiOiIyZTBmM2VhMDdiZTM1YzQ1ZWUzNjEwNGNhYWFjMDljYWNmZWI0MTk5ODMzN2Y2NjJlNDZmZWMxOTdiMzQwMjU2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IllsYXJ5MEZDMmtmcDRvWTg4azFYSnc9PSIsInZhbHVlIjoid2pDdjFjYjBDSC9pUU9DTGpjNjF6Vy9QWU5rVisyc3ppdTJOc1RBYldsbkNpYjJBVmZVLzh6UnlPVmluRVVjbkN2azFKeWU1dkJnMFo2aUdPSEhWVmdqdXVsYW54TlU3NWxCR1BVT2VRRzVEdGtkT0FMLzBwK0h3WisvaDJZdnIiLCJtYWMiOiJiMmM5OWZkZDc2ZDdhZjYwMjZlYjE1OTgyMDE5ZDZmMWI3YzJjZDJiNmMyYjdkYzM4ZDIwZGVmMzRhYjA5MmJlIiwidGFnIjoiIn0%3D
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6IjFMMzIrSGdvdDcrdjZDVkhlWFBoeXc9PSIsInZhbHVlIjoibC9CR01nQjZwMUpLT1hMOUVYdE1wMWZVdGZjTEI1MEtBYVUwcjMrU2tiMXU2R0llTzlNMHd6Szg5UnZzb3RkK2hTRUd4VFpTR0tsTVJBbXArQ3FFeTNFcmJiV3o4TG9XRnp1TkRpMmtNS1lnSkdlQTZtZ1NYdEpxa0pqNlVPVXgiLCJtYWMiOiIyZTBmM2VhMDdiZTM1YzQ1ZWUzNjEwNGNhYWFjMDljYWNmZWI0MTk5ODMzN2Y2NjJlNDZmZWMxOTdiMzQwMjU2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IllsYXJ5MEZDMmtmcDRvWTg4azFYSnc9PSIsInZhbHVlIjoid2pDdjFjYjBDSC9pUU9DTGpjNjF6Vy9QWU5rVisyc3ppdTJOc1RBYldsbkNpYjJBVmZVLzh6UnlPVmluRVVjbkN2azFKeWU1dkJnMFo2aUdPSEhWVmdqdXVsYW54TlU3NWxCR1BVT2VRRzVEdGtkT0FMLzBwK0h3WisvaDJZdnIiLCJtYWMiOiJiMmM5OWZkZDc2ZDdhZjYwMjZlYjE1OTgyMDE5ZDZmMWI3YzJjZDJiNmMyYjdkYzM4ZDIwZGVmMzRhYjA5MmJlIiwidGFnIjoiIn0%3D
-#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6IjFMMzIrSGdvdDcrdjZDVkhlWFBoeXc9PSIsInZhbHVlIjoibC9CR01nQjZwMUpLT1hMOUVYdE1wMWZVdGZjTEI1MEtBYVUwcjMrU2tiMXU2R0llTzlNMHd6Szg5UnZzb3RkK2hTRUd4VFpTR0tsTVJBbXArQ3FFeTNFcmJiV3o4TG9XRnp1TkRpMmtNS1lnSkdlQTZtZ1NYdEpxa0pqNlVPVXgiLCJtYWMiOiIyZTBmM2VhMDdiZTM1YzQ1ZWUzNjEwNGNhYWFjMDljYWNmZWI0MTk5ODMzN2Y2NjJlNDZmZWMxOTdiMzQwMjU2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IllsYXJ5MEZDMmtmcDRvWTg4azFYSnc9PSIsInZhbHVlIjoid2pDdjFjYjBDSC9pUU9DTGpjNjF6Vy9QWU5rVisyc3ppdTJOc1RBYldsbkNpYjJBVmZVLzh6UnlPVmluRVVjbkN2azFKeWU1dkJnMFo2aUdPSEhWVmdqdXVsYW54TlU3NWxCR1BVT2VRRzVEdGtkT0FMLzBwK0h3WisvaDJZdnIiLCJtYWMiOiJiMmM5OWZkZDc2ZDdhZjYwMjZlYjE1OTgyMDE5ZDZmMWI3YzJjZDJiNmMyYjdkYzM4ZDIwZGVmMzRhYjA5MmJlIiwidGFnIjoiIn0%3D
-https://streamed.streamgate.link/2yZM2rOjvp/es30/index.m3u8
+#EXTINF:-1 tvg-name="AE Prat vs Athletic Club | LIVE | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",AE Prat vs Athletic Club | LIVE | 30/10/2026 [Wildgames]
+#EXTVLCOPT:http-referrer=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net
+#EXTVLCOPT:http-cookie=hf1=1; GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net&Cookie=hf1=1; GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D
+#EXTHTTP:Referer: https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/|Origin: https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net|Cookie: hf1=1; GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D
+https://1w4o2c.7m12bgo8dx9z.net:8443/hls/acgg75tlvrxeh.m3u8?s=cE2o8MTH--VG4YyvyqU6jg&e=1793331551
 
-#EXTINF:-1 tvg-name="Frosinone vs Lecce | 00:30 | 30/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Serie A",Frosinone vs Lecce | 00:30 | 30/10/2026 [Shd247]
+#EXTINF:-1 tvg-name="Auriense Cented Academy vs Deportivo | LIVE | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",Auriense Cented Academy vs Deportivo | LIVE | 30/10/2026 [Wildgames]
+#EXTVLCOPT:http-referrer=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net
+#EXTVLCOPT:http-cookie=GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net&Cookie=GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+#EXTHTTP:Referer: https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/|Origin: https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net|Cookie: GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+https://1w4o2c.7m12bgo8dx9z.net:8443/hls/xzwwj6kynfkx5.m3u8?s=JAFeqA1MQgNBkeJZwYU9uA&e=1793331590
+
+#EXTINF:-1 tvg-name="Ribadesella vs Racing Santander | LIVE | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",Ribadesella vs Racing Santander | LIVE | 30/10/2026 [Wildgames]
+#EXTVLCOPT:http-referrer=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net
+#EXTVLCOPT:http-cookie=GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net&Cookie=GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+#EXTHTTP:Referer: https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/|Origin: https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net|Cookie: GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+https://1w4o2c.7m12bgo8dx9z.net:8443/hls/z700mrpx530rp.m3u8?s=l6NvlP0q-6FincShRWuUuQ&e=1793331627
+
+#EXTINF:-1 tvg-name="Sporting Hortaleza vs Sevilla | LIVE | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",Sporting Hortaleza vs Sevilla | LIVE | 30/10/2026 [Wildgames]
+#EXTVLCOPT:http-referrer=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net
+#EXTVLCOPT:http-cookie=GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net&Cookie=GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+#EXTHTTP:Referer: https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net/|Origin: https://0fd73961c599a6b8b1b77785d6c71cd2.dynmeadow.net|Cookie: GL_UI4=eJw9jUtugzAUAE0AQz8gPYkD9AiENjRZdtMbdI2e8XPq1NiRbWh6%2B1pddDcjjTSMsV3XQLbxBvIVD%2FA0K3VC8YLHYUSlCOV4Oj4PSvSvsh9wkHCnwxRRGIoF1GFBH6e4FVAKj1Y2UC5OkmmgEt59B%2FJdDoXFhaB6156Uu6UCL85Dvj%2BMibVNnPWwc6HL2xr4h1htXNt7ztpHzuDhajAq55dJy6Tl2aMkyN6gnjHS2fkfqCSFr%2BiuAM7I6b%2F%2Fu5ZG2%2FUGXNKm56QufpL%2FBQuCRHo%3D; hf1=1
+https://1w4o2c.7m12bgo8dx9z.net:8443/hls/nessgjp115wr8.m3u8?s=o6StHqZ-cbV2LV6EESSN2g&e=1793331664
+
+#EXTINF:-1 tvg-name="Fiorentina vs Atalanta | LIVE | 30/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Serie A",Fiorentina vs Atalanta | LIVE | 30/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=d7bb70bbe1dafb9cbec7469b899bee63%2Findex.m3u8&e=1793311919&sig=ccOHw3QpWcR6q-er68TUcKHWPYzYWq8whvit9_PfeqY
+
+#EXTINF:-1 tvg-name="Fiorentina vs Atalanta | LIVE | 30/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Serie A",Fiorentina vs Atalanta | LIVE | 30/10/2026 [Shd247]
 #EXTVLCOPT:http-referrer=https://xstream.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=session_id=2639493327028974
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=2639493327028974
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=2639493327028974
-https://instreams.xyz/live3/streamhd22/index.m3u8?st=9C2pbmn65o-s0qyiMVEWZg&e=1793303407
+#EXTVLCOPT:http-cookie=session_id=3122717726268870
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=3122717726268870
+#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=3122717726268870
+https://instreams.xyz/live3/streamhd22/index.m3u8?st=DZyNWF61gUPKMV9bo0rIuw&e=1793321259
 
-#EXTINF:-1 tvg-name="Al Nassr vs Al Kholood | 01:00 | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Saudi Pro League",Al Nassr vs Al Kholood | 01:00 | 30/10/2026 [Wildgames]
-#EXTVLCOPT:http-referrer=https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net
-#EXTVLCOPT:http-cookie=hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net&Cookie=hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-#EXTHTTP:Referer: https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net/|Origin: https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net|Cookie: hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-https://4n841w.awqb0f40a9yo.net:8443/hls/cd88is8arjavh.m3u8?s=h720yMgGCg61FEJwNXCatw&e=1793314302
-
-#EXTINF:-1 tvg-name="UB Lebrijana vs Getafe | 01:00 | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",UB Lebrijana vs Getafe | 01:00 | 30/10/2026 [Wildgames]
-#EXTVLCOPT:http-referrer=https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net
-#EXTVLCOPT:http-cookie=GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net&Cookie=GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-#EXTHTTP:Referer: https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net/|Origin: https://f7cfce015d598e041495b5ea86e519c2.dynmeadow.net|Cookie: GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-https://4n841w.awqb0f40a9yo.net:8443/hls/z700mrpx530rp.m3u8?s=6kgGicJUIL2yZE8-9y0EWA&e=1793314546
-
-#EXTINF:-1 tvg-name="Fiorentina vs Atalanta | 02:45 | 30/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Serie A",Fiorentina vs Atalanta | 02:45 | 30/10/2026 [Shd247]
+#EXTINF:-1 tvg-name="Everton vs Newcastle United |  [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="English Carabao Cup",Everton vs Newcastle United |  [Shd247]
 #EXTVLCOPT:http-referrer=https://xstream.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=session_id=9720913185531074
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=9720913185531074
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=9720913185531074
-https://instreams.xyz/live3/streamhd22/index.m3u8?st=UK0X_nuUtwTkJLrwlS_-dg&e=1793304287
+#EXTVLCOPT:http-cookie=session_id=1120675600796771
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=1120675600796771
+#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=1120675600796771
+https://gate4.st/live3/streamhd21/index.m3u8?st=N4mOT2zDzpQkI30f1_UXBw&e=1793321631
 
-#EXTINF:-1 tvg-name="Everton vs Newcastle United | 02:45 | 30/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="English Carabao Cup",Everton vs Newcastle United | 02:45 | 30/10/2026 [Shd247]
-#EXTVLCOPT:http-referrer=https://xstream.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=session_id=6475302520235941
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=6475302520235941
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=6475302520235941
-https://instreams.pro/live3/streamhd21/index.m3u8?st=RVJ94IKRwl82JGfGuLFycg&e=1793304667
-
-#EXTINF:-1 tvg-name="AE Prat vs Athletic Club | 03:00 | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",AE Prat vs Athletic Club | 03:00 | 30/10/2026 [Wildgames]
-#EXTVLCOPT:http-referrer=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net
-#EXTVLCOPT:http-cookie=GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net&Cookie=GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-#EXTHTTP:Referer: https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/|Origin: https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net|Cookie: GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-https://4n841w.awqb0f40a9yo.net:8443/hls/acgg75tlvrxeh.m3u8?s=CH3QkJUwVMaCbI7_0ho1yA&e=1793315540
-
-#EXTINF:-1 tvg-name="Auriense Cented Academy vs Deportivo | 03:00 | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",Auriense Cented Academy vs Deportivo | 03:00 | 30/10/2026 [Wildgames]
-#EXTVLCOPT:http-referrer=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net
-#EXTVLCOPT:http-cookie=hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net&Cookie=hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-#EXTHTTP:Referer: https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/|Origin: https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net|Cookie: hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-https://4n841w.awqb0f40a9yo.net:8443/hls/xzwwj6kynfkx5.m3u8?s=xkfhUxegIx1kSPt708JHkw&e=1793315577
-
-#EXTINF:-1 tvg-name="Ribadesella vs Racing Santander | 03:00 | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",Ribadesella vs Racing Santander | 03:00 | 30/10/2026 [Wildgames]
-#EXTVLCOPT:http-referrer=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net
-#EXTVLCOPT:http-cookie=GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net&Cookie=GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-#EXTHTTP:Referer: https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/|Origin: https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net|Cookie: GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D; hf1=1
-https://4n841w.awqb0f40a9yo.net:8443/hls/z700mrpx530rp.m3u8?s=GaXAYMORVbzW0jY0AA-_Xg&e=1793315614
-
-#EXTINF:-1 tvg-name="Sporting Hortaleza vs Sevilla | 03:00 | 30/10/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="Copa del Rey",Sporting Hortaleza vs Sevilla | 03:00 | 30/10/2026 [Wildgames]
-#EXTVLCOPT:http-referrer=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net
-#EXTVLCOPT:http-cookie=hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net&Cookie=hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-#EXTHTTP:Referer: https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net/|Origin: https://90f877a10b7cdfcf486e023c0920771a.dynmeadow.net|Cookie: hf1=1; GL_UI4=eJw9jctOwzAQRZ3mySORRsoH8AkJ4DRdsmHFP0R2PSkGJ1ON3VD%2BHsOC3TnS0b1CiF1bQ7IVNaQXJeFhf9Dj%2FoCoH5%2BM6YYR9Wz6QXZjj1qO8hlurJ%2BC0g5DBpVfFIcpbBnkmtVqasgXMuhqKDXTl0duU8hWtSCUr5Zxpmss1AcxpL0cIts1ctLBjnybNhXkb3a9XJvbQjT3hYC7s1NhJl4ma6LmJ1YGIXmB6qgCnoi%2FoTToPwOdAciZ6b%2F%2FO83d7xoUBjd7jErhHfkHANxDKw%3D%3D
-https://4n841w.awqb0f40a9yo.net:8443/hls/nessgjp115wr8.m3u8?s=gLN_mkr0CDjjx2grOsJP7w&e=1793315651
-
-#EXTINF:-1 tvg-name="[WNBA] Golden State Valkyries vs Atlanta Dream (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_golden-state-valkyries-vs-atlanta-dream_Golden_State_Valkyries_vs_Atla" tvg-id="NBA.Basketball.Dummy.us" group-title="WNBA",[WNBA] Golden State Valkyries vs Atlanta Dream (STRMFREE)
+#EXTINF:-1 tvg-name="[Serie A] Atalanta vs Fiorentina (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_atalanta-vs-fiorentina_Atalanta_vs_Fiorentina" tvg-id="Soccer.Dummy.us" group-title="Serie A",[Serie A] Atalanta vs Fiorentina (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/golden-state-valkyries-vs-atlanta-dream1080p2/index.m3u8?_e=1793323036&_n=53146f6b95a4dd0d&_t=GVZ-qRHgaARVLyhQQStoBA
+https://streamfree.top/live-origin/atalanta-vs-fiorentina1080p/index.m3u8?_e=1793339883&_n=832629eabdae57e9&_t=ftBPjHSmULmJoFfyrXvYzw
 
-#EXTINF:-1 tvg-name="[Serie A] Lecce vs Frosinone | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Serie A",[Serie A] Lecce vs Frosinone | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401874976
+#EXTINF:-1 tvg-name="[Copa del Rey] Athletic Club vs AE Prat (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_athletic-club-vs-ae-prat_Athletic_Club_vs_AE_Prat" tvg-id="Soccer.Dummy.us" group-title="Copa del Rey",[Copa del Rey] Athletic Club vs AE Prat (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401874976&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401874976
-https://instreams.pro/live3/tv401874976/index.m3u8?st=j3hQngk0oxXDWEJLqqT8Rg&e=1793305045
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/athletic-club-vs-ae-prat1080p/index.m3u8?_e=1793339883&_n=31fa96c1d889e1b0&_t=MVckhH83l6VatwDwtrWa4A
 
-#EXTINF:-1 tvg-name="[UEFA WCHAMPIONS] Juventus vs Austria Vienna | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA WCHAMPIONS",[UEFA WCHAMPIONS] Juventus vs Austria Vienna | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401916995
+#EXTINF:-1 tvg-name="[Copa del Rey] Deportivo vs Auriense Cented Academy (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_deportivo-vs-auriense-cented-academy_Deportivo_vs_Auriense_Cented_A" tvg-id="Soccer.Dummy.us" group-title="Copa del Rey",[Copa del Rey] Deportivo vs Auriense Cented Academy (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401916995&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401916995
-https://instreams.pro/live3/tv401916995/index.m3u8?st=9XA_Fc6AFu8RvhSSN042Hg&e=1793305047
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/deportivo-vs-auriense-cented-academy1080p/index.m3u8?_e=1793339883&_n=cae338574f913f79&_t=q-wv41ACPveIvPcC6qxRjg
 
-#EXTINF:-1 tvg-name="[WNBA] Atlanta Dream vs Golden State Valkyries (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" tvg-id="NBA.Basketball.Dummy.us" group-title="WNBA",[WNBA] Atlanta Dream vs Golden State Valkyries (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58837?ad=111
+#EXTINF:-1 tvg-name="[Copa del Rey] Racing Santander vs Ribadesella (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_racing-santander-vs-ribadesella_Racing_Santander_vs_Ribadesell" tvg-id="Soccer.Dummy.us" group-title="Copa del Rey",[Copa del Rey] Racing Santander vs Ribadesella (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58837?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58837?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58837%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58837%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/racing-santander-vs-ribadesella1080p/index.m3u8?_e=1793339884&_n=5d3be9d3c47deb6d&_t=1cecUmDwDdHE7cAISZKR6A
+
+#EXTINF:-1 tvg-name="[Copa del Rey] Sevilla vs Sporting Hortaleza (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_sevilla-vs-sporting-hortaleza_Sevilla_vs_Sporting_Hortaleza" tvg-id="Soccer.Dummy.us" group-title="Copa del Rey",[Copa del Rey] Sevilla vs Sporting Hortaleza (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/sevilla-vs-sporting-hortaleza1080p/index.m3u8?_e=1793339884&_n=59a459ea3e958251&_t=YyObJYhmsnfS5OMR3yOlCw
+
+#EXTINF:-1 tvg-name="[Serie A] Atalanta vs Fiorentina | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Serie A",[Serie A] Atalanta vs Fiorentina | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401874969
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401874969&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401874969
+https://instreams.pro/live3/tv401874969/index.m3u8?st=d-ecdRP3fdszElDF-6AAfQ&e=1793321902
+
+#EXTINF:-1 tvg-name="[ENG LEAGUE CUP] Newcastle United vs Everton | English (STRMGATE)" tvg-logo="https://files.catbox.moe/85fh3s.png" tvg-id="Soccer.Dummy.us" group-title="ENG LEAGUE CUP",[ENG LEAGUE CUP] Newcastle United vs Everton | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401921844
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401921844&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401921844
+https://instreams.pro/live3/tv401921844/index.m3u8?st=pksiOJ5mUd7x8QSn2sD3uw&e=1793321903
+
+#EXTINF:-1 tvg-name="[ESP COPA DEL REY] Athletic Club vs AE Prat | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/80.png" tvg-id="Soccer.Dummy.us" group-title="ESP COPA DEL REY",[ESP COPA DEL REY] Athletic Club vs AE Prat | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928513
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401928513&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401928513
+https://instreams.live/live3/tv401928513/index.m3u8?st=TudcEQQqpFGZ1_qJ4c_ODw&e=1793321904
+
+#EXTINF:-1 tvg-name="[ESP COPA DEL REY] Deportivo vs Auriense Cented Academy | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/80.png" tvg-id="Soccer.Dummy.us" group-title="ESP COPA DEL REY",[ESP COPA DEL REY] Deportivo vs Auriense Cented Academy | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928507
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401928507&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401928507
+https://instreams.pro/live3/tv401928507/index.m3u8?st=1pg8hX9uW7pckxncufkhIQ&e=1793321905
+
+#EXTINF:-1 tvg-name="[ESP COPA DEL REY] Racing Santander vs Ribadesella | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/80.png" tvg-id="Soccer.Dummy.us" group-title="ESP COPA DEL REY",[ESP COPA DEL REY] Racing Santander vs Ribadesella | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928489
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401928489&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401928489
+https://gate4.st/live3/tv401928489/index.m3u8?st=0r9TiZuNIeog80s8RjlMoQ&e=1793321905
+
+#EXTINF:-1 tvg-name="[ESP COPA DEL REY] Sevilla vs Sporting Hortaleza | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/80.png" tvg-id="Soccer.Dummy.us" group-title="ESP COPA DEL REY",[ESP COPA DEL REY] Sevilla vs Sporting Hortaleza | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401928552
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401928552&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401928552
+https://instreams.xyz/live3/tv401928552/index.m3u8?st=MxJrFjWpjDMrDA_qawHbtQ&e=1793321906
+
+#EXTINF:-1 tvg-name="[UEFA WCHAMPIONS] Barcelona vs HB Køge | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA WCHAMPIONS",[UEFA WCHAMPIONS] Barcelona vs HB Køge | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401916993
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401916993&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401916993
+https://instreams.pro/live3/tv401916993/index.m3u8?st=YzWIY89eM-5g61zI3yhToA&e=1793321907
+
+#EXTINF:-1 tvg-name="[UEFA WCHAMPIONS] Paris Saint-Germain vs Manchester City | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/40.png&w=500&h=500" tvg-id="Soccer.Dummy.us" group-title="UEFA WCHAMPIONS",[UEFA WCHAMPIONS] Paris Saint-Germain vs Manchester City | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401916992
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401916992&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401916992
+https://instreams.pro/live3/tv401916992/index.m3u8?st=lBWIsqXOSVvrfE67PT1xeg&e=1793321908
