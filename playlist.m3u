@@ -1,20 +1,54 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-10-30 08:35 UTC
-# streams  : 2
+# generated: 2026-10-30 15:47 UTC
+# streams  : 6
 
-#EXTINF:-1 tvg-name="SV Elversberg vs Mainz | 02:30 | 31/10/2026 [Bally-sports]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",SV Elversberg vs Mainz | 02:30 | 31/10/2026 [Bally-sports]
-#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTINF:-1 tvg-name="Al Diriyah vs Neom SC | LIVE | 30/10/2026 [Odyssney] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Saudi Pro League",Al Diriyah vs Neom SC | LIVE | 30/10/2026 [Odyssney] #2
+#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://matchli.st
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
-#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
-https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1793350442&sig=nmQKS6MrI5cMNSl588J1qFZguQGH4JVmTwfwCH5Ln50&v=1793348642-6943
+#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6InZySExxWk9QL2JaQ3N1VzU1TEZFSkE9PSIsInZhbHVlIjoiUzcrcVN6NWV2S2UrSE5Mek12Um1wTmpRZ0k4ZUI4MlF6THZVd0NpT3Vna045aCt2MGU4UVJkZmR4NEMwUmxlSmJsdmhJWXF1eWxuSGRxb3Q0Q2ZSbmg3TjFxR3o0WWtUZlJDdGFkT1JkL0Rqb28yT25TQzNDZnlxd2tHUExVdFoiLCJtYWMiOiJmNjRmMWE4MmMwY2M2ZDk2NjgzZWRlMTQ4MjUwNDc0ODM4MjYxMzNhOGFlMWQ2OTFiZWRmNDA5MWVlYTQ0MzA5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InVab2EybktUZ2pZb1g4ZHkrUU5RZkE9PSIsInZhbHVlIjoiNU9kQXdmMHVuT3NwU1orb2hnK1UvdzhXUGp1Q3IzOUYrMmRib0VUTGZteU91eFM1R0JvRTFlWDB0dkhiS21NS3dtQ3dJcXhJN2dqS05VQ09Od2lmdGpjSkd6cHU4dW5WYlZtNThPZlR3UUFmTTFoaHJxYVNhVlVjZzE0Rncwa2ciLCJtYWMiOiI4MzNlNzRhZTAwMmY3MzU4YTFlOTQwN2Y3YWM2ODkzYjhhY2Q2NzQ5YmNkYTg4MTIwZmFkYjQ4NDU2Yjg4ZmYwIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6InZySExxWk9QL2JaQ3N1VzU1TEZFSkE9PSIsInZhbHVlIjoiUzcrcVN6NWV2S2UrSE5Mek12Um1wTmpRZ0k4ZUI4MlF6THZVd0NpT3Vna045aCt2MGU4UVJkZmR4NEMwUmxlSmJsdmhJWXF1eWxuSGRxb3Q0Q2ZSbmg3TjFxR3o0WWtUZlJDdGFkT1JkL0Rqb28yT25TQzNDZnlxd2tHUExVdFoiLCJtYWMiOiJmNjRmMWE4MmMwY2M2ZDk2NjgzZWRlMTQ4MjUwNDc0ODM4MjYxMzNhOGFlMWQ2OTFiZWRmNDA5MWVlYTQ0MzA5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InVab2EybktUZ2pZb1g4ZHkrUU5RZkE9PSIsInZhbHVlIjoiNU9kQXdmMHVuT3NwU1orb2hnK1UvdzhXUGp1Q3IzOUYrMmRib0VUTGZteU91eFM1R0JvRTFlWDB0dkhiS21NS3dtQ3dJcXhJN2dqS05VQ09Od2lmdGpjSkd6cHU4dW5WYlZtNThPZlR3UUFmTTFoaHJxYVNhVlVjZzE0Rncwa2ciLCJtYWMiOiI4MzNlNzRhZTAwMmY3MzU4YTFlOTQwN2Y3YWM2ODkzYjhhY2Q2NzQ5YmNkYTg4MTIwZmFkYjQ4NDU2Yjg4ZmYwIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6InZySExxWk9QL2JaQ3N1VzU1TEZFSkE9PSIsInZhbHVlIjoiUzcrcVN6NWV2S2UrSE5Mek12Um1wTmpRZ0k4ZUI4MlF6THZVd0NpT3Vna045aCt2MGU4UVJkZmR4NEMwUmxlSmJsdmhJWXF1eWxuSGRxb3Q0Q2ZSbmg3TjFxR3o0WWtUZlJDdGFkT1JkL0Rqb28yT25TQzNDZnlxd2tHUExVdFoiLCJtYWMiOiJmNjRmMWE4MmMwY2M2ZDk2NjgzZWRlMTQ4MjUwNDc0ODM4MjYxMzNhOGFlMWQ2OTFiZWRmNDA5MWVlYTQ0MzA5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InVab2EybktUZ2pZb1g4ZHkrUU5RZkE9PSIsInZhbHVlIjoiNU9kQXdmMHVuT3NwU1orb2hnK1UvdzhXUGp1Q3IzOUYrMmRib0VUTGZteU91eFM1R0JvRTFlWDB0dkhiS21NS3dtQ3dJcXhJN2dqS05VQ09Od2lmdGpjSkd6cHU4dW5WYlZtNThPZlR3UUFmTTFoaHJxYVNhVlVjZzE0Rncwa2ciLCJtYWMiOiI4MzNlNzRhZTAwMmY3MzU4YTFlOTQwN2Y3YWM2ODkzYjhhY2Q2NzQ5YmNkYTg4MTIwZmFkYjQ4NDU2Yjg4ZmYwIiwidGFnIjoiIn0%3D
+https://streamed.streamgate.link/vp01yK8UOY/es31/index.m3u8
 
-#EXTINF:-1 tvg-name="SV Elversberg vs Mainz | 02:30 | 31/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",SV Elversberg vs Mainz | 02:30 | 31/10/2026 [Powerstream]
-#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTINF:-1 tvg-name="Le Havre AC vs Paris Saint-Germain | 01:00 | 31/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Le Havre AC vs Paris Saint-Germain | 01:00 | 31/10/2026 [Shd247]
+#EXTVLCOPT:http-referrer=https://xstream.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://matchli.st
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
-#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
-https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1793350453&sig=_z6n3gdh3dEHZxTxdFVXF-zKki71WMiRTRpQpgrIOlA&v=1793348653-7810
+#EXTVLCOPT:http-origin=https://xstream.st
+#EXTVLCOPT:http-cookie=session_id=7619470834270284
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=7619470834270284
+#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=7619470834270284
+https://instreams.xyz/live3/streamhd21/index.m3u8?st=V6kU0MrcM0CieKhskN7kwA&e=1793384328
+
+#EXTINF:-1 tvg-name="Lille vs Lens | 03:05 | 31/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Lille vs Lens | 03:05 | 31/10/2026 [Shd247]
+#EXTVLCOPT:http-referrer=https://xstream.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://xstream.st
+#EXTVLCOPT:http-cookie=session_id=2838937256847405
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=2838937256847405
+#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=2838937256847405
+https://instreams.pro/live3/streamhd21/index.m3u8?st=jlPMiRduTip-LK9k1PLU0g&e=1793385316
+
+#EXTINF:-1 tvg-name="Racing Club vs Aldosivi | 07:15 | 31/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Argentine Primera División",Racing Club vs Aldosivi | 07:15 | 31/10/2026 [Shd247]
+#EXTVLCOPT:http-referrer=https://xstream.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://xstream.st
+#EXTVLCOPT:http-cookie=session_id=6121142912420941
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=6121142912420941
+#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=6121142912420941
+https://instreams.pro/live3/streamhd30/index.m3u8?st=koOIuDkri8gp35mdm5n34w&e=1793385653
+
+#EXTINF:-1 tvg-name="[OFC] ONE Friday Fights 176: Khunsuk vs YodUdon (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="OFC",[OFC] ONE Friday Fights 176: Khunsuk vs YodUdon (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58874?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58874?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58874?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58874%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58874%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-name="[Formula 1] Formula 1 2026 - Mexico GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" tvg-id="Racing.Dummy.us" group-title="Formula 1",[Formula 1] Formula 1 2026 - Mexico GP (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58842?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58842?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58842?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58842%2Fload-playlist-multi&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58842%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
