@@ -1,50 +1,368 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-10-30 15:47 UTC
-# streams  : 6
+# generated: 2026-10-30 20:52 UTC
+# streams  : 47
 
-#EXTINF:-1 tvg-name="Al Diriyah vs Neom SC | LIVE | 30/10/2026 [Odyssney] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Saudi Pro League",Al Diriyah vs Neom SC | LIVE | 30/10/2026 [Odyssney] #2
+#EXTINF:-1 tvg-name="Villarreal vs Espanyol | LIVE | 31/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Villarreal vs Espanyol | LIVE | 31/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#EXTVLCOPT:http-cookie=__cf_bm=p4MdvHH2akkGsP98w3O_QMQBiRSDG0TJ9zXZjw4SB78-1793390464.7533717-1.0.1.1-_gvJOmRAnmNkCQ5hLJTgCkez92b.BB0sBDcMCbMhZ2vo0Ly6d0MfqfMvWYISH.VucwkZXyJOiXPfzRT5y3E5G44QHnz063hJe9gMicIX90CViEZRUBMXan.vQjDYHx0E; co_2194c21a99d8ddf2a1c535daddd1a0bc_223=1; co_ca9043dc3e036015b82d36d286571d4f_223=1; co_a1a26edc8a14f0db652794288bf29b74_223=1; __cf_bm=Mhwehm1xiAG_7ZQtG234DijjVfK5pY2neZcAgGDyKuo-1793390464.753642-1.0.1.1-OYEtCenO1lqiVqt1UXWQ673kJNWV0z_mHr9YYg2qrwiQEhan1RT_vbehKS4TDOeoq1D6atzIeAo2cOFeVhiiquESf8ornOG9meBDs_pNDHHaYCu1gYZbRfZ32Cs11SNb
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st&Cookie=__cf_bm=p4MdvHH2akkGsP98w3O_QMQBiRSDG0TJ9zXZjw4SB78-1793390464.7533717-1.0.1.1-_gvJOmRAnmNkCQ5hLJTgCkez92b.BB0sBDcMCbMhZ2vo0Ly6d0MfqfMvWYISH.VucwkZXyJOiXPfzRT5y3E5G44QHnz063hJe9gMicIX90CViEZRUBMXan.vQjDYHx0E; co_2194c21a99d8ddf2a1c535daddd1a0bc_223=1; co_ca9043dc3e036015b82d36d286571d4f_223=1; co_a1a26edc8a14f0db652794288bf29b74_223=1; __cf_bm=Mhwehm1xiAG_7ZQtG234DijjVfK5pY2neZcAgGDyKuo-1793390464.753642-1.0.1.1-OYEtCenO1lqiVqt1UXWQ673kJNWV0z_mHr9YYg2qrwiQEhan1RT_vbehKS4TDOeoq1D6atzIeAo2cOFeVhiiquESf8ornOG9meBDs_pNDHHaYCu1gYZbRfZ32Cs11SNb
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st|Cookie: __cf_bm=p4MdvHH2akkGsP98w3O_QMQBiRSDG0TJ9zXZjw4SB78-1793390464.7533717-1.0.1.1-_gvJOmRAnmNkCQ5hLJTgCkez92b.BB0sBDcMCbMhZ2vo0Ly6d0MfqfMvWYISH.VucwkZXyJOiXPfzRT5y3E5G44QHnz063hJe9gMicIX90CViEZRUBMXan.vQjDYHx0E; co_2194c21a99d8ddf2a1c535daddd1a0bc_223=1; co_ca9043dc3e036015b82d36d286571d4f_223=1; co_a1a26edc8a14f0db652794288bf29b74_223=1; __cf_bm=Mhwehm1xiAG_7ZQtG234DijjVfK5pY2neZcAgGDyKuo-1793390464.753642-1.0.1.1-OYEtCenO1lqiVqt1UXWQ673kJNWV0z_mHr9YYg2qrwiQEhan1RT_vbehKS4TDOeoq1D6atzIeAo2cOFeVhiiquESf8ornOG9meBDs_pNDHHaYCu1gYZbRfZ32Cs11SNb
+https://hls.lshls.st/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1793392267&sig=HyuS5xVFfc2cKK3rkujRBc7D_FTYZHFUb1iJG-GsJX8
+
+#EXTINF:-1 tvg-name="Villarreal vs Espanyol | LIVE | 31/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Villarreal vs Espanyol | LIVE | 31/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1793392529&sig=48QoBKDwBR8upmzRCpCu9nuWgEdtDn9exlcL0bCvjGM&v=1793390729-6600
+
+#EXTINF:-1 tvg-name="Villarreal vs Espanyol | LIVE | 31/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Villarreal vs Espanyol | LIVE | 31/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1793392541&sig=-l-EMs9IExFieGS3nrNCVqm1G8rcSfe4RaVHr2oo7b0
+
+#EXTINF:-1 tvg-name="Villarreal vs Espanyol | LIVE | 31/10/2026 [Bally-sports]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Villarreal vs Espanyol | LIVE | 31/10/2026 [Bally-sports]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=9aba7a810e47b32163183d4d9e92840f%2Findex.m3u8&e=1793392611&sig=28V_ueCFGoZVOaySqtH2nvjqBM8iZI8fziRLvs9KD-c&v=1793390811-4936
+
+#EXTINF:-1 tvg-name="Zulte-Waregem vs Club Brugge | LIVE | 31/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Belgian Pro League",Zulte-Waregem vs Club Brugge | LIVE | 31/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=c43f93e25cb602599a2ba9a5ed372394%2Findex.m3u8&e=1793392642&sig=Ls7bjv52TvMETVqaDuz23TN_uK3yRiaC-TknPqxQ8Fo
+
+#EXTINF:-1 tvg-name="Zulte-Waregem vs Club Brugge | LIVE | 31/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="Belgian Pro League",Zulte-Waregem vs Club Brugge | LIVE | 31/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=c43f93e25cb602599a2ba9a5ed372394%2Findex.m3u8&e=1793392664&sig=Cc1EX7RMTnN5wA2s0a_qftAibUk_T7tRyPkltvwt2js
+
+#EXTINF:-1 tvg-name="Zulte-Waregem vs Club Brugge | LIVE | 31/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Belgian Pro League",Zulte-Waregem vs Club Brugge | LIVE | 31/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=c43f93e25cb602599a2ba9a5ed372394%2Findex.m3u8&e=1793392675&sig=Ls1a9VspzCn8cdylOsLezgbD8RfDCuBpcEJZwiF1lvs&v=1793390875-5275
+
+#EXTINF:-1 tvg-name="SV Elversberg vs Mainz | LIVE | 31/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",SV Elversberg vs Mainz | LIVE | 31/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1793392724&sig=Uicyw-VC-9k-F3J0BpPn_fKshCpEuRfvAGEV7uiFRoI
+
+#EXTINF:-1 tvg-name="SV Elversberg vs Mainz | LIVE | 31/10/2026 [Bally-sports]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",SV Elversberg vs Mainz | LIVE | 31/10/2026 [Bally-sports]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1793392939&sig=z7ylqnFtjV-KMHiMFw1dpiQMagIH_raY8ZC84oODwB0&v=1793391139-6170
+
+#EXTINF:-1 tvg-name="SV Elversberg vs Mainz | LIVE | 31/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",SV Elversberg vs Mainz | LIVE | 31/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1793392951&sig=accXjzrDmwLo_zlkWNmnU4s61kaxQLahm3OzQdtWPn0&v=1793391151-9829
+
+#EXTINF:-1 tvg-name="SV Elversberg vs Mainz | LIVE | 31/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="Bundesliga",SV Elversberg vs Mainz | LIVE | 31/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1793392963&sig=9m9WRJXy0mIaqh36dtgWoVqC7FMAx7BFupIKQb7n5Ak
+
+#EXTINF:-1 tvg-name="Le Havre AC vs Paris Saint-Germain |  [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Le Havre AC vs Paris Saint-Germain |  [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1793393028&sig=x1lS0bwSUlx3u3R68glRjhCRGh0SuVCe23SnR-8CbMc
+
+#EXTINF:-1 tvg-name="Le Havre AC vs Paris Saint-Germain |  [Bally-sports]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Le Havre AC vs Paris Saint-Germain |  [Bally-sports]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1793393245&sig=vBfJ-5tQAYmGIJZWWRRwyS3SR0eAkUU1HI6VSeSzBfQ&v=1793391445-5232
+
+#EXTINF:-1 tvg-name="Le Havre AC vs Paris Saint-Germain |  [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Le Havre AC vs Paris Saint-Germain |  [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1793393290&sig=3aXIk6dT_BV_k6vaR2OrnkIj9fPUUVO0SI8NVJd9e7E&v=1793391490-3690
+
+#EXTINF:-1 tvg-name="Le Havre AC vs Paris Saint-Germain |  [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Le Havre AC vs Paris Saint-Germain |  [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1793393301&sig=g7pRxBIUhPWDwTs8CjjWZNxIYG9hYhTXybRe7jtSNIw
+
+#EXTINF:-1 tvg-name="Nice vs Stade Rennais |  [Tophdstreams] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Nice vs Stade Rennais |  [Tophdstreams] #2
 #EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-origin=https://embed.sportspatrika.com
-#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6InZySExxWk9QL2JaQ3N1VzU1TEZFSkE9PSIsInZhbHVlIjoiUzcrcVN6NWV2S2UrSE5Mek12Um1wTmpRZ0k4ZUI4MlF6THZVd0NpT3Vna045aCt2MGU4UVJkZmR4NEMwUmxlSmJsdmhJWXF1eWxuSGRxb3Q0Q2ZSbmg3TjFxR3o0WWtUZlJDdGFkT1JkL0Rqb28yT25TQzNDZnlxd2tHUExVdFoiLCJtYWMiOiJmNjRmMWE4MmMwY2M2ZDk2NjgzZWRlMTQ4MjUwNDc0ODM4MjYxMzNhOGFlMWQ2OTFiZWRmNDA5MWVlYTQ0MzA5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InVab2EybktUZ2pZb1g4ZHkrUU5RZkE9PSIsInZhbHVlIjoiNU9kQXdmMHVuT3NwU1orb2hnK1UvdzhXUGp1Q3IzOUYrMmRib0VUTGZteU91eFM1R0JvRTFlWDB0dkhiS21NS3dtQ3dJcXhJN2dqS05VQ09Od2lmdGpjSkd6cHU4dW5WYlZtNThPZlR3UUFmTTFoaHJxYVNhVlVjZzE0Rncwa2ciLCJtYWMiOiI4MzNlNzRhZTAwMmY3MzU4YTFlOTQwN2Y3YWM2ODkzYjhhY2Q2NzQ5YmNkYTg4MTIwZmFkYjQ4NDU2Yjg4ZmYwIiwidGFnIjoiIn0%3D
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6InZySExxWk9QL2JaQ3N1VzU1TEZFSkE9PSIsInZhbHVlIjoiUzcrcVN6NWV2S2UrSE5Mek12Um1wTmpRZ0k4ZUI4MlF6THZVd0NpT3Vna045aCt2MGU4UVJkZmR4NEMwUmxlSmJsdmhJWXF1eWxuSGRxb3Q0Q2ZSbmg3TjFxR3o0WWtUZlJDdGFkT1JkL0Rqb28yT25TQzNDZnlxd2tHUExVdFoiLCJtYWMiOiJmNjRmMWE4MmMwY2M2ZDk2NjgzZWRlMTQ4MjUwNDc0ODM4MjYxMzNhOGFlMWQ2OTFiZWRmNDA5MWVlYTQ0MzA5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InVab2EybktUZ2pZb1g4ZHkrUU5RZkE9PSIsInZhbHVlIjoiNU9kQXdmMHVuT3NwU1orb2hnK1UvdzhXUGp1Q3IzOUYrMmRib0VUTGZteU91eFM1R0JvRTFlWDB0dkhiS21NS3dtQ3dJcXhJN2dqS05VQ09Od2lmdGpjSkd6cHU4dW5WYlZtNThPZlR3UUFmTTFoaHJxYVNhVlVjZzE0Rncwa2ciLCJtYWMiOiI4MzNlNzRhZTAwMmY3MzU4YTFlOTQwN2Y3YWM2ODkzYjhhY2Q2NzQ5YmNkYTg4MTIwZmFkYjQ4NDU2Yjg4ZmYwIiwidGFnIjoiIn0%3D
-#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6InZySExxWk9QL2JaQ3N1VzU1TEZFSkE9PSIsInZhbHVlIjoiUzcrcVN6NWV2S2UrSE5Mek12Um1wTmpRZ0k4ZUI4MlF6THZVd0NpT3Vna045aCt2MGU4UVJkZmR4NEMwUmxlSmJsdmhJWXF1eWxuSGRxb3Q0Q2ZSbmg3TjFxR3o0WWtUZlJDdGFkT1JkL0Rqb28yT25TQzNDZnlxd2tHUExVdFoiLCJtYWMiOiJmNjRmMWE4MmMwY2M2ZDk2NjgzZWRlMTQ4MjUwNDc0ODM4MjYxMzNhOGFlMWQ2OTFiZWRmNDA5MWVlYTQ0MzA5IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InVab2EybktUZ2pZb1g4ZHkrUU5RZkE9PSIsInZhbHVlIjoiNU9kQXdmMHVuT3NwU1orb2hnK1UvdzhXUGp1Q3IzOUYrMmRib0VUTGZteU91eFM1R0JvRTFlWDB0dkhiS21NS3dtQ3dJcXhJN2dqS05VQ09Od2lmdGpjSkd6cHU4dW5WYlZtNThPZlR3UUFmTTFoaHJxYVNhVlVjZzE0Rncwa2ciLCJtYWMiOiI4MzNlNzRhZTAwMmY3MzU4YTFlOTQwN2Y3YWM2ODkzYjhhY2Q2NzQ5YmNkYTg4MTIwZmFkYjQ4NDU2Yjg4ZmYwIiwidGFnIjoiIn0%3D
-https://streamed.streamgate.link/vp01yK8UOY/es31/index.m3u8
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6Inp2b2xFMStJTWhnRjcvLzBPdkFwYXc9PSIsInZhbHVlIjoiWWU4azlvNXduU1M1WkVDaHFwVjBnTjFUUE5Ma0d2NE5KMUMyNzZEL1pVQWJVc213S1hDNzFLa2s0ajBoazRabHgydmJWRUt0UmRMLy93aG5CQTV2UmRJQmx4SGd6UjdWYlVRNDRzSWd4alJrSUUrR3ZidkNVeCtLRVlFckdKNWQiLCJtYWMiOiIzNzc3MjExMTJiNTEwZTJiOWEyNjJjZjY1NDZlOTM5MzgzM2QwNDczZTU2ZjUwMDVkYTVhMDI5MmI1NDc0ZDVkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkFPVWNweUptMFRUaUtlWXk5NDFzK0E9PSIsInZhbHVlIjoiUVBCamVCZkRzc2RlUUh1bDViZEJSTlpab1VUNWdabVNMeDUzUzZMczl0ZUQxZFc4ZlNjNEczZFZwakRBTjNhQjVpNVZOV09WVHRORU5IUk5TMWR5Um1IcC9leEFGUVlGZVIwQStLRXphMzlFVmZwNWhscmRZT3d2RnB2Smw3ZSsiLCJtYWMiOiJjYzQzNGNjNjY5NzBlNWNmOGM5YTU0MWU3N2QzNjMyNDE1NDZlZDQ0OTNkZjViOWE1MTk0ZDgxM2MwMGM3YzIyIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6Inp2b2xFMStJTWhnRjcvLzBPdkFwYXc9PSIsInZhbHVlIjoiWWU4azlvNXduU1M1WkVDaHFwVjBnTjFUUE5Ma0d2NE5KMUMyNzZEL1pVQWJVc213S1hDNzFLa2s0ajBoazRabHgydmJWRUt0UmRMLy93aG5CQTV2UmRJQmx4SGd6UjdWYlVRNDRzSWd4alJrSUUrR3ZidkNVeCtLRVlFckdKNWQiLCJtYWMiOiIzNzc3MjExMTJiNTEwZTJiOWEyNjJjZjY1NDZlOTM5MzgzM2QwNDczZTU2ZjUwMDVkYTVhMDI5MmI1NDc0ZDVkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkFPVWNweUptMFRUaUtlWXk5NDFzK0E9PSIsInZhbHVlIjoiUVBCamVCZkRzc2RlUUh1bDViZEJSTlpab1VUNWdabVNMeDUzUzZMczl0ZUQxZFc4ZlNjNEczZFZwakRBTjNhQjVpNVZOV09WVHRORU5IUk5TMWR5Um1IcC9leEFGUVlGZVIwQStLRXphMzlFVmZwNWhscmRZT3d2RnB2Smw3ZSsiLCJtYWMiOiJjYzQzNGNjNjY5NzBlNWNmOGM5YTU0MWU3N2QzNjMyNDE1NDZlZDQ0OTNkZjViOWE1MTk0ZDgxM2MwMGM3YzIyIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6Inp2b2xFMStJTWhnRjcvLzBPdkFwYXc9PSIsInZhbHVlIjoiWWU4azlvNXduU1M1WkVDaHFwVjBnTjFUUE5Ma0d2NE5KMUMyNzZEL1pVQWJVc213S1hDNzFLa2s0ajBoazRabHgydmJWRUt0UmRMLy93aG5CQTV2UmRJQmx4SGd6UjdWYlVRNDRzSWd4alJrSUUrR3ZidkNVeCtLRVlFckdKNWQiLCJtYWMiOiIzNzc3MjExMTJiNTEwZTJiOWEyNjJjZjY1NDZlOTM5MzgzM2QwNDczZTU2ZjUwMDVkYTVhMDI5MmI1NDc0ZDVkIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkFPVWNweUptMFRUaUtlWXk5NDFzK0E9PSIsInZhbHVlIjoiUVBCamVCZkRzc2RlUUh1bDViZEJSTlpab1VUNWdabVNMeDUzUzZMczl0ZUQxZFc4ZlNjNEczZFZwakRBTjNhQjVpNVZOV09WVHRORU5IUk5TMWR5Um1IcC9leEFGUVlGZVIwQStLRXphMzlFVmZwNWhscmRZT3d2RnB2Smw3ZSsiLCJtYWMiOiJjYzQzNGNjNjY5NzBlNWNmOGM5YTU0MWU3N2QzNjMyNDE1NDZlZDQ0OTNkZjViOWE1MTk0ZDgxM2MwMGM3YzIyIiwidGFnIjoiIn0%3D
+https://streamed.streamgate.link/RlVskNIzTj/es15/index.m3u8
 
-#EXTINF:-1 tvg-name="Le Havre AC vs Paris Saint-Germain | 01:00 | 31/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Le Havre AC vs Paris Saint-Germain | 01:00 | 31/10/2026 [Shd247]
-#EXTVLCOPT:http-referrer=https://xstream.st/
+#EXTINF:-1 tvg-name="Nice vs Stade Rennais |  [Segatv] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Nice vs Stade Rennais |  [Segatv] #2
+#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=session_id=7619470834270284
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=7619470834270284
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=7619470834270284
-https://instreams.xyz/live3/streamhd21/index.m3u8?st=V6kU0MrcM0CieKhskN7kwA&e=1793384328
+#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6ImswSUNqNG8rRTFWWlFGdi95ZWpTeWc9PSIsInZhbHVlIjoiMGxYMVNydk5Id1puVnlCMnpQcHAyY0dOUzlqNTNBZktPc0JPdzdzbTBPc2YraGQ0RXlwQlJUSkxibm0xOE94aktCOVo5RW5SNjdsOENzK3N5UlFqY3czRXIwUDM3WHRET3crVXdNdS9zVXBVb0JWbFlFazVwOVlJdDBEVGZJN3AiLCJtYWMiOiIwMGM2ZTQyODMyNmMxM2Q2NDM5YWVhYzBlY2YyOTZiNWI0OWZmOGMxYmM1MmUwMWQwMTE0MDgyZWNjNzhhZDQxIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ii9RL0ZxbUgwT29obHhzcU1vMVZBSlE9PSIsInZhbHVlIjoiMHo4TEZibHRtVHh2cm1RN1JTUUw1WWtQbFNERllRM2lCUS9oYkhaZHBTSURVa3ZTMXlPVWtSVDJlZXR3Qk9uaC9ERGZVcUpibnRQNGNjU3Y3YmlYTE5aL0RMODg0aGw3N1NJbFNuTWNlekpySFFSSmJlbkNTM000YjZCUXMxQ2UiLCJtYWMiOiI3OGY2ZmVjMmYxMDIxOTQzZDZmMzY2MjNhNjMzNzUwZjE5YTU2Zjg4NjdiOWM0YTViMzljYjIyZDMyNzEyOTZlIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6ImswSUNqNG8rRTFWWlFGdi95ZWpTeWc9PSIsInZhbHVlIjoiMGxYMVNydk5Id1puVnlCMnpQcHAyY0dOUzlqNTNBZktPc0JPdzdzbTBPc2YraGQ0RXlwQlJUSkxibm0xOE94aktCOVo5RW5SNjdsOENzK3N5UlFqY3czRXIwUDM3WHRET3crVXdNdS9zVXBVb0JWbFlFazVwOVlJdDBEVGZJN3AiLCJtYWMiOiIwMGM2ZTQyODMyNmMxM2Q2NDM5YWVhYzBlY2YyOTZiNWI0OWZmOGMxYmM1MmUwMWQwMTE0MDgyZWNjNzhhZDQxIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ii9RL0ZxbUgwT29obHhzcU1vMVZBSlE9PSIsInZhbHVlIjoiMHo4TEZibHRtVHh2cm1RN1JTUUw1WWtQbFNERllRM2lCUS9oYkhaZHBTSURVa3ZTMXlPVWtSVDJlZXR3Qk9uaC9ERGZVcUpibnRQNGNjU3Y3YmlYTE5aL0RMODg0aGw3N1NJbFNuTWNlekpySFFSSmJlbkNTM000YjZCUXMxQ2UiLCJtYWMiOiI3OGY2ZmVjMmYxMDIxOTQzZDZmMzY2MjNhNjMzNzUwZjE5YTU2Zjg4NjdiOWM0YTViMzljYjIyZDMyNzEyOTZlIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6ImswSUNqNG8rRTFWWlFGdi95ZWpTeWc9PSIsInZhbHVlIjoiMGxYMVNydk5Id1puVnlCMnpQcHAyY0dOUzlqNTNBZktPc0JPdzdzbTBPc2YraGQ0RXlwQlJUSkxibm0xOE94aktCOVo5RW5SNjdsOENzK3N5UlFqY3czRXIwUDM3WHRET3crVXdNdS9zVXBVb0JWbFlFazVwOVlJdDBEVGZJN3AiLCJtYWMiOiIwMGM2ZTQyODMyNmMxM2Q2NDM5YWVhYzBlY2YyOTZiNWI0OWZmOGMxYmM1MmUwMWQwMTE0MDgyZWNjNzhhZDQxIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ii9RL0ZxbUgwT29obHhzcU1vMVZBSlE9PSIsInZhbHVlIjoiMHo4TEZibHRtVHh2cm1RN1JTUUw1WWtQbFNERllRM2lCUS9oYkhaZHBTSURVa3ZTMXlPVWtSVDJlZXR3Qk9uaC9ERGZVcUpibnRQNGNjU3Y3YmlYTE5aL0RMODg0aGw3N1NJbFNuTWNlekpySFFSSmJlbkNTM000YjZCUXMxQ2UiLCJtYWMiOiI3OGY2ZmVjMmYxMDIxOTQzZDZmMzY2MjNhNjMzNzUwZjE5YTU2Zjg4NjdiOWM0YTViMzljYjIyZDMyNzEyOTZlIiwidGFnIjoiIn0%3D
+https://streamed.streamgate.link/bBItmdplry/es15/index.m3u8
 
-#EXTINF:-1 tvg-name="Lille vs Lens | 03:05 | 31/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Lille vs Lens | 03:05 | 31/10/2026 [Shd247]
-#EXTVLCOPT:http-referrer=https://xstream.st/
+#EXTINF:-1 tvg-name="Nice vs Stade Rennais |  [Dellgames] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Nice vs Stade Rennais |  [Dellgames] #2
+#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
-#EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=session_id=2838937256847405
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=2838937256847405
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=2838937256847405
-https://instreams.pro/live3/streamhd21/index.m3u8?st=jlPMiRduTip-LK9k1PLU0g&e=1793385316
+#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6IlVkY01CY052ZDg3WWt0djJOc3RQWEE9PSIsInZhbHVlIjoiRTNzMmhzM1RES1p0TWMzRVpiRXZuK1BvaWJMNU1ENm9zSHlsSDFXL0gxQmVxdHNpSWNsaTdIc2tERkk4K0I2Ui9keWRkY1c5Z1N4emNGZzhJK0I5eldROXljSTFwbGFtVmx5YjQzbm52VFNNc2sxMXNSb1c4QlJmaVF3U1RwV2QiLCJtYWMiOiI2MGRmYzIzNTFhOWNlNDJmZGFiY2ViN2I4MGE0OTk0YWQyNWU1N2VkODUyMmE3MGQ3NDI2ZmNhMzNhOGU3MGRmIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Im0zMkM2aGN6WnVJWXZZVFFqNkQ5K3c9PSIsInZhbHVlIjoiLzNuejIxSDAzbFk5VktJSWhkanQ4b2VCQjNaRkVKVkE0Q09ueU1sTEg4c2dKRUhMeHcrOFZyWVhlaGFaYnZPVjJPSUhscXNmN3dtQjMrS1VsM0FoZHhRY3gvb25yS2g1alJlbzVWbytycEVpUFpudDRFWGd1TUwwRCtCWlI1UEciLCJtYWMiOiI3ZWQ1Mjc5YjYzNGYxZjk4ZDRmNGVkZjY3NmY0YmFkNDExNzBmODcyZGZjMGM1ZTI0N2U1YjBmMjg3YzVkM2MxIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6IlVkY01CY052ZDg3WWt0djJOc3RQWEE9PSIsInZhbHVlIjoiRTNzMmhzM1RES1p0TWMzRVpiRXZuK1BvaWJMNU1ENm9zSHlsSDFXL0gxQmVxdHNpSWNsaTdIc2tERkk4K0I2Ui9keWRkY1c5Z1N4emNGZzhJK0I5eldROXljSTFwbGFtVmx5YjQzbm52VFNNc2sxMXNSb1c4QlJmaVF3U1RwV2QiLCJtYWMiOiI2MGRmYzIzNTFhOWNlNDJmZGFiY2ViN2I4MGE0OTk0YWQyNWU1N2VkODUyMmE3MGQ3NDI2ZmNhMzNhOGU3MGRmIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Im0zMkM2aGN6WnVJWXZZVFFqNkQ5K3c9PSIsInZhbHVlIjoiLzNuejIxSDAzbFk5VktJSWhkanQ4b2VCQjNaRkVKVkE0Q09ueU1sTEg4c2dKRUhMeHcrOFZyWVhlaGFaYnZPVjJPSUhscXNmN3dtQjMrS1VsM0FoZHhRY3gvb25yS2g1alJlbzVWbytycEVpUFpudDRFWGd1TUwwRCtCWlI1UEciLCJtYWMiOiI3ZWQ1Mjc5YjYzNGYxZjk4ZDRmNGVkZjY3NmY0YmFkNDExNzBmODcyZGZjMGM1ZTI0N2U1YjBmMjg3YzVkM2MxIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6IlVkY01CY052ZDg3WWt0djJOc3RQWEE9PSIsInZhbHVlIjoiRTNzMmhzM1RES1p0TWMzRVpiRXZuK1BvaWJMNU1ENm9zSHlsSDFXL0gxQmVxdHNpSWNsaTdIc2tERkk4K0I2Ui9keWRkY1c5Z1N4emNGZzhJK0I5eldROXljSTFwbGFtVmx5YjQzbm52VFNNc2sxMXNSb1c4QlJmaVF3U1RwV2QiLCJtYWMiOiI2MGRmYzIzNTFhOWNlNDJmZGFiY2ViN2I4MGE0OTk0YWQyNWU1N2VkODUyMmE3MGQ3NDI2ZmNhMzNhOGU3MGRmIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Im0zMkM2aGN6WnVJWXZZVFFqNkQ5K3c9PSIsInZhbHVlIjoiLzNuejIxSDAzbFk5VktJSWhkanQ4b2VCQjNaRkVKVkE0Q09ueU1sTEg4c2dKRUhMeHcrOFZyWVhlaGFaYnZPVjJPSUhscXNmN3dtQjMrS1VsM0FoZHhRY3gvb25yS2g1alJlbzVWbytycEVpUFpudDRFWGd1TUwwRCtCWlI1UEciLCJtYWMiOiI3ZWQ1Mjc5YjYzNGYxZjk4ZDRmNGVkZjY3NmY0YmFkNDExNzBmODcyZGZjMGM1ZTI0N2U1YjBmMjg3YzVkM2MxIiwidGFnIjoiIn0%3D
+https://streamed.streamgate.link/NGzXcCbZ22/es15/index.m3u8
+
+#EXTINF:-1 tvg-name="Nice vs Stade Rennais |  [Watchsports] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Nice vs Stade Rennais |  [Watchsports] #2
+#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6InMyRTdkMlJXOFZRbHZwMWNUdzZiTkE9PSIsInZhbHVlIjoiUENTL2dyaTJTQkRDRFdobFpma3N6YXEyNldBM3g2WHVIMHorOElrS3EvMjc0VUpSaE5xUW5obFhDTEUvOElmcUppVGhJbUVqNnY3VGRoYm41TlA2Q2tIUTdCeHVrb3BsR2F3eGJzclpHbTBaWk9OMWhjbEJ5TVg0MUVQaXYxSkwiLCJtYWMiOiIxNjFhYjRiMTY4ZjM5NGExNmUzMTU1YTBiNWY0YjgyOWQ0YzU1OWU1ODI0ZjJjZTRlYWVhOGIyOWE1OWE2ZjU4IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Imx0Wmo3Tys0VlF1Umx1U05ScS9TZ1E9PSIsInZhbHVlIjoibHU1ejJKcmFQSFFoTXp1WFZ6TDYrUFZGN0tsdjJ5MkxRR3RNVTJLV08xZUJaVXBhL05DWTAwWjFDMnFueWlZZ1ZnT3ZMTFlveThvV280Z1hWZmt6dHI2NG1uOUI3RFlseHpScEZpd2RjZElMZmhRbzc1K2ExU0JaNGZ1eEVUVkkiLCJtYWMiOiJhYzIwNjc2YmRjMDk5MDdkY2Q5Njk5NTE1ZjhmZjRhOTQ3MzMzNTAxN2NkNGFmYTE0YWY1ZDk1NDFiNzdkNDAyIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6InMyRTdkMlJXOFZRbHZwMWNUdzZiTkE9PSIsInZhbHVlIjoiUENTL2dyaTJTQkRDRFdobFpma3N6YXEyNldBM3g2WHVIMHorOElrS3EvMjc0VUpSaE5xUW5obFhDTEUvOElmcUppVGhJbUVqNnY3VGRoYm41TlA2Q2tIUTdCeHVrb3BsR2F3eGJzclpHbTBaWk9OMWhjbEJ5TVg0MUVQaXYxSkwiLCJtYWMiOiIxNjFhYjRiMTY4ZjM5NGExNmUzMTU1YTBiNWY0YjgyOWQ0YzU1OWU1ODI0ZjJjZTRlYWVhOGIyOWE1OWE2ZjU4IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Imx0Wmo3Tys0VlF1Umx1U05ScS9TZ1E9PSIsInZhbHVlIjoibHU1ejJKcmFQSFFoTXp1WFZ6TDYrUFZGN0tsdjJ5MkxRR3RNVTJLV08xZUJaVXBhL05DWTAwWjFDMnFueWlZZ1ZnT3ZMTFlveThvV280Z1hWZmt6dHI2NG1uOUI3RFlseHpScEZpd2RjZElMZmhRbzc1K2ExU0JaNGZ1eEVUVkkiLCJtYWMiOiJhYzIwNjc2YmRjMDk5MDdkY2Q5Njk5NTE1ZjhmZjRhOTQ3MzMzNTAxN2NkNGFmYTE0YWY1ZDk1NDFiNzdkNDAyIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6InMyRTdkMlJXOFZRbHZwMWNUdzZiTkE9PSIsInZhbHVlIjoiUENTL2dyaTJTQkRDRFdobFpma3N6YXEyNldBM3g2WHVIMHorOElrS3EvMjc0VUpSaE5xUW5obFhDTEUvOElmcUppVGhJbUVqNnY3VGRoYm41TlA2Q2tIUTdCeHVrb3BsR2F3eGJzclpHbTBaWk9OMWhjbEJ5TVg0MUVQaXYxSkwiLCJtYWMiOiIxNjFhYjRiMTY4ZjM5NGExNmUzMTU1YTBiNWY0YjgyOWQ0YzU1OWU1ODI0ZjJjZTRlYWVhOGIyOWE1OWE2ZjU4IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Imx0Wmo3Tys0VlF1Umx1U05ScS9TZ1E9PSIsInZhbHVlIjoibHU1ejJKcmFQSFFoTXp1WFZ6TDYrUFZGN0tsdjJ5MkxRR3RNVTJLV08xZUJaVXBhL05DWTAwWjFDMnFueWlZZ1ZnT3ZMTFlveThvV280Z1hWZmt6dHI2NG1uOUI3RFlseHpScEZpd2RjZElMZmhRbzc1K2ExU0JaNGZ1eEVUVkkiLCJtYWMiOiJhYzIwNjc2YmRjMDk5MDdkY2Q5Njk5NTE1ZjhmZjRhOTQ3MzMzNTAxN2NkNGFmYTE0YWY1ZDk1NDFiNzdkNDAyIiwidGFnIjoiIn0%3D
+https://streamed.streamgate.link/TW2t3AhrBe/es15/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Shabab vs Al Ahli |  [Odyssney] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Saudi Pro League",Al Shabab vs Al Ahli |  [Odyssney] #2
+#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6ImVQYnNKMmFTTU9HUjZMdW1Sc010TkE9PSIsInZhbHVlIjoidWZrbldnS1dQTThubGNjUGtnV2tUY1R5MFNib25GWUpJVFBYdE5lV1dGVGhwN2FzODNJalBhNkRidXljemxqY3VvYXpLQy9GL0FnbnpIRGtvUUtPd3FPcjhPZHZtdnMwanBscEpBSzJmcDZGd21YWWNad1VlSGY2UWsybEZpMDYiLCJtYWMiOiJhYjcwMmE3NzBhNGQ4OTNjZTVjZDA4YWFlZWMxMGQzM2E2ZWY1MjZhNTI1NWM1M2ZmZWFkOTUxNWY4ODg2YmYyIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InlsWXVjbGVwY1dFNmpGclpMdTU2R2c9PSIsInZhbHVlIjoiOVoxVDhCWEY1V01HUG1ubEZlYVJwVW5PNXZiMDN3Mkdib0Y3QzgwNTAwMllhV1lid3kwak5JQWI5RkswM2VzN3VHZ1VHOHVDOU9zR3dCVU1COVFtaHlTOTAvZVJpejM2VnJsVW1YQTR2WWNCcXNYa3dkaHdsQ1hRaktSRjBUWmIiLCJtYWMiOiI0ZjkwZjljYWY2NjExZTFmYWY1M2NhNGI1ZTg0NGVmY2U5YzA1Yjk3OTU2ODQzNDYyMTg2ZTEwYTIxZDc1ZDViIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6ImVQYnNKMmFTTU9HUjZMdW1Sc010TkE9PSIsInZhbHVlIjoidWZrbldnS1dQTThubGNjUGtnV2tUY1R5MFNib25GWUpJVFBYdE5lV1dGVGhwN2FzODNJalBhNkRidXljemxqY3VvYXpLQy9GL0FnbnpIRGtvUUtPd3FPcjhPZHZtdnMwanBscEpBSzJmcDZGd21YWWNad1VlSGY2UWsybEZpMDYiLCJtYWMiOiJhYjcwMmE3NzBhNGQ4OTNjZTVjZDA4YWFlZWMxMGQzM2E2ZWY1MjZhNTI1NWM1M2ZmZWFkOTUxNWY4ODg2YmYyIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InlsWXVjbGVwY1dFNmpGclpMdTU2R2c9PSIsInZhbHVlIjoiOVoxVDhCWEY1V01HUG1ubEZlYVJwVW5PNXZiMDN3Mkdib0Y3QzgwNTAwMllhV1lid3kwak5JQWI5RkswM2VzN3VHZ1VHOHVDOU9zR3dCVU1COVFtaHlTOTAvZVJpejM2VnJsVW1YQTR2WWNCcXNYa3dkaHdsQ1hRaktSRjBUWmIiLCJtYWMiOiI0ZjkwZjljYWY2NjExZTFmYWY1M2NhNGI1ZTg0NGVmY2U5YzA1Yjk3OTU2ODQzNDYyMTg2ZTEwYTIxZDc1ZDViIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6ImVQYnNKMmFTTU9HUjZMdW1Sc010TkE9PSIsInZhbHVlIjoidWZrbldnS1dQTThubGNjUGtnV2tUY1R5MFNib25GWUpJVFBYdE5lV1dGVGhwN2FzODNJalBhNkRidXljemxqY3VvYXpLQy9GL0FnbnpIRGtvUUtPd3FPcjhPZHZtdnMwanBscEpBSzJmcDZGd21YWWNad1VlSGY2UWsybEZpMDYiLCJtYWMiOiJhYjcwMmE3NzBhNGQ4OTNjZTVjZDA4YWFlZWMxMGQzM2E2ZWY1MjZhNTI1NWM1M2ZmZWFkOTUxNWY4ODg2YmYyIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6InlsWXVjbGVwY1dFNmpGclpMdTU2R2c9PSIsInZhbHVlIjoiOVoxVDhCWEY1V01HUG1ubEZlYVJwVW5PNXZiMDN3Mkdib0Y3QzgwNTAwMllhV1lid3kwak5JQWI5RkswM2VzN3VHZ1VHOHVDOU9zR3dCVU1COVFtaHlTOTAvZVJpejM2VnJsVW1YQTR2WWNCcXNYa3dkaHdsQ1hRaktSRjBUWmIiLCJtYWMiOiI0ZjkwZjljYWY2NjExZTFmYWY1M2NhNGI1ZTg0NGVmY2U5YzA1Yjk3OTU2ODQzNDYyMTg2ZTEwYTIxZDc1ZDViIiwidGFnIjoiIn0%3D
+https://streamed.streamgate.link/HFVeG8Rhd2/es32/index.m3u8
+
+#EXTINF:-1 tvg-name="Lille vs Lens | 03:05 | 31/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Lille vs Lens | 03:05 | 31/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1793393758&sig=e2Va0nTijcQEm-RPcGBzycp27shQPVEnqGS1PvB3XoU
+
+#EXTINF:-1 tvg-name="Lille vs Lens | 03:05 | 31/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Lille vs Lens | 03:05 | 31/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1793394013&sig=SeCdcniy8nPzd9ZY_DYVwXqMZm6he7LC5v6Vu1eTFig&v=1793392213-1741
+
+#EXTINF:-1 tvg-name="Lille vs Lens | 03:05 | 31/10/2026 [Fast-streams]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Lille vs Lens | 03:05 | 31/10/2026 [Fast-streams]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=131aad542969f2e906086706986d6698%2Findex.m3u8&e=1793394025&sig=qWEf0uDerTLPfW4Aq_KMGBTyjW6e91jrTbQP59POtok
+
+#EXTINF:-1 tvg-name="Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Topsurge]" tvg-logo="" tvg-id="Live.Event.us" group-title="Primeira Liga",Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Topsurge]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=452e62197617eee2172de9c2a1c7e936%2Findex.m3u8&e=1793394162&sig=6nuUw1mf-sQ2rGf_-XT5ZuR5Djzl47MHIE8WrRmzwxY
+
+#EXTINF:-1 tvg-name="Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Tophdstreams] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Primeira Liga",Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Tophdstreams] #2
+#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6Ikdka2Rsc2FGY2lwVGdBcjZ2WGlScHc9PSIsInZhbHVlIjoiOHpBMjFYNkl4QWFnaGRyS0lucXZwTUVpZjd3RlFJdWZ3RUd2dk4rcDdVUnl6dksrb3VPOUJBMHR3akttZERoMGd3Z0JRSDVrNWcxUDFJcFdvVTcyblg5b0FmSjZJOHRkZ1dUU2x0OHBtTzFWVWIrYnhTZTBlL281ZHJVNmFYdFoiLCJtYWMiOiI5YmFmNWVkN2ViMWE4YjllNjVlM2RhMDNjNTgwM2M0MjEwNTZhMzE5OGZhMDMzMTRkZDM3ZmEzZDdlMjhhN2RjIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Im94VmZxYnRkS29icTZRUzAxSER2ekE9PSIsInZhbHVlIjoiTUkyTWdJblNmYmtHN3o5SzNMVGRONXlQRW4vdGFjR2pYOHJCNXdkVWhXSHcxRVFxcWQ5Lys3K1dSemJRclB4TWpxSVpVaThJMU5RNGx4TDg2SWs2NXVUNzVTYWxxaFJIVk1Gbk5KVlpKS2JDaWFqcVdjdDI5bldXdHlVaUkrWEkiLCJtYWMiOiI5ZTU3OGE5YTcwMGZmZmE3ZGNjNDZmMjgzMzY3YmE3ZGM2MmNjNmM5Y2NmODRmOTNlN2JlYTI0MzkyMzRkZDkwIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6Ikdka2Rsc2FGY2lwVGdBcjZ2WGlScHc9PSIsInZhbHVlIjoiOHpBMjFYNkl4QWFnaGRyS0lucXZwTUVpZjd3RlFJdWZ3RUd2dk4rcDdVUnl6dksrb3VPOUJBMHR3akttZERoMGd3Z0JRSDVrNWcxUDFJcFdvVTcyblg5b0FmSjZJOHRkZ1dUU2x0OHBtTzFWVWIrYnhTZTBlL281ZHJVNmFYdFoiLCJtYWMiOiI5YmFmNWVkN2ViMWE4YjllNjVlM2RhMDNjNTgwM2M0MjEwNTZhMzE5OGZhMDMzMTRkZDM3ZmEzZDdlMjhhN2RjIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Im94VmZxYnRkS29icTZRUzAxSER2ekE9PSIsInZhbHVlIjoiTUkyTWdJblNmYmtHN3o5SzNMVGRONXlQRW4vdGFjR2pYOHJCNXdkVWhXSHcxRVFxcWQ5Lys3K1dSemJRclB4TWpxSVpVaThJMU5RNGx4TDg2SWs2NXVUNzVTYWxxaFJIVk1Gbk5KVlpKS2JDaWFqcVdjdDI5bldXdHlVaUkrWEkiLCJtYWMiOiI5ZTU3OGE5YTcwMGZmZmE3ZGNjNDZmMjgzMzY3YmE3ZGM2MmNjNmM5Y2NmODRmOTNlN2JlYTI0MzkyMzRkZDkwIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6Ikdka2Rsc2FGY2lwVGdBcjZ2WGlScHc9PSIsInZhbHVlIjoiOHpBMjFYNkl4QWFnaGRyS0lucXZwTUVpZjd3RlFJdWZ3RUd2dk4rcDdVUnl6dksrb3VPOUJBMHR3akttZERoMGd3Z0JRSDVrNWcxUDFJcFdvVTcyblg5b0FmSjZJOHRkZ1dUU2x0OHBtTzFWVWIrYnhTZTBlL281ZHJVNmFYdFoiLCJtYWMiOiI5YmFmNWVkN2ViMWE4YjllNjVlM2RhMDNjNTgwM2M0MjEwNTZhMzE5OGZhMDMzMTRkZDM3ZmEzZDdlMjhhN2RjIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Im94VmZxYnRkS29icTZRUzAxSER2ekE9PSIsInZhbHVlIjoiTUkyTWdJblNmYmtHN3o5SzNMVGRONXlQRW4vdGFjR2pYOHJCNXdkVWhXSHcxRVFxcWQ5Lys3K1dSemJRclB4TWpxSVpVaThJMU5RNGx4TDg2SWs2NXVUNzVTYWxxaFJIVk1Gbk5KVlpKS2JDaWFqcVdjdDI5bldXdHlVaUkrWEkiLCJtYWMiOiI5ZTU3OGE5YTcwMGZmZmE3ZGNjNDZmMjgzMzY3YmE3ZGM2MmNjNmM5Y2NmODRmOTNlN2JlYTI0MzkyMzRkZDkwIiwidGFnIjoiIn0%3D
+https://streamed.streamgate.link/gyuXCRy6pk/es29/index.m3u8
+
+#EXTINF:-1 tvg-name="Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="Primeira Liga",Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=452e62197617eee2172de9c2a1c7e936%2Findex.m3u8&e=1793394296&sig=I6nkaO3V3zRjsD8wKo7a0MI9ineYACymdQAOyXweHqI&v=1793392496-1097
+
+#EXTINF:-1 tvg-name="Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Iohit]" tvg-logo="" tvg-id="Live.Event.us" group-title="Primeira Liga",Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Iohit]
+#EXTVLCOPT:http-referrer=https://iohit.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://iohit.st
+#EXTVLCOPT:http-cookie=laravel_session=eyJpdiI6ImJuM0ExRjRNZE1LN2NDZ1AxbXVmVlE9PSIsInZhbHVlIjoicit1bitnd0MwNDlrRnc4OTg3YjRQd01JMDFoK1hMd2xrdmUxL0E3dVdrdFJTSExqalkvMkN2Uy8xWUowdVd0TGR3R3lDTThVdlJRZ3RML3B1Q3QzMVJCUkV1R2J1R3R2TU1EQWs4alhJVXh3elFjSjN4YkhRaWpxQjh1YlFrL1oiLCJtYWMiOiIyM2FhMmRlNTFiNWJlMDZlY2JmYTdlNGE5OGJiMWMxMDhlMWU5MWNhYTI5OGZhYzQ2MjhlZTliMjRiYjgyZGFjIiwidGFnIjoiIn0%3D; session_id=8387312955727059
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iohit.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://iohit.st&Cookie=laravel_session=eyJpdiI6ImJuM0ExRjRNZE1LN2NDZ1AxbXVmVlE9PSIsInZhbHVlIjoicit1bitnd0MwNDlrRnc4OTg3YjRQd01JMDFoK1hMd2xrdmUxL0E3dVdrdFJTSExqalkvMkN2Uy8xWUowdVd0TGR3R3lDTThVdlJRZ3RML3B1Q3QzMVJCUkV1R2J1R3R2TU1EQWs4alhJVXh3elFjSjN4YkhRaWpxQjh1YlFrL1oiLCJtYWMiOiIyM2FhMmRlNTFiNWJlMDZlY2JmYTdlNGE5OGJiMWMxMDhlMWU5MWNhYTI5OGZhYzQ2MjhlZTliMjRiYjgyZGFjIiwidGFnIjoiIn0%3D; session_id=8387312955727059
+#EXTHTTP:Referer: https://iohit.st/|Origin: https://iohit.st|Cookie: laravel_session=eyJpdiI6ImJuM0ExRjRNZE1LN2NDZ1AxbXVmVlE9PSIsInZhbHVlIjoicit1bitnd0MwNDlrRnc4OTg3YjRQd01JMDFoK1hMd2xrdmUxL0E3dVdrdFJTSExqalkvMkN2Uy8xWUowdVd0TGR3R3lDTThVdlJRZ3RML3B1Q3QzMVJCUkV1R2J1R3R2TU1EQWs4alhJVXh3elFjSjN4YkhRaWpxQjh1YlFrL1oiLCJtYWMiOiIyM2FhMmRlNTFiNWJlMDZlY2JmYTdlNGE5OGJiMWMxMDhlMWU5MWNhYTI5OGZhYzQ2MjhlZTliMjRiYjgyZGFjIiwidGFnIjoiIn0%3D; session_id=8387312955727059
+https://s1.toocdn.top:8443/s/3hhbrdtlu7FF4sRLQyl96Q/1793414179/s1/index.m3u8
+
+#EXTINF:-1 tvg-name="Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Iohit] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Primeira Liga",Casa Pia vs Sporting CP | 03:15 | 31/10/2026 [Iohit] #2
+#EXTVLCOPT:http-referrer=https://iohit.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
+#EXTVLCOPT:http-origin=https://iohit.st
+#EXTVLCOPT:http-cookie=laravel_session=eyJpdiI6ImJuM0ExRjRNZE1LN2NDZ1AxbXVmVlE9PSIsInZhbHVlIjoicit1bitnd0MwNDlrRnc4OTg3YjRQd01JMDFoK1hMd2xrdmUxL0E3dVdrdFJTSExqalkvMkN2Uy8xWUowdVd0TGR3R3lDTThVdlJRZ3RML3B1Q3QzMVJCUkV1R2J1R3R2TU1EQWs4alhJVXh3elFjSjN4YkhRaWpxQjh1YlFrL1oiLCJtYWMiOiIyM2FhMmRlNTFiNWJlMDZlY2JmYTdlNGE5OGJiMWMxMDhlMWU5MWNhYTI5OGZhYzQ2MjhlZTliMjRiYjgyZGFjIiwidGFnIjoiIn0%3D; session_id=8387312955727059
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iohit.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://iohit.st&Cookie=laravel_session=eyJpdiI6ImJuM0ExRjRNZE1LN2NDZ1AxbXVmVlE9PSIsInZhbHVlIjoicit1bitnd0MwNDlrRnc4OTg3YjRQd01JMDFoK1hMd2xrdmUxL0E3dVdrdFJTSExqalkvMkN2Uy8xWUowdVd0TGR3R3lDTThVdlJRZ3RML3B1Q3QzMVJCUkV1R2J1R3R2TU1EQWs4alhJVXh3elFjSjN4YkhRaWpxQjh1YlFrL1oiLCJtYWMiOiIyM2FhMmRlNTFiNWJlMDZlY2JmYTdlNGE5OGJiMWMxMDhlMWU5MWNhYTI5OGZhYzQ2MjhlZTliMjRiYjgyZGFjIiwidGFnIjoiIn0%3D; session_id=8387312955727059
+#EXTHTTP:Referer: https://iohit.st/|Origin: https://iohit.st|Cookie: laravel_session=eyJpdiI6ImJuM0ExRjRNZE1LN2NDZ1AxbXVmVlE9PSIsInZhbHVlIjoicit1bitnd0MwNDlrRnc4OTg3YjRQd01JMDFoK1hMd2xrdmUxL0E3dVdrdFJTSExqalkvMkN2Uy8xWUowdVd0TGR3R3lDTThVdlJRZ3RML3B1Q3QzMVJCUkV1R2J1R3R2TU1EQWs4alhJVXh3elFjSjN4YkhRaWpxQjh1YlFrL1oiLCJtYWMiOiIyM2FhMmRlNTFiNWJlMDZlY2JmYTdlNGE5OGJiMWMxMDhlMWU5MWNhYTI5OGZhYzQ2MjhlZTliMjRiYjgyZGFjIiwidGFnIjoiIn0%3D; session_id=8387312955727059
+https://s1.toocdn.top:8443/s/UgatMYUgEMi3BksWEc709A/1793414183/s1/index.m3u8
 
 #EXTINF:-1 tvg-name="Racing Club vs Aldosivi | 07:15 | 31/10/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Argentine Primera División",Racing Club vs Aldosivi | 07:15 | 31/10/2026 [Shd247]
 #EXTVLCOPT:http-referrer=https://xstream.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0
 #EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=session_id=6121142912420941
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=6121142912420941
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=6121142912420941
-https://instreams.pro/live3/streamhd30/index.m3u8?st=koOIuDkri8gp35mdm5n34w&e=1793385653
+#EXTVLCOPT:http-cookie=session_id=8670027745667659
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:156.0) Gecko/20100101 Firefox/156.0&Origin=https://xstream.st&Cookie=session_id=8670027745667659
+#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: session_id=8670027745667659
+https://instreams.live/live3/streamhd30/index.m3u8?st=f-1FwgjZK-Btjz5sDkmZyw&e=1793403723
 
-#EXTINF:-1 tvg-name="[OFC] ONE Friday Fights 176: Khunsuk vs YodUdon (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="OFC",[OFC] ONE Friday Fights 176: Khunsuk vs YodUdon (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58874?ad=111
+#EXTINF:-1 tvg-name="[Bundesliga] Mainz vs SV Elversberg (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_mainz-vs-sv-elversberg_Mainz_vs_SV_Elversberg" tvg-id="Soccer.Dummy.us" group-title="Bundesliga",[Bundesliga] Mainz vs SV Elversberg (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58874?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58874?ad=111
-https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58874%2Fload-playlist&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58874%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/mainz-vs-sv-elversberg1080p/index.m3u8?_e=1793422293&_n=6a55405192f7c066&_t=D3b-51jlaLkok4p1t4Ty3Q
+
+#EXTINF:-1 tvg-name="[La Liga] Espanyol vs Villarreal (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_espanyol-vs-villarreal_Espanyol_vs_Villarreal" tvg-id="Soccer.Dummy.us" group-title="La Liga",[La Liga] Espanyol vs Villarreal (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/espanyol-vs-villarreal1080p/index.m3u8?_e=1793422293&_n=ba9a6bd97c36e911&_t=BBc0gTYZTnC_RgwvT1c-ZA
+
+#EXTINF:-1 tvg-name="[EFL Championship] Wrexham vs Sheffield United (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_wrexham-vs-sheffield-united_Wrexham_vs_Sheffield_United" tvg-id="Soccer.Dummy.us" group-title="EFL Championship",[EFL Championship] Wrexham vs Sheffield United (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/wrexham-vs-sheffield-united1080p/index.m3u8?_e=1793422293&_n=c6d2ad75eaa5e5e0&_t=6Je6C8swg1c2aUkdY5Y2iA
+
+#EXTINF:-1 tvg-name="[Ligue 1] Lens vs Lille (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_lens-vs-lille_Lens_vs_Lille" tvg-id="Soccer.Dummy.us" group-title="Ligue 1",[Ligue 1] Lens vs Lille (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/lens-vs-lille1080p/index.m3u8?_e=1793422294&_n=44803405223bf280&_t=3TrMzfHosnB522HM7Ichrg
+
+#EXTINF:-1 tvg-name="[Ligue 1] Paris Saint-Germain vs Le Havre AC | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Ligue 1",[Ligue 1] Paris Saint-Germain vs Le Havre AC | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401876421
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401876421&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401876421
+https://instreams.live/live3/tv401876421/index.m3u8?st=y38tgwSIIbImgSNzSAR0BA&e=1793404305
+
+#EXTINF:-1 tvg-name="[Ligue 1] Stade Rennais vs Nice | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Ligue 1",[Ligue 1] Stade Rennais vs Nice | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401876416
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401876416&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401876416
+https://gate4.st/live3/tv401876416/index.m3u8?st=H4v8X69_0i7yu1W4SarJTQ&e=1793404307
+
+#EXTINF:-1 tvg-name="[AUT 1] TSV Hartberg vs Grazer AK | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="AUT 1",[AUT 1] TSV Hartberg vs Grazer AK | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401881757
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401881757&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401881757
+https://gate4.st/live3/tv401881757/index.m3u8?st=Nnm6bjxXexBFYGFMfyH2vg&e=1793404309
+
+#EXTINF:-1 tvg-name="[NED 2] FC Eindhoven vs Helmond Sport | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="NED 2",[NED 2] FC Eindhoven vs Helmond Sport | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401875872
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401875872&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401875872
+https://instreams.xyz/live3/tv401875872/index.m3u8?st=1J6xNJvIL_JosPnCF4nW8g&e=1793404313
+
+#EXTINF:-1 tvg-name="[NED 2] Almere City vs RKC Waalwijk | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="NED 2",[NED 2] Almere City vs RKC Waalwijk | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401875870
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401875870&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401875870
+https://instreams.xyz/live3/tv401875870/index.m3u8?st=oO6FQBm2F4_S2xxq3km2NQ&e=1793404313
+
+#EXTINF:-1 tvg-name="[NED 2] Jong AZ vs Roda JC Kerkrade | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="NED 2",[NED 2] Jong AZ vs Roda JC Kerkrade | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401875869
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401875869&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401875869
+https://instreams.pro/live3/tv401875869/index.m3u8?st=SRD04mrtcvbPeOlaVg3YkA&e=1793404314
+
+#EXTINF:-1 tvg-name="[Bundesliga] Mainz vs SV Elversberg | DE (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" tvg-id="Soccer.Dummy.us" group-title="Bundesliga",[Bundesliga] Mainz vs SV Elversberg | DE (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401884746_de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401884746_de&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401884746_de
+https://gate4.st/live3/tv401884746_de/index.m3u8?st=bIe61f-o_MDoe4K_8-7hXQ&e=1793404315
+
+#EXTINF:-1 tvg-name="[ENG 4] Chesterfield vs Newport County | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="ENG 4",[ENG 4] Chesterfield vs Newport County | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401881283
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401881283&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401881283
+https://instreams.live/live3/tv401881283/index.m3u8?st=WxTon3mlmjj2OP-MgGkvQw&e=1793404317
+
+#EXTINF:-1 tvg-name="[La Liga] Espanyol vs Villarreal | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="La Liga",[La Liga] Espanyol vs Villarreal | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401882817
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401882817&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401882817
+https://instreams.xyz/live3/tv401882817/index.m3u8?st=dOCH6dc2Fh5MetRpyN5DIw&e=1793404318
+
+#EXTINF:-1 tvg-name="[ENG 2] Wrexham vs Sheffield United | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="ENG 2",[ENG 2] Wrexham vs Sheffield United | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401880190
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401880190&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401880190
+https://instreams.pro/live3/tv401880190/index.m3u8?st=xycDyDr34V3_wGlw-fOc0g&e=1793404318
+
+#EXTINF:-1 tvg-name="[Ligue 1] Lens vs Lille | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Ligue 1",[Ligue 1] Lens vs Lille | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401876420
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401876420&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401876420
+https://instreams.xyz/live3/tv401876420/index.m3u8?st=vxKPjjcsZPVEhdADgrY2tw&e=1793404319
+
+#EXTINF:-1 tvg-name="[POR 1] Sporting CP vs Casa Pia | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="POR 1",[POR 1] Sporting CP vs Casa Pia | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401885408
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401885408&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401885408
+https://instreams.pro/live3/tv401885408/index.m3u8?st=l41Z3rackG6aLYpg18Vb0g&e=1793404320
+
+#EXTINF:-1 tvg-name="[LaLiga] Villarreal vs Espanyol (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" tvg-id="Soccer.Dummy.us" group-title="LaLiga",[LaLiga] Villarreal vs Espanyol (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58875?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net/new-stream-embed/58875?ad=111&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://gooz.aapmains.net/new-stream-embed/58875?ad=111
+https://sportsurge-proxy.love4vn.workers.dev/?url=https%3A%2F%2Fchatgpt.hereisman.net%2Fplaylist%2F58875%2Fload-playlist-multi&ref=https%3A%2F%2Fgooz.aapmains.net%2Fnew-stream-embed%2F58875%3Fad%3D111&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36
 
 #EXTINF:-1 tvg-name="[Formula 1] Formula 1 2026 - Mexico GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" tvg-id="Racing.Dummy.us" group-title="Formula 1",[Formula 1] Formula 1 2026 - Mexico GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58842?ad=111
