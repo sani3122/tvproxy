@@ -1,63 +1,32 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-02 17:55 UTC
-# streams  : 7
+# generated: 2026-11-03 00:04 UTC
+# streams  : 4
 
-#EXTINF:-1 tvg-name="Lorient vs Brest | 02:45 | 03/11/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Ligue 1",Lorient vs Brest | 02:45 | 03/11/2026 [Shd247]
-#EXTVLCOPT:http-referrer=https://xstream.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=__cf_bm=qOB65Ag4Ghm9zxg7Fe281FNwZGy6VdM9QasEW5xznEU-1793640899.2862136-1.0.1.1-fHho8hLaXUkLtKGPsMG2gXzhBq2QdF_rrHlE9WafRM1K.H0RqVgYfV_5iQqZxk7uZ8TKwjWAiw.RMD9hbDsE8i4iCZB0NOa_Tr5p1pUkfDIw0JXPHq.a5Ra0Jd.VgS9X; co_a88998c22491bbbd8fb84cd66c408d81_223=1; session_id=2240227746817433; __cf_bm=XhCnWrVpDybAs9PC4.lg1u7XS6hwUeYU6PQNVWoS648-1793640899.649334-1.0.1.1-49d2cZG0kTRuQrM49V.JzEwWHEVmI_ihfVpLpCPQju8FD.b3wDkM6aTA7PLWE58DTomzMuaT5VGKD_FhOW4gQY9lzHYlCgv45ddYGX7oOwt4tqsxCL3PmzzvUlhs3Eiq; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://xstream.st&Cookie=__cf_bm=qOB65Ag4Ghm9zxg7Fe281FNwZGy6VdM9QasEW5xznEU-1793640899.2862136-1.0.1.1-fHho8hLaXUkLtKGPsMG2gXzhBq2QdF_rrHlE9WafRM1K.H0RqVgYfV_5iQqZxk7uZ8TKwjWAiw.RMD9hbDsE8i4iCZB0NOa_Tr5p1pUkfDIw0JXPHq.a5Ra0Jd.VgS9X; co_a88998c22491bbbd8fb84cd66c408d81_223=1; session_id=2240227746817433; __cf_bm=XhCnWrVpDybAs9PC4.lg1u7XS6hwUeYU6PQNVWoS648-1793640899.649334-1.0.1.1-49d2cZG0kTRuQrM49V.JzEwWHEVmI_ihfVpLpCPQju8FD.b3wDkM6aTA7PLWE58DTomzMuaT5VGKD_FhOW4gQY9lzHYlCgv45ddYGX7oOwt4tqsxCL3PmzzvUlhs3Eiq; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: __cf_bm=qOB65Ag4Ghm9zxg7Fe281FNwZGy6VdM9QasEW5xznEU-1793640899.2862136-1.0.1.1-fHho8hLaXUkLtKGPsMG2gXzhBq2QdF_rrHlE9WafRM1K.H0RqVgYfV_5iQqZxk7uZ8TKwjWAiw.RMD9hbDsE8i4iCZB0NOa_Tr5p1pUkfDIw0JXPHq.a5Ra0Jd.VgS9X; co_a88998c22491bbbd8fb84cd66c408d81_223=1; session_id=2240227746817433; __cf_bm=XhCnWrVpDybAs9PC4.lg1u7XS6hwUeYU6PQNVWoS648-1793640899.649334-1.0.1.1-49d2cZG0kTRuQrM49V.JzEwWHEVmI_ihfVpLpCPQju8FD.b3wDkM6aTA7PLWE58DTomzMuaT5VGKD_FhOW4gQY9lzHYlCgv45ddYGX7oOwt4tqsxCL3PmzzvUlhs3Eiq; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1
-https://gate4.st/live3/streamhd22/index.m3u8?st=07lczpO_OYYXka2hIELmHg&e=1793651700
-
-#EXTINF:-1 tvg-name="Newcastle United vs Everton | 03:00 | 03/11/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Premier League",Newcastle United vs Everton | 03:00 | 03/11/2026 [Shd247]
-#EXTVLCOPT:http-referrer=https://xstream.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=__cf_bm=g9iB9HHTJ9lCbc12uTD5pN2BNgB4aEloIOfaDvuWOWA-1793641260.3756056-1.0.1.1-D.1qqloaYrl4gpjdts5682767RW29UNPGHeshod0tljl.Nz9dW4YvaxykuLF1RJ8UxmmQmg9.eP4tXj1DGTFtS4dLg3LeLlCeno0R9xdTdPeUoF09XgVyNxkzD5Jxamc; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=3AlfcCp.XpF0KXCxP9FE.1B4O50TdhbUMEqNBj5lYmE-1793641260.7328882-1.0.1.1-YJrfCxYPmmEr23IMH8pifxK4E9GhgXZrbpVsLnrwB4sJwxmJLd_S6VhalEut8rBSh8lOiHpTOobOAyJ2TmSFGAoAXfgf5JWSO0keyKrigV6HKlkBcuElENuMlyOMKfwF; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=8508234176342431
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://xstream.st&Cookie=__cf_bm=g9iB9HHTJ9lCbc12uTD5pN2BNgB4aEloIOfaDvuWOWA-1793641260.3756056-1.0.1.1-D.1qqloaYrl4gpjdts5682767RW29UNPGHeshod0tljl.Nz9dW4YvaxykuLF1RJ8UxmmQmg9.eP4tXj1DGTFtS4dLg3LeLlCeno0R9xdTdPeUoF09XgVyNxkzD5Jxamc; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=3AlfcCp.XpF0KXCxP9FE.1B4O50TdhbUMEqNBj5lYmE-1793641260.7328882-1.0.1.1-YJrfCxYPmmEr23IMH8pifxK4E9GhgXZrbpVsLnrwB4sJwxmJLd_S6VhalEut8rBSh8lOiHpTOobOAyJ2TmSFGAoAXfgf5JWSO0keyKrigV6HKlkBcuElENuMlyOMKfwF; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=8508234176342431
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: __cf_bm=g9iB9HHTJ9lCbc12uTD5pN2BNgB4aEloIOfaDvuWOWA-1793641260.3756056-1.0.1.1-D.1qqloaYrl4gpjdts5682767RW29UNPGHeshod0tljl.Nz9dW4YvaxykuLF1RJ8UxmmQmg9.eP4tXj1DGTFtS4dLg3LeLlCeno0R9xdTdPeUoF09XgVyNxkzD5Jxamc; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=3AlfcCp.XpF0KXCxP9FE.1B4O50TdhbUMEqNBj5lYmE-1793641260.7328882-1.0.1.1-YJrfCxYPmmEr23IMH8pifxK4E9GhgXZrbpVsLnrwB4sJwxmJLd_S6VhalEut8rBSh8lOiHpTOobOAyJ2TmSFGAoAXfgf5JWSO0keyKrigV6HKlkBcuElENuMlyOMKfwF; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=8508234176342431
-https://instreams.live/live3/streamhd23/index.m3u8?st=n19to_L6OR0SjajF6SOIBw&e=1793652061
-
-#EXTINF:-1 tvg-name="Deportivo vs Osasuna | 03:00 | 03/11/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="La Liga",Deportivo vs Osasuna | 03:00 | 03/11/2026 [Shd247]
-#EXTVLCOPT:http-referrer=https://xstream.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=__cf_bm=biz1gQAbhpy2gbCk1tQWrDTbaD5KXTorjuQ3m7_g1IU-1793641532.4435577-1.0.1.1-HjNRUIDBLtMJyw5iAw2qpUBpbukhxZh8p5AVUesRR0pc8oNgC.z5fmO492yTTU8Jh.Uf7msgdumjOOtjZj87oQV4NHwjyGiTKVi9WFNXfH6Qridqj3cbk_bSEQVZod_t; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=Yi.iLxNF5r.HM3wAJUVK9jHeVb0BFV3ahWOYHUl_a.E-1793641532.785966-1.0.1.1-xzgd_Gh3zZYKQqIA1ME.bMDuvLUAUTpxN87Lv4abFnW0qEp_m5V9hBdO6nr9baBxpT1ilGgaczfjc9D3JtWdat4VtsG5925Lq77cQlJ97ES2yex7Lb85gYqJXBnoV4E.; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=4398344121960105
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://xstream.st&Cookie=__cf_bm=biz1gQAbhpy2gbCk1tQWrDTbaD5KXTorjuQ3m7_g1IU-1793641532.4435577-1.0.1.1-HjNRUIDBLtMJyw5iAw2qpUBpbukhxZh8p5AVUesRR0pc8oNgC.z5fmO492yTTU8Jh.Uf7msgdumjOOtjZj87oQV4NHwjyGiTKVi9WFNXfH6Qridqj3cbk_bSEQVZod_t; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=Yi.iLxNF5r.HM3wAJUVK9jHeVb0BFV3ahWOYHUl_a.E-1793641532.785966-1.0.1.1-xzgd_Gh3zZYKQqIA1ME.bMDuvLUAUTpxN87Lv4abFnW0qEp_m5V9hBdO6nr9baBxpT1ilGgaczfjc9D3JtWdat4VtsG5925Lq77cQlJ97ES2yex7Lb85gYqJXBnoV4E.; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=4398344121960105
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: __cf_bm=biz1gQAbhpy2gbCk1tQWrDTbaD5KXTorjuQ3m7_g1IU-1793641532.4435577-1.0.1.1-HjNRUIDBLtMJyw5iAw2qpUBpbukhxZh8p5AVUesRR0pc8oNgC.z5fmO492yTTU8Jh.Uf7msgdumjOOtjZj87oQV4NHwjyGiTKVi9WFNXfH6Qridqj3cbk_bSEQVZod_t; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=Yi.iLxNF5r.HM3wAJUVK9jHeVb0BFV3ahWOYHUl_a.E-1793641532.785966-1.0.1.1-xzgd_Gh3zZYKQqIA1ME.bMDuvLUAUTpxN87Lv4abFnW0qEp_m5V9hBdO6nr9baBxpT1ilGgaczfjc9D3JtWdat4VtsG5925Lq77cQlJ97ES2yex7Lb85gYqJXBnoV4E.; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=4398344121960105
-https://instreams.xyz/live3/streamhd24/index.m3u8?st=Q1ye9hMATGO5j81af1ziiQ&e=1793652333
-
-#EXTINF:-1 tvg-name="Benfica vs Alverca | 03:15 | 03/11/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Primeira Liga",Benfica vs Alverca | 03:15 | 03/11/2026 [Shd247]
-#EXTVLCOPT:http-referrer=https://xstream.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=__cf_bm=Gp82gqaB_.u8Xs5UJPzhKF6yJIXZg4sfJOJw.9LuAc4-1793641628.7200494-1.0.1.1-_V0uAgeZtvJOgAuFakB.9pkphsYXZzq3nT8jsoU301CODKh9K3cTuytJ8rkNRZCA6ABaUfX4_MHBEtqLDmyu6wzegvv9pSurGVznjCUx9g9USX2FMloziBoRC3Lc4ZEG; co_a88998c22491bbbd8fb84cd66c408d81_223=1; session_id=3943897177368612; __cf_bm=zEYB1U.7zPMSS11GGdUbpTvHEyJUv96_T7bNxt1X8pY-1793641629.0992491-1.0.1.1-e14YgtiV2dpt353.mR5GK2vowbu_nAJaE0yo5PZaY._.IP14FygzBMnMmoUsfrPNsjbk7Jom26x5N5nWMBCd7e5v4BRicL5d9Ew69eliUSO80xjt19qN21nJHAYpsv7E; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://xstream.st&Cookie=__cf_bm=Gp82gqaB_.u8Xs5UJPzhKF6yJIXZg4sfJOJw.9LuAc4-1793641628.7200494-1.0.1.1-_V0uAgeZtvJOgAuFakB.9pkphsYXZzq3nT8jsoU301CODKh9K3cTuytJ8rkNRZCA6ABaUfX4_MHBEtqLDmyu6wzegvv9pSurGVznjCUx9g9USX2FMloziBoRC3Lc4ZEG; co_a88998c22491bbbd8fb84cd66c408d81_223=1; session_id=3943897177368612; __cf_bm=zEYB1U.7zPMSS11GGdUbpTvHEyJUv96_T7bNxt1X8pY-1793641629.0992491-1.0.1.1-e14YgtiV2dpt353.mR5GK2vowbu_nAJaE0yo5PZaY._.IP14FygzBMnMmoUsfrPNsjbk7Jom26x5N5nWMBCd7e5v4BRicL5d9Ew69eliUSO80xjt19qN21nJHAYpsv7E; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: __cf_bm=Gp82gqaB_.u8Xs5UJPzhKF6yJIXZg4sfJOJw.9LuAc4-1793641628.7200494-1.0.1.1-_V0uAgeZtvJOgAuFakB.9pkphsYXZzq3nT8jsoU301CODKh9K3cTuytJ8rkNRZCA6ABaUfX4_MHBEtqLDmyu6wzegvv9pSurGVznjCUx9g9USX2FMloziBoRC3Lc4ZEG; co_a88998c22491bbbd8fb84cd66c408d81_223=1; session_id=3943897177368612; __cf_bm=zEYB1U.7zPMSS11GGdUbpTvHEyJUv96_T7bNxt1X8pY-1793641629.0992491-1.0.1.1-e14YgtiV2dpt353.mR5GK2vowbu_nAJaE0yo5PZaY._.IP14FygzBMnMmoUsfrPNsjbk7Jom26x5N5nWMBCd7e5v4BRicL5d9Ew69eliUSO80xjt19qN21nJHAYpsv7E; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1
-https://gate4.st/live3/streamhd26/index.m3u8?st=yKmRV_lBIPebr5kjDSXVqQ&e=1793652430
-
-#EXTINF:-1 tvg-name="Gil Vicente vs Vitória de Guimaraes | 03:15 | 03/11/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="Primeira Liga",Gil Vicente vs Vitória de Guimaraes | 03:15 | 03/11/2026 [Shd247]
-#EXTVLCOPT:http-referrer=https://xstream.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-origin=https://xstream.st
-#EXTVLCOPT:http-cookie=__cf_bm=e1pdjeL2CSHQ5CpXht3GUfBASnRNuOx1bzIIHIWxY1I-1793641712.0482922-1.0.1.1-AhDw27tyN6_xv_dH0MQXwkq3vGg3Ad3FXMs7WO0qsk6jyvujdKyZ51yfsgYLUrPshFsOojb8kZnBmfeQyRLcwPj4gMBBi2k_xxvqJAx1ZHi4S4sWUk1hfLx9fjrNioRt; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=3899360065412376; __cf_bm=X.NNZVtMaN3IFU7oL20bJ9kpNe7f.6gHOId_a.D18G4-1793641711.7158043-1.0.1.1-pIXtp1.3gMRUQGaJ5rZ7xEnNtQJLPpXingPaYlaoN1xuXEmFL_.BsA15aYdH_3fcHvesSmi6r8zfXrr6FiFyW7.haztdgS_RiicWir6EsDXglZv5GgiaE4eMvwC1z4ze; co_a88998c22491bbbd8fb84cd66c408d81_223=1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://xstream.st&Cookie=__cf_bm=e1pdjeL2CSHQ5CpXht3GUfBASnRNuOx1bzIIHIWxY1I-1793641712.0482922-1.0.1.1-AhDw27tyN6_xv_dH0MQXwkq3vGg3Ad3FXMs7WO0qsk6jyvujdKyZ51yfsgYLUrPshFsOojb8kZnBmfeQyRLcwPj4gMBBi2k_xxvqJAx1ZHi4S4sWUk1hfLx9fjrNioRt; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=3899360065412376; __cf_bm=X.NNZVtMaN3IFU7oL20bJ9kpNe7f.6gHOId_a.D18G4-1793641711.7158043-1.0.1.1-pIXtp1.3gMRUQGaJ5rZ7xEnNtQJLPpXingPaYlaoN1xuXEmFL_.BsA15aYdH_3fcHvesSmi6r8zfXrr6FiFyW7.haztdgS_RiicWir6EsDXglZv5GgiaE4eMvwC1z4ze; co_a88998c22491bbbd8fb84cd66c408d81_223=1
-#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: __cf_bm=e1pdjeL2CSHQ5CpXht3GUfBASnRNuOx1bzIIHIWxY1I-1793641712.0482922-1.0.1.1-AhDw27tyN6_xv_dH0MQXwkq3vGg3Ad3FXMs7WO0qsk6jyvujdKyZ51yfsgYLUrPshFsOojb8kZnBmfeQyRLcwPj4gMBBi2k_xxvqJAx1ZHi4S4sWUk1hfLx9fjrNioRt; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=3899360065412376; __cf_bm=X.NNZVtMaN3IFU7oL20bJ9kpNe7f.6gHOId_a.D18G4-1793641711.7158043-1.0.1.1-pIXtp1.3gMRUQGaJ5rZ7xEnNtQJLPpXingPaYlaoN1xuXEmFL_.BsA15aYdH_3fcHvesSmi6r8zfXrr6FiFyW7.haztdgS_RiicWir6EsDXglZv5GgiaE4eMvwC1z4ze; co_a88998c22491bbbd8fb84cd66c408d81_223=1
-https://gate4.st/live3/streamhd27/index.m3u8?st=t8s-QezFqiKJGMujYG_g5Q&e=1793652513
-
-#EXTINF:-1 tvg-name="[ESP 2] Las Palmas vs Real Oviedo | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="ESP 2",[ESP 2] Las Palmas vs Real Oviedo | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401883146
+#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Miami Hurricanes vs Florida Gators (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_miami-hurricanes-vs-florida-gators_Miami_Hurricanes_vs_Florida_Ga" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Miami Hurricanes vs Florida Gators (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401883146&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401883146
-https://instreams.live/live3/tv401883146/index.m3u8?st=Vb823k5eKfIp1EvY7w5Ebg&e=1793652925
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/miami-hurricanes-vs-florida-gators1080p/index.m3u8?_e=1793693080&_n=b39f4ffd6296e5e4&_t=aBiN65E0TFV4FsBklK_goA
 
-#EXTINF:-1 tvg-name="[Serie A] Fiorentina vs Sassuolo | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" tvg-id="Soccer.Dummy.us" group-title="Serie A",[Serie A] Fiorentina vs Sassuolo | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401874963
+#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Oakland Golden Grizzlies vs Michigan Wolverines (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_oakland-golden-grizzlies-vs-michigan-wolverines_Oakland_Golden_Grizzlies_vs_Mi" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Oakland Golden Grizzlies vs Michigan Wolverines (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/livetv.php?stream=tv401874963&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://xstream.st/livetv.php?stream=tv401874963
-https://gate4.st/live3/tv401874963/index.m3u8?st=qsiLXUQnDXZhBBSYnmramg&e=1793652928
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/oakland-golden-grizzlies-vs-michigan-wolverines1080p/index.m3u8?_e=1793693080&_n=d4771bd1de5ddd81&_t=EuuY0gQLm0N1U2YbOVaLzQ
+
+#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Army Black Knights vs Duke Blue Devils (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_army-black-knights-vs-duke-blue-devils_Army_Black_Knights_vs_Duke_Blu" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Army Black Knights vs Duke Blue Devils (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-origin/army-black-knights-vs-duke-blue-devils1080p/index.m3u8?_e=1793693080&_n=5920b87f0432c233&_t=pijiLUPgYjKojh5OdiWEUg
+
+#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Monmouth Hawks vs St. John's Red Storm (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_monmouth-hawks-vs-st-johns-red-storm_Monmouth_Hawks_vs_St_Johns_Red" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Monmouth Hawks vs St. John's Red Storm (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-cdn/monmouth-hawks-vs-st-johns-red-storm1080p/index.m3u8?_e=1793693081&_n=a4bc607337962a53&_t=IwAFp5lT9L7Sa2FXVavgdQ
