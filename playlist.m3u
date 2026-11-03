@@ -1,32 +1,20 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-03 00:04 UTC
-# streams  : 4
+# generated: 2026-11-03 07:05 UTC
+# streams  : 2
 
-#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Miami Hurricanes vs Florida Gators (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_miami-hurricanes-vs-florida-gators_Miami_Hurricanes_vs_Florida_Ga" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Miami Hurricanes vs Florida Gators (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-cdn/miami-hurricanes-vs-florida-gators1080p/index.m3u8?_e=1793693080&_n=b39f4ffd6296e5e4&_t=aBiN65E0TFV4FsBklK_goA
+#EXTINF:-1 tvg-name="Atlético Madrid vs Bayern Munich | 03:00 | 04/11/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="UEFA Champions League",Atlético Madrid vs Bayern Munich | 03:00 | 04/11/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=7bb9c8db145ddbf8b75a8f98223221b4%2Findex.m3u8&e=1793689843&sig=Plhor2KVUZD8qHk_jpDxweJwa2TIxlbdQ-AvB0azmXk&v=1793688043-2432
 
-#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Oakland Golden Grizzlies vs Michigan Wolverines (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_oakland-golden-grizzlies-vs-michigan-wolverines_Oakland_Golden_Grizzlies_vs_Mi" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Oakland Golden Grizzlies vs Michigan Wolverines (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/oakland-golden-grizzlies-vs-michigan-wolverines1080p/index.m3u8?_e=1793693080&_n=d4771bd1de5ddd81&_t=EuuY0gQLm0N1U2YbOVaLzQ
-
-#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Army Black Knights vs Duke Blue Devils (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_army-black-knights-vs-duke-blue-devils_Army_Black_Knights_vs_Duke_Blu" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Army Black Knights vs Duke Blue Devils (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-origin/army-black-knights-vs-duke-blue-devils1080p/index.m3u8?_e=1793693080&_n=5920b87f0432c233&_t=pijiLUPgYjKojh5OdiWEUg
-
-#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Monmouth Hawks vs St. John's Red Storm (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_monmouth-hawks-vs-st-johns-red-storm_Monmouth_Hawks_vs_St_Johns_Red" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Monmouth Hawks vs St. John's Red Storm (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-cdn/monmouth-hawks-vs-st-johns-red-storm1080p/index.m3u8?_e=1793693081&_n=a4bc607337962a53&_t=IwAFp5lT9L7Sa2FXVavgdQ
+#EXTINF:-1 tvg-name="Manchester United vs AS Roma | 03:00 | 04/11/2026 [Powerstream]" tvg-logo="" tvg-id="Live.Event.us" group-title="UEFA Champions League",Manchester United vs AS Roma | 03:00 | 04/11/2026 [Powerstream]
+#EXTVLCOPT:http-referrer=https://matchli.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-origin=https://matchli.st
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://matchli.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://matchli.st
+#EXTHTTP:Referer: https://matchli.st/|Origin: https://matchli.st
+https://hls.lshls.st/secure_hls.php?path=d7bb70bbe1dafb9cbec7469b899bee63%2Findex.m3u8&e=1793690816&sig=mHfk9VP0k6RVTGj6qsTDT5Kc6cpN0q8KcszKTZ8iAc4&v=1793689016-1494
