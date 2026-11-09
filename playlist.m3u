@@ -1,46 +1,11 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-08 23:58 UTC
-# streams  : 6
+# generated: 2026-11-09 05:15 UTC
+# streams  : 1
 
-#EXTINF:-1 tvg-name="[NBA] Los Angeles Lakers vs Detroit Pistons (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_los-angeles-lakers-vs-detroit-pistons_Los_Angeles_Lakers_vs_Detroit_" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Los Angeles Lakers vs Detroit Pistons (STRMFREE)
+#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Wichita State Shockers vs USC Trojans (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_wichita-state-shockers-vs-usc-trojans_Wichita_State_Shockers_vs_USC_" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Wichita State Shockers vs USC Trojans (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/los-angeles-lakers-vs-detroit-pistons540p/index.m3u8?_e=1794211095&_n=f4256d68451caf14&_t=pPje28CQyJmp0OrmVRvg7g
-
-#EXTINF:-1 tvg-name="[NHL] Tampa Bay Lightning vs Winnipeg Jets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_tampa-bay-lightning-vs-winnipeg-jets_Tampa_Bay_Lightning_vs_Winnipe" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Tampa Bay Lightning vs Winnipeg Jets (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/tampa-bay-lightning-vs-winnipeg-jets1080p/index.m3u8?_e=1794211095&_n=8e6bcf79d1e87bbc&_t=hOl-AEAUfQsUUQCMw-3zAA
-
-#EXTINF:-1 tvg-name="[NFL] Houston Texans vs Los Angeles Chargers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_houston-texans-vs-los-angeles-chargers_Houston_Texans_vs_Los_Angeles_" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Houston Texans vs Los Angeles Chargers (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/houston-texans-vs-los-angeles-chargers1080p/index.m3u8?_e=1794211096&_n=9d937a02d6e9da66&_t=UryJ8SAcYDbX9Lav-J8ioA
-
-#EXTINF:-1 tvg-name="[NFL] Green Bay Packers vs New England Patriots (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_green-bay-packers-vs-new-england-patriots_Green_Bay_Packers_vs_New_Engla" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Green Bay Packers vs New England Patriots (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/green-bay-packers-vs-new-england-patriots1080p/index.m3u8?_e=1794211096&_n=9948b87bd777d74c&_t=AHNHBT2TDGDvBIFiNQs36w
-
-#EXTINF:-1 tvg-name="[NFL] Las Vegas Raiders vs San Francisco 49ers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_las-vegas-raiders-vs-san-francisco-49ers_Las_Vegas_Raiders_vs_San_Franc" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Las Vegas Raiders vs San Francisco 49ers (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/las-vegas-raiders-vs-san-francisco-49ers1080p/index.m3u8?_e=1794211096&_n=310182e632b378ea&_t=I8G1OWzhrWWhFJDVJgNnbQ
-
-#EXTINF:-1 tvg-name="[NFL] Arizona Cardinals vs Seattle Seahawks (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_arizona-cardinals-vs-seattle-seahawks_Arizona_Cardinals_vs_Seattle_S" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] Arizona Cardinals vs Seattle Seahawks (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/arizona-cardinals-vs-seattle-seahawks1080p/index.m3u8?_e=1794211097&_n=da0676dfe8addee5&_t=e0K6fcerJzeS8Dycp0cRJA
+https://streamfree.top/live-externalcdn/wichita-state-shockers-vs-usc-trojans1080p/index.m3u8?_e=1794230107&_n=92682b1f751ccb38&_t=G0t3cU6YgTVImTgy1Uk5qg
