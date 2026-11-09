@@ -1,11 +1,4 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-09 05:15 UTC
-# streams  : 1
-
-#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Wichita State Shockers vs USC Trojans (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_wichita-state-shockers-vs-usc-trojans_Wichita_State_Shockers_vs_USC_" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Wichita State Shockers vs USC Trojans (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/wichita-state-shockers-vs-usc-trojans1080p/index.m3u8?_e=1794230107&_n=92682b1f751ccb38&_t=G0t3cU6YgTVImTgy1Uk5qg
+# generated: 2026-11-09 14:16 UTC
+# streams  : 0
