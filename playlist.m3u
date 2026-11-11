@@ -1,11 +1,60 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-10 21:24 UTC
-# streams  : 1
+# generated: 2026-11-11 01:24 UTC
+# streams  : 8
 
-#EXTINF:-1 tvg-name="[Copa del Rey] Valencia vs Tavernes de la Valldigna (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_valencia-vs-tavernes-de-la-valldigna_Valencia_vs_Tavernes_de_la_Val" tvg-id="Soccer.Dummy.us" group-title="Copa del Rey",[Copa del Rey] Valencia vs Tavernes de la Valldigna (STRMFREE)
+#EXTINF:-1 tvg-name="[NCAA Men's Basketball] Memphis Tigers vs Vanderbilt Commodores (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_memphis-tigers-vs-vanderbilt-commodores_Memphis_Tigers_vs_Vanderbilt_C" tvg-id="Basketball.Dummy.us" group-title="NCAA Men's Basketball",[NCAA Men's Basketball] Memphis Tigers vs Vanderbilt Commodores (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/valencia-vs-tavernes-de-la-valldigna1080p/index.m3u8?_e=1794374660&_n=d2c53152aa1d8332&_t=Ci9xAhapuifTj03XPLIP7g
+https://streamfree.top/live-externalcdn/memphis-tigers-vs-vanderbilt-commodores1080p/index.m3u8?_e=1794389068&_n=fe42f01e4a070654&_t=VfUeHexShuVlYkZspcN3zw
+
+#EXTINF:-1 tvg-name="[NBA] Milwaukee Bucks vs New York Knicks (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_milwaukee-bucks-vs-new-york-knicks_Milwaukee_Bucks_vs_New_York_Kn" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Milwaukee Bucks vs New York Knicks (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-externalcdn/milwaukee-bucks-vs-new-york-knicks1080p/index.m3u8?_e=1794389069&_n=e3ea40c761708705&_t=CrYqnE5d0xEF4AdWMe_-Vw
+
+#EXTINF:-1 tvg-name="[NHL] Colorado Avalanche vs Toronto Maple Leafs (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_colorado-avalanche-vs-toronto-maple-leafs_Colorado_Avalanche_vs_Toronto_" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Colorado Avalanche vs Toronto Maple Leafs (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-externalcdn/colorado-avalanche-vs-toronto-maple-leafs1080p/index.m3u8?_e=1794389069&_n=ec38a37ca64e12e1&_t=07mqXnzJWZIeaM-U9CWfgg
+
+#EXTINF:-1 tvg-name="[NHL] Washington Capitals vs Ottawa Senators (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_washington-capitals-vs-ottawa-senators_Washington_Capitals_vs_Ottawa_" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Washington Capitals vs Ottawa Senators (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-externalcdn/washington-capitals-vs-ottawa-senators1080p/index.m3u8?_e=1794389069&_n=1512ecb8ae7337fe&_t=X3YjSGa1NDwbTugTck0cdQ
+
+#EXTINF:-1 tvg-name="[NHL] New Jersey Devils vs Winnipeg Jets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_new-jersey-devils-vs-winnipeg-jets_New_Jersey_Devils_vs_Winnipeg_" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] New Jersey Devils vs Winnipeg Jets (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-externalcdn/new-jersey-devils-vs-winnipeg-jets1080p/index.m3u8?_e=1794389070&_n=07c8f1315b5e14ec&_t=ydws5heWlcXpEccQnhSrhg
+
+#EXTINF:-1 tvg-name="[NHL] Florida Panthers vs Columbus Blue Jackets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-columbus-blue-jackets_Florida_Panthers_vs_Columbus_B" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Florida Panthers vs Columbus Blue Jackets (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-externalcdn/florida-panthers-vs-columbus-blue-jackets1080p/index.m3u8?_e=1794389070&_n=49b0dfbb6b9ddf87&_t=61qCjgne5FKABXGbKv2rgg
+
+#EXTINF:-1 tvg-name="[NCAAF] Western Michigan Broncos vs Akron Zips (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_western-michigan-broncos-vs-akron-zips_Western_Michigan_Broncos_vs_Ak" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Western Michigan Broncos vs Akron Zips (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-externalcdn/western-michigan-broncos-vs-akron-zips1080p/index.m3u8?_e=1794389070&_n=becabf02bdf76e2b&_t=--2qjTTVfI1NtzYKopwBPw
+
+#EXTINF:-1 tvg-name="[NCAAF] Kent State Golden Flashes vs Bowling Green Falcons (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_kent-state-golden-flashes-vs-bowling-green-falcons_Kent_State_Golden_Flashes_vs_B" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Kent State Golden Flashes vs Bowling Green Falcons (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTHTTP:Referer: https://streamfree.top
+https://streamfree.top/live-externalcdn/kent-state-golden-flashes-vs-bowling-green-falcons1080p/index.m3u8?_e=1794389071&_n=52666bee91dcb8e8&_t=VCxtS-52Muqad-9tEmbiNw
