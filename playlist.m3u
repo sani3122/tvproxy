@@ -1,4 +1,13 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-13 08:54 UTC
-# streams  : 0
+# generated: 2026-11-13 17:08 UTC
+# streams  : 1
+
+#EXTINF:-1 tvg-name="Moldova vs Kazakhstan | LIVE | 14/11/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="UEFA Nations League",Moldova vs Kazakhstan | LIVE | 14/11/2026 [Shd247]
+#EXTVLCOPT:http-referrer=https://xstream.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-origin=https://xstream.st
+#EXTVLCOPT:http-cookie=__cf_bm=05jX5BHW2kC2BNpIpl3Uxoyk2cLFuUqfu5bvWmmkWDo-1794589410.69033-1.0.1.1-HJAE7behKXIGBBidKD7hxfF7qAp3vnzNdxQL5zBwQyW5mozsD90tCpu1sj8jReA.Fl9.tLVtP73Im2yyEVUe85elcqGyrMZP.BZII9lJTHXsMJBs6jxtHhmn22ZuUZ0n; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=ZhwSqrz9qcQNYfDOxGDQaoVLGjE8phxG_tEhQbMcjRE-1794589411.127406-1.0.1.1-oKQZD9J6UoQv7oujdY9yIpN3msacTmOW0pCoFhnQxiuxNsbW5vCxSGmA2CWE47qGDolgkPTCg4hsOsuejPaRV7ZwMD3GBup8CPws2bskSxjDxljRq7rn06LigNS4YJot; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=2860785459685491
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://xstream.st&Cookie=__cf_bm=05jX5BHW2kC2BNpIpl3Uxoyk2cLFuUqfu5bvWmmkWDo-1794589410.69033-1.0.1.1-HJAE7behKXIGBBidKD7hxfF7qAp3vnzNdxQL5zBwQyW5mozsD90tCpu1sj8jReA.Fl9.tLVtP73Im2yyEVUe85elcqGyrMZP.BZII9lJTHXsMJBs6jxtHhmn22ZuUZ0n; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=ZhwSqrz9qcQNYfDOxGDQaoVLGjE8phxG_tEhQbMcjRE-1794589411.127406-1.0.1.1-oKQZD9J6UoQv7oujdY9yIpN3msacTmOW0pCoFhnQxiuxNsbW5vCxSGmA2CWE47qGDolgkPTCg4hsOsuejPaRV7ZwMD3GBup8CPws2bskSxjDxljRq7rn06LigNS4YJot; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=2860785459685491
+#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: __cf_bm=05jX5BHW2kC2BNpIpl3Uxoyk2cLFuUqfu5bvWmmkWDo-1794589410.69033-1.0.1.1-HJAE7behKXIGBBidKD7hxfF7qAp3vnzNdxQL5zBwQyW5mozsD90tCpu1sj8jReA.Fl9.tLVtP73Im2yyEVUe85elcqGyrMZP.BZII9lJTHXsMJBs6jxtHhmn22ZuUZ0n; co_a88998c22491bbbd8fb84cd66c408d81_223=1; __cf_bm=ZhwSqrz9qcQNYfDOxGDQaoVLGjE8phxG_tEhQbMcjRE-1794589411.127406-1.0.1.1-oKQZD9J6UoQv7oujdY9yIpN3msacTmOW0pCoFhnQxiuxNsbW5vCxSGmA2CWE47qGDolgkPTCg4hsOsuejPaRV7ZwMD3GBup8CPws2bskSxjDxljRq7rn06LigNS4YJot; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=2860785459685491
+https://candyshop.st/live3/streamhd21/index.m3u8?st=MYgbcmj5XmzAj5d-w2FlCw&e=1794600213
