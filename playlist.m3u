@@ -1,53 +1,22 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-14 02:42 UTC
-# streams  : 7
+# generated: 2026-11-14 10:09 UTC
+# streams  : 2
 
-#EXTINF:-1 tvg-name="[NBA] New York Knicks vs Indiana Pacers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_new-york-knicks-vs-indiana-pacers_New_York_Knicks_vs_Indiana_Pac" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] New York Knicks vs Indiana Pacers (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/new-york-knicks-vs-indiana-pacers1080p/index.m3u8?_e=1794652897&_n=22f7cfd952f492be&_t=jGGmLaI1apAD2lq2b4h2gQ
+#EXTINF:-1 tvg-name="Japan vs Brazil | 17:15 | 14/11/2026 [Shd247]" tvg-logo="" tvg-id="Live.Event.us" group-title="International Friendly",Japan vs Brazil | 17:15 | 14/11/2026 [Shd247]
+#EXTVLCOPT:http-referrer=https://xstream.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-origin=https://xstream.st
+#EXTVLCOPT:http-cookie=__cf_bm=hk1klOKgVLJzXX10WxT9p5iBj1jW9jwemxpHqunLIGU-1794650143.6580644-1.0.1.1-.ABilQx5KN56y_u_81xpCwD9ENUYZOtux8E8.p.8rl_POPFSmD3xLQHgxFCh.2J.DP8jmYSNzziCDKu95fNoq4dflkhdSTaBGml3FpbaMooRrDeDrxFKxy6C8gDSgDuy; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=4149185760034826; __cf_bm=gLX3LGapHiNp11gblQerBIIDpXmwvpPiMK.3QLrL4_I-1794650143.2721412-1.0.1.1-OfyVVwGN.3ZwH9abIrR4vwxSHHGr_qSiyiErJx_wI1ebAB9Ql6Ng5arHB6hImzA2s8pjzwJDYELkycRynJCqhVlYeZBrVAGdhOXxKxWMGGtyqBCJ85HFc35RjdmJEYja; co_a88998c22491bbbd8fb84cd66c408d81_223=1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xstream.st/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://xstream.st&Cookie=__cf_bm=hk1klOKgVLJzXX10WxT9p5iBj1jW9jwemxpHqunLIGU-1794650143.6580644-1.0.1.1-.ABilQx5KN56y_u_81xpCwD9ENUYZOtux8E8.p.8rl_POPFSmD3xLQHgxFCh.2J.DP8jmYSNzziCDKu95fNoq4dflkhdSTaBGml3FpbaMooRrDeDrxFKxy6C8gDSgDuy; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=4149185760034826; __cf_bm=gLX3LGapHiNp11gblQerBIIDpXmwvpPiMK.3QLrL4_I-1794650143.2721412-1.0.1.1-OfyVVwGN.3ZwH9abIrR4vwxSHHGr_qSiyiErJx_wI1ebAB9Ql6Ng5arHB6hImzA2s8pjzwJDYELkycRynJCqhVlYeZBrVAGdhOXxKxWMGGtyqBCJ85HFc35RjdmJEYja; co_a88998c22491bbbd8fb84cd66c408d81_223=1
+#EXTHTTP:Referer: https://xstream.st/|Origin: https://xstream.st|Cookie: __cf_bm=hk1klOKgVLJzXX10WxT9p5iBj1jW9jwemxpHqunLIGU-1794650143.6580644-1.0.1.1-.ABilQx5KN56y_u_81xpCwD9ENUYZOtux8E8.p.8rl_POPFSmD3xLQHgxFCh.2J.DP8jmYSNzziCDKu95fNoq4dflkhdSTaBGml3FpbaMooRrDeDrxFKxy6C8gDSgDuy; co_9550628a735673579133e6612a3c4ab7_223=1; co_f87e1bd365913f351915dc8db7c5d6f5_223=1; session_id=4149185760034826; __cf_bm=gLX3LGapHiNp11gblQerBIIDpXmwvpPiMK.3QLrL4_I-1794650143.2721412-1.0.1.1-OfyVVwGN.3ZwH9abIrR4vwxSHHGr_qSiyiErJx_wI1ebAB9Ql6Ng5arHB6hImzA2s8pjzwJDYELkycRynJCqhVlYeZBrVAGdhOXxKxWMGGtyqBCJ85HFc35RjdmJEYja; co_a88998c22491bbbd8fb84cd66c408d81_223=1
+https://candyshop.st/live3/streamhd1/index.m3u8?st=hZMLN_NH8iUKLwXQfEj9ag&e=1794660945
 
-#EXTINF:-1 tvg-name="[NBA] Cleveland Cavaliers vs Miami Heat (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_cleveland-cavaliers-vs-miami-heat_Cleveland_Cavaliers_vs_Miami_H" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Cleveland Cavaliers vs Miami Heat (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/cleveland-cavaliers-vs-miami-heat1080p/index.m3u8?_e=1794652897&_n=2fa7c32e8041df71&_t=7ptiMux_QdSp2ttqKjJE0A
-
-#EXTINF:-1 tvg-name="[NBA] Atlanta Hawks vs Chicago Bulls (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_atlanta-hawks-vs-chicago-bulls_Atlanta_Hawks_vs_Chicago_Bulls" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Atlanta Hawks vs Chicago Bulls (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/atlanta-hawks-vs-chicago-bulls1080p/index.m3u8?_e=1794652897&_n=a33a9470d8f24262&_t=GH2KZ4OvLsaiMugKhhkyaA
-
-#EXTINF:-1 tvg-name="[NBA] Memphis Grizzlies vs New Orleans Pelicans (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_memphis-grizzlies-vs-new-orleans-pelicans_Memphis_Grizzlies_vs_New_Orlea" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Memphis Grizzlies vs New Orleans Pelicans (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/memphis-grizzlies-vs-new-orleans-pelicans1080p/index.m3u8?_e=1794652898&_n=0853f829b5291213&_t=MGD1o1r3hDbbmoNPUsaP5g
-
-#EXTINF:-1 tvg-name="[NBA] Utah Jazz vs Houston Rockets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_utah-jazz-vs-houston-rockets_Utah_Jazz_vs_Houston_Rockets" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Utah Jazz vs Houston Rockets (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/utah-jazz-vs-houston-rockets1080p/index.m3u8?_e=1794652898&_n=4fba29068aa2eef6&_t=FJdz2ie6LQ0S-07gjlRqZw
-
-#EXTINF:-1 tvg-name="[NCAAF] Florida State Seminoles vs Pittsburgh Panthers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_florida-state-seminoles-vs-pittsburgh-panthers_Florida_State_Seminoles_vs_Pit" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Florida State Seminoles vs Pittsburgh Panthers (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/florida-state-seminoles-vs-pittsburgh-panthers1080p/index.m3u8?_e=1794652899&_n=18dbad943a47a14c&_t=H26vl-7IizDpwrz83HGxww
-
-#EXTINF:-1 tvg-name="[NCAAF] Illinois Fighting Illini vs UCLA Bruins (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_illinois-fighting-illini-vs-ucla-bruins_Illinois_Fighting_Illini_vs_UC" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Illinois Fighting Illini vs UCLA Bruins (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/illinois-fighting-illini-vs-ucla-bruins1080p/index.m3u8?_e=1794652899&_n=345ef40b5018b52e&_t=hfz7KSnVz6APHLedl6AJjA
+#EXTINF:-1 tvg-name="Norway vs Wales | 00:00 | 15/11/2026 [Odyssney] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="UEFA Nations League",Norway vs Wales | 00:00 | 15/11/2026 [Odyssney] #2
+#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
+#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6IllaOEZpUWVRcnh1NjdNakNkeTZDRnc9PSIsInZhbHVlIjoiNkpDV3NwM2RTSXp2NnhnamgxQWxady96OUZYWitrdXFBY25XYkU3Um5xMkd2L2hYMzdYUDQzQmRZOVMxMnFqdlZLSHdqS2owSjRiNG5OL3gvUXFxNE44K3NLTmh4RUNwZjNacjFqdWhLTXpVQ2V5RW45eWJra1ZEREZDNHd4bzciLCJtYWMiOiI2MzQ4OGU0YjQxY2Y3ODNmM2JlNzEwNjYyNjA2MmMyZjZjNTA3ZDcwZTNhNDA3ODViMjNkNWQ1ZDMxYmU2NWY2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkJ2UGxYWUQ2dFhqR2ZRZ2Y0YlNVTEE9PSIsInZhbHVlIjoiS0VrdjFjZEpQT0xnUkdFYnFwMnlyQmx5ZEJaSHRBR0Q4bkhMeGh0V014aXc5QkJVYm5HRGoxVXZCb3ZMamZRRWp1aHdSS1FFOXFPRjFDRmxNbW9qV25oWVEydVNBYjBoMDdjVTVYNTNOZTcvcXFzQ1Nyc1lHN2tGblp0RUFZQVYiLCJtYWMiOiJlYWRmMzk2ZjRmNWZmNTAyODlkYjg4MTdkYWViZjM1ZDE2OTY0YjI4NGZkNjcyYTdjNmM4OGJlMTVhZmRlMTdjIiwidGFnIjoiIn0%3D
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6IllaOEZpUWVRcnh1NjdNakNkeTZDRnc9PSIsInZhbHVlIjoiNkpDV3NwM2RTSXp2NnhnamgxQWxady96OUZYWitrdXFBY25XYkU3Um5xMkd2L2hYMzdYUDQzQmRZOVMxMnFqdlZLSHdqS2owSjRiNG5OL3gvUXFxNE44K3NLTmh4RUNwZjNacjFqdWhLTXpVQ2V5RW45eWJra1ZEREZDNHd4bzciLCJtYWMiOiI2MzQ4OGU0YjQxY2Y3ODNmM2JlNzEwNjYyNjA2MmMyZjZjNTA3ZDcwZTNhNDA3ODViMjNkNWQ1ZDMxYmU2NWY2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkJ2UGxYWUQ2dFhqR2ZRZ2Y0YlNVTEE9PSIsInZhbHVlIjoiS0VrdjFjZEpQT0xnUkdFYnFwMnlyQmx5ZEJaSHRBR0Q4bkhMeGh0V014aXc5QkJVYm5HRGoxVXZCb3ZMamZRRWp1aHdSS1FFOXFPRjFDRmxNbW9qV25oWVEydVNBYjBoMDdjVTVYNTNOZTcvcXFzQ1Nyc1lHN2tGblp0RUFZQVYiLCJtYWMiOiJlYWRmMzk2ZjRmNWZmNTAyODlkYjg4MTdkYWViZjM1ZDE2OTY0YjI4NGZkNjcyYTdjNmM4OGJlMTVhZmRlMTdjIiwidGFnIjoiIn0%3D
+#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6IllaOEZpUWVRcnh1NjdNakNkeTZDRnc9PSIsInZhbHVlIjoiNkpDV3NwM2RTSXp2NnhnamgxQWxady96OUZYWitrdXFBY25XYkU3Um5xMkd2L2hYMzdYUDQzQmRZOVMxMnFqdlZLSHdqS2owSjRiNG5OL3gvUXFxNE44K3NLTmh4RUNwZjNacjFqdWhLTXpVQ2V5RW45eWJra1ZEREZDNHd4bzciLCJtYWMiOiI2MzQ4OGU0YjQxY2Y3ODNmM2JlNzEwNjYyNjA2MmMyZjZjNTA3ZDcwZTNhNDA3ODViMjNkNWQ1ZDMxYmU2NWY2IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkJ2UGxYWUQ2dFhqR2ZRZ2Y0YlNVTEE9PSIsInZhbHVlIjoiS0VrdjFjZEpQT0xnUkdFYnFwMnlyQmx5ZEJaSHRBR0Q4bkhMeGh0V014aXc5QkJVYm5HRGoxVXZCb3ZMamZRRWp1aHdSS1FFOXFPRjFDRmxNbW9qV25oWVEydVNBYjBoMDdjVTVYNTNOZTcvcXFzQ1Nyc1lHN2tGblp0RUFZQVYiLCJtYWMiOiJlYWRmMzk2ZjRmNWZmNTAyODlkYjg4MTdkYWViZjM1ZDE2OTY0YjI4NGZkNjcyYTdjNmM4OGJlMTVhZmRlMTdjIiwidGFnIjoiIn0%3D
+https://streamedx.streamgate.link/vzzDnGbyWF/es62/index.m3u8
