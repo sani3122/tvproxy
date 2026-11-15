@@ -1,132 +1,22 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-15 00:55 UTC
-# streams  : 18
+# generated: 2026-11-15 07:58 UTC
+# streams  : 2
 
-#EXTINF:-1 tvg-name="Chapecoense vs Vasco da Gama | LIVE | 15/11/2026 [Odyssney] #2" tvg-logo="" tvg-id="Live.Event.us" group-title="Brazilian Série A",Chapecoense vs Vasco da Gama | LIVE | 15/11/2026 [Odyssney] #2
-#EXTVLCOPT:http-referrer=https://embed.sportspatrika.com/
+#EXTINF:-1 tvg-name="Cyprus vs Montenegro | 21:00 | 15/11/2026 [Castppv]" tvg-logo="" tvg-id="Live.Event.us" group-title="UEFA Nations League",Cyprus vs Montenegro | 21:00 | 15/11/2026 [Castppv]
+#EXTVLCOPT:http-referrer=https://castppv.cfd/nfl05/1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-origin=https://embed.sportspatrika.com
-#EXTVLCOPT:http-cookie=XSRF-TOKEN=eyJpdiI6InR5QWxsbmlqN0NEUUZyOUQrQ29idUE9PSIsInZhbHVlIjoiQ0FrMk9KVkZ2V2lsK1Azdy8rQ3JTQytTaVRxT2Y5elRPL0RxREsrZzh6bjBwRE03QkdOMjdyQTVQcDR5WHY5YkQ5cjdYaC83RFBrMWFsVVhQbm5vTnRnRWloY1RZQ1kxVTZRMTdoMHJVZE9hczhCTEpSM051WW45aEtxbWM4RzkiLCJtYWMiOiIyMDEzOGFiZWNlZDEwYjUyNWZjOWJjMzA3NWQzMWIzM2Y0MzA0OTFhNWU5MTk2OGM5NDQ2MzM0MTVmMmMxMmEzIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkZIa1NHdm9UZzhnNDZtSXphRjFiMnc9PSIsInZhbHVlIjoiRnBXU1VWMG5GbGxlUCtPd3dUVTZVcWlOWHhvTmNGcXhTdGVBckQ2UmV5UjgwVmxxM2xIY05UeC8xSVQ2L1RObUdHS29vYlZ6WmpZd3RwYW83M0NaRERKVDEzY05lMUFDdjYxWkRhKzR3ZGVJdjRuY0Juemlzb1hwRlZ0QlZ1bGQiLCJtYWMiOiJmNjA0NjM3MTUxZTYwNzI0NjZiZTZjODViMjU2MzgwY2JhZTBhNmU2ZWQxNzFkMDAyZmE5Mzk5NWNjYzVlMDljIiwidGFnIjoiIn0%3D
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://embed.sportspatrika.com/&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://embed.sportspatrika.com&Cookie=XSRF-TOKEN=eyJpdiI6InR5QWxsbmlqN0NEUUZyOUQrQ29idUE9PSIsInZhbHVlIjoiQ0FrMk9KVkZ2V2lsK1Azdy8rQ3JTQytTaVRxT2Y5elRPL0RxREsrZzh6bjBwRE03QkdOMjdyQTVQcDR5WHY5YkQ5cjdYaC83RFBrMWFsVVhQbm5vTnRnRWloY1RZQ1kxVTZRMTdoMHJVZE9hczhCTEpSM051WW45aEtxbWM4RzkiLCJtYWMiOiIyMDEzOGFiZWNlZDEwYjUyNWZjOWJjMzA3NWQzMWIzM2Y0MzA0OTFhNWU5MTk2OGM5NDQ2MzM0MTVmMmMxMmEzIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkZIa1NHdm9UZzhnNDZtSXphRjFiMnc9PSIsInZhbHVlIjoiRnBXU1VWMG5GbGxlUCtPd3dUVTZVcWlOWHhvTmNGcXhTdGVBckQ2UmV5UjgwVmxxM2xIY05UeC8xSVQ2L1RObUdHS29vYlZ6WmpZd3RwYW83M0NaRERKVDEzY05lMUFDdjYxWkRhKzR3ZGVJdjRuY0Juemlzb1hwRlZ0QlZ1bGQiLCJtYWMiOiJmNjA0NjM3MTUxZTYwNzI0NjZiZTZjODViMjU2MzgwY2JhZTBhNmU2ZWQxNzFkMDAyZmE5Mzk5NWNjYzVlMDljIiwidGFnIjoiIn0%3D
-#EXTHTTP:Referer: https://embed.sportspatrika.com/|Origin: https://embed.sportspatrika.com|Cookie: XSRF-TOKEN=eyJpdiI6InR5QWxsbmlqN0NEUUZyOUQrQ29idUE9PSIsInZhbHVlIjoiQ0FrMk9KVkZ2V2lsK1Azdy8rQ3JTQytTaVRxT2Y5elRPL0RxREsrZzh6bjBwRE03QkdOMjdyQTVQcDR5WHY5YkQ5cjdYaC83RFBrMWFsVVhQbm5vTnRnRWloY1RZQ1kxVTZRMTdoMHJVZE9hczhCTEpSM051WW45aEtxbWM4RzkiLCJtYWMiOiIyMDEzOGFiZWNlZDEwYjUyNWZjOWJjMzA3NWQzMWIzM2Y0MzA0OTFhNWU5MTk2OGM5NDQ2MzM0MTVmMmMxMmEzIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IkZIa1NHdm9UZzhnNDZtSXphRjFiMnc9PSIsInZhbHVlIjoiRnBXU1VWMG5GbGxlUCtPd3dUVTZVcWlOWHhvTmNGcXhTdGVBckQ2UmV5UjgwVmxxM2xIY05UeC8xSVQ2L1RObUdHS29vYlZ6WmpZd3RwYW83M0NaRERKVDEzY05lMUFDdjYxWkRhKzR3ZGVJdjRuY0Juemlzb1hwRlZ0QlZ1bGQiLCJtYWMiOiJmNjA0NjM3MTUxZTYwNzI0NjZiZTZjODViMjU2MzgwY2JhZTBhNmU2ZWQxNzFkMDAyZmE5Mzk5NWNjYzVlMDljIiwidGFnIjoiIn0%3D
-https://streamedx.streamgate.link/igIP9HYDsr/es3/index.m3u8
+#EXTVLCOPT:http-origin=https://ehgembxe.cfd
+#EXTVLCOPT:http-cookie=co_a84ff483b97f814cb5f5d823f3a4c926_223=1; __cf_bm=yoRenwY6oEY7FhY0sMkDuVEaNXN_XBMp88FS7K5JO9w-1794728520.129818-1.0.1.1-Qf9iuOO3d_mfHgSqYNiK6z_XHP8dcECU3v4iXwnxYMT8vGLCNctb_sQJEaQfbH2O690naVf3xraTru.3KLWKYdGDJHGIaUZMITCP8F87HTiPgJOkaK78uprjU.KHehXg; co_91d9d9e6af52e51a63b5728cffe5c08c_223=1; session_id=7996709105365347; __cf_bm=._zJbSdqny9drR8DmU_6TiuXlDsAqEkVEEZjGrrytCs-1794728520.122568-1.0.1.1-ON.nQ4._5o_iSTZ39HYqpgJi18tz2QUULEno2cFIaMAX336tb0Lx3qIRtxqvAJzeA3f1dpbnpmDxHxdWEMAP7P6xCDu_y9TGCxvjpEZU7iikVTqSy5SsBSwHepo_T23U; co_475366e5f71f95ac8f045afc5dc094ed_223=1; co_fe8133945b8957cf6f3a1a93805a7a48_223=1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://castppv.cfd/nfl05/1.php&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://ehgembxe.cfd&Cookie=co_a84ff483b97f814cb5f5d823f3a4c926_223=1; __cf_bm=yoRenwY6oEY7FhY0sMkDuVEaNXN_XBMp88FS7K5JO9w-1794728520.129818-1.0.1.1-Qf9iuOO3d_mfHgSqYNiK6z_XHP8dcECU3v4iXwnxYMT8vGLCNctb_sQJEaQfbH2O690naVf3xraTru.3KLWKYdGDJHGIaUZMITCP8F87HTiPgJOkaK78uprjU.KHehXg; co_91d9d9e6af52e51a63b5728cffe5c08c_223=1; session_id=7996709105365347; __cf_bm=._zJbSdqny9drR8DmU_6TiuXlDsAqEkVEEZjGrrytCs-1794728520.122568-1.0.1.1-ON.nQ4._5o_iSTZ39HYqpgJi18tz2QUULEno2cFIaMAX336tb0Lx3qIRtxqvAJzeA3f1dpbnpmDxHxdWEMAP7P6xCDu_y9TGCxvjpEZU7iikVTqSy5SsBSwHepo_T23U; co_475366e5f71f95ac8f045afc5dc094ed_223=1; co_fe8133945b8957cf6f3a1a93805a7a48_223=1
+#EXTHTTP:Referer: https://castppv.cfd/nfl05/1.php|Origin: https://ehgembxe.cfd|Cookie: co_a84ff483b97f814cb5f5d823f3a4c926_223=1; __cf_bm=yoRenwY6oEY7FhY0sMkDuVEaNXN_XBMp88FS7K5JO9w-1794728520.129818-1.0.1.1-Qf9iuOO3d_mfHgSqYNiK6z_XHP8dcECU3v4iXwnxYMT8vGLCNctb_sQJEaQfbH2O690naVf3xraTru.3KLWKYdGDJHGIaUZMITCP8F87HTiPgJOkaK78uprjU.KHehXg; co_91d9d9e6af52e51a63b5728cffe5c08c_223=1; session_id=7996709105365347; __cf_bm=._zJbSdqny9drR8DmU_6TiuXlDsAqEkVEEZjGrrytCs-1794728520.122568-1.0.1.1-ON.nQ4._5o_iSTZ39HYqpgJi18tz2QUULEno2cFIaMAX336tb0Lx3qIRtxqvAJzeA3f1dpbnpmDxHxdWEMAP7P6xCDu_y9TGCxvjpEZU7iikVTqSy5SsBSwHepo_T23U; co_475366e5f71f95ac8f045afc5dc094ed_223=1; co_fe8133945b8957cf6f3a1a93805a7a48_223=1
+https://tims-001.sytes.net/main/secure/48ceb03f8385a8169b2cda9dde2948140a2d40754b2588665ccf7ad2c2422872/1794737522/fox-sports-2.m3u8
 
-#EXTINF:-1 tvg-name="[NBA] Denver Nuggets vs New Orleans Pelicans (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_denver-nuggets-vs-new-orleans-pelicans_Denver_Nuggets_vs_New_Orleans_" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Denver Nuggets vs New Orleans Pelicans (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/denver-nuggets-vs-new-orleans-pelicans1080p/index.m3u8?_e=1794732914&_n=b67162590aaa142d&_t=nlNtESRgOFgkb2hvisNMAw
-
-#EXTINF:-1 tvg-name="[NHL] Minnesota Wild vs Boston Bruins (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_minnesota-wild-vs-boston-bruins_Minnesota_Wild_vs_Boston_Bruin" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Minnesota Wild vs Boston Bruins (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/minnesota-wild-vs-boston-bruins1080p/index.m3u8?_e=1794732915&_n=d6893983f1f9e288&_t=J5vf_a6qp6LPVvaHOpgMRw
-
-#EXTINF:-1 tvg-name="[NHL] Edmonton Oilers vs Toronto Maple Leafs (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_edmonton-oilers-vs-toronto-maple-leafs_Edmonton_Oilers_vs_Toronto_Map" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Edmonton Oilers vs Toronto Maple Leafs (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/edmonton-oilers-vs-toronto-maple-leafs1080p/index.m3u8?_e=1794732915&_n=0deeb171dd0a379f&_t=ZmSyfIFb7uyVLcOAIxvZ0g
-
-#EXTINF:-1 tvg-name="[NHL] Colorado Avalanche vs Montreal Canadiens (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_colorado-avalanche-vs-montreal-canadiens_Colorado_Avalanche_vs_Montreal" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Colorado Avalanche vs Montreal Canadiens (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/colorado-avalanche-vs-montreal-canadiens1080p/index.m3u8?_e=1794732916&_n=c47a173d56971090&_t=axQxopPpZHYX8pnQETgC7A
-
-#EXTINF:-1 tvg-name="[NHL] Detroit Red Wings vs Tampa Bay Lightning (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_detroit-red-wings-vs-tampa-bay-lightning_Detroit_Red_Wings_vs_Tampa_Bay" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Detroit Red Wings vs Tampa Bay Lightning (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/detroit-red-wings-vs-tampa-bay-lightning1080p/index.m3u8?_e=1794732916&_n=272da79230966462&_t=FJ6QqESipNfexZ1VGi6rvg
-
-#EXTINF:-1 tvg-name="[NHL] Ottawa Senators vs Pittsburgh Penguins (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_ottawa-senators-vs-pittsburgh-penguins_Ottawa_Senators_vs_Pittsburgh_" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Ottawa Senators vs Pittsburgh Penguins (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/ottawa-senators-vs-pittsburgh-penguins1080p/index.m3u8?_e=1794732917&_n=036348430616e1cd&_t=Pm1ITR2lksWmubo9ZidbzA
-
-#EXTINF:-1 tvg-name="[NHL] New Jersey Devils vs Washington Capitals (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_new-jersey-devils-vs-washington-capitals_New_Jersey_Devils_vs_Washingto" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] New Jersey Devils vs Washington Capitals (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/new-jersey-devils-vs-washington-capitals1080p/index.m3u8?_e=1794732917&_n=e7d6f426db0d4068&_t=NpwRaDV8oLHokBa00-xRzQ
-
-#EXTINF:-1 tvg-name="[NHL] Philadelphia Flyers vs Columbus Blue Jackets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_philadelphia-flyers-vs-columbus-blue-jackets_Philadelphia_Flyers_vs_Columbu" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Philadelphia Flyers vs Columbus Blue Jackets (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/philadelphia-flyers-vs-columbus-blue-jackets1080p/index.m3u8?_e=1794732918&_n=b47ad885f1954e59&_t=6OmcrEOnswNipTx1QOpqCg
-
-#EXTINF:-1 tvg-name="[NHL] Florida Panthers vs St. Louis Blues (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-st-louis-blues_Florida_Panthers_vs_St_Louis_B" tvg-id="NHL.Hockey.Dummy.us" group-title="NHL",[NHL] Florida Panthers vs St. Louis Blues (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/florida-panthers-vs-st-louis-blues1080p/index.m3u8?_e=1794732918&_n=5f1387fcb5917265&_t=60pPe2NoVPzK2dNSMh-Nnw
-
-#EXTINF:-1 tvg-name="[UFC] UFC 334: Gane vs. Hokit (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/combat_ufc-334-gane-vs-hokit_UFC_334_Gane_vs_Hokit" tvg-id="Soccer.Dummy.us" group-title="UFC",[UFC] UFC 334: Gane vs. Hokit (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/ufc-334-gane-vs-hokit1080p/index.m3u8?_e=1794732919&_n=113295f8148200f4&_t=aCnS8blsPRv6LlIuhRjxAQ
-
-#EXTINF:-1 tvg-name="[NCAAF] Tulane Green Wave vs Rice Owls (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_tulane-green-wave-vs-rice-owls_Tulane_Green_Wave_vs_Rice_Owls" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Tulane Green Wave vs Rice Owls (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/tulane-green-wave-vs-rice-owls1080p/index.m3u8?_e=1794732919&_n=8aca82df3b191a88&_t=d_zxmnpWs4KDjEL24c9jKA
-
-#EXTINF:-1 tvg-name="[NCAAF] Southern Miss Golden Eagles vs Louisiana Tech Bulldogs (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_southern-miss-golden-eagles-vs-louisiana-tech-bulldogs_Southern_Miss_Golden_Eagles_vs" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Southern Miss Golden Eagles vs Louisiana Tech Bulldogs (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/southern-miss-golden-eagles-vs-louisiana-tech-bulldogs1080p/index.m3u8?_e=1794732920&_n=a62f08970ac33e80&_t=qjQNRi2u3ee0kXK9MAmM0w
-
-#EXTINF:-1 tvg-name="[NCAAF] Washington Huskies vs Michigan State Spartans (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_washington-huskies-vs-michigan-state-spartans_Washington_Huskies_vs_Michigan" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Washington Huskies vs Michigan State Spartans (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/washington-huskies-vs-michigan-state-spartans1080p/index.m3u8?_e=1794732920&_n=dc98ace447c6ae36&_t=S8ckObabyBxx-3SJX3PH4g
-
-#EXTINF:-1 tvg-name="[NCAAF] App State Mountaineers vs Marshall Thundering Herd (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_app-state-mountaineers-vs-marshall-thundering-herd_App_State_Mountaineers_vs_Mars" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] App State Mountaineers vs Marshall Thundering Herd (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/app-state-mountaineers-vs-marshall-thundering-herd1080p/index.m3u8?_e=1794732921&_n=24589817a993c49e&_t=Hb7RCjecu71gAUkPe0NrEQ
-
-#EXTINF:-1 tvg-name="[NCAAF] Baylor Bears vs BYU Cougars (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_baylor-bears-vs-byu-cougars_Baylor_Bears_vs_BYU_Cougars" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Baylor Bears vs BYU Cougars (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/baylor-bears-vs-byu-cougars1080p/index.m3u8?_e=1794732922&_n=7edc51a2a3513f1f&_t=f31I6J9p4al_1J8D0NO7HA
-
-#EXTINF:-1 tvg-name="[NCAAF] Louisville Cardinals vs North Carolina Tar Heels (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_louisville-cardinals-vs-north-carolina-tar-heels_Louisville_Cardinals_vs_North_" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Louisville Cardinals vs North Carolina Tar Heels (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/louisville-cardinals-vs-north-carolina-tar-heels1080p/index.m3u8?_e=1794732922&_n=4d4b0bcafea9048f&_t=hDfIS8i4RjZImDUoaLRuAg
-
-#EXTINF:-1 tvg-name="[NCAAF] Minnesota Golden Gophers vs Penn State Nittany Lions (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_minnesota-golden-gophers-vs-penn-state-nittany-lions_Minnesota_Golden_Gophers_vs_Pe" tvg-id="NCAA.Sports.Dummy.us" group-title="NCAAF",[NCAAF] Minnesota Golden Gophers vs Penn State Nittany Lions (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/minnesota-golden-gophers-vs-penn-state-nittany-lions1080p/index.m3u8?_e=1794732923&_n=a978fe4deb31fcc7&_t=rmDEml79w5T-C77Zg6xo6A
+#EXTINF:-1 tvg-name="Latvia vs Armenia | 21:00 | 15/11/2026 [Castppv]" tvg-logo="" tvg-id="Live.Event.us" group-title="UEFA Nations League",Latvia vs Armenia | 21:00 | 15/11/2026 [Castppv]
+#EXTVLCOPT:http-referrer=https://castppv.cfd/nfl05/2.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-origin=https://ehgembxe.cfd
+#EXTVLCOPT:http-cookie=co_a84ff483b97f814cb5f5d823f3a4c926_223=1; __cf_bm=Av7eu.MRdCvzJMlG0PahtoG8FsgaKAvrznQdOqC.ypI-1794728614.1821113-1.0.1.1-Xh_FgvmE604ojAJC9Rs9tK8ZXaCF5ZMfjRI8sXQfLUJrAAEYwnvbA4P1AjTsbnwa8ba8.7N_RbPwDCCtKW.9feHfrVmITtg5KWc7P7m1GQ7Mo5XZAo8VOz2dUtJk6IqT; co_91d9d9e6af52e51a63b5728cffe5c08c_223=1; co_475366e5f71f95ac8f045afc5dc094ed_223=1; __cf_bm=.tILL.Ibpm5vuF.tDs4nhXpaZ5xIS2VgzOiKfdDvYr8-1794728614.1796358-1.0.1.1-_.BKCQBVvL1tkCUli7iimk_nurEMi91KZ0llIeRS4q3B6hyxf2jjlt.0a5ezZzqyDjlnSvgW_OcSXegYGsz_BWikcgvENAXtGHqTLj.KFZFoXqUnHGDMIidKapp9dTjf; co_fe8133945b8957cf6f3a1a93805a7a48_223=1; session_id=6282920971210630
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://castppv.cfd/nfl05/2.php&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://ehgembxe.cfd&Cookie=co_a84ff483b97f814cb5f5d823f3a4c926_223=1; __cf_bm=Av7eu.MRdCvzJMlG0PahtoG8FsgaKAvrznQdOqC.ypI-1794728614.1821113-1.0.1.1-Xh_FgvmE604ojAJC9Rs9tK8ZXaCF5ZMfjRI8sXQfLUJrAAEYwnvbA4P1AjTsbnwa8ba8.7N_RbPwDCCtKW.9feHfrVmITtg5KWc7P7m1GQ7Mo5XZAo8VOz2dUtJk6IqT; co_91d9d9e6af52e51a63b5728cffe5c08c_223=1; co_475366e5f71f95ac8f045afc5dc094ed_223=1; __cf_bm=.tILL.Ibpm5vuF.tDs4nhXpaZ5xIS2VgzOiKfdDvYr8-1794728614.1796358-1.0.1.1-_.BKCQBVvL1tkCUli7iimk_nurEMi91KZ0llIeRS4q3B6hyxf2jjlt.0a5ezZzqyDjlnSvgW_OcSXegYGsz_BWikcgvENAXtGHqTLj.KFZFoXqUnHGDMIidKapp9dTjf; co_fe8133945b8957cf6f3a1a93805a7a48_223=1; session_id=6282920971210630
+#EXTHTTP:Referer: https://castppv.cfd/nfl05/2.php|Origin: https://ehgembxe.cfd|Cookie: co_a84ff483b97f814cb5f5d823f3a4c926_223=1; __cf_bm=Av7eu.MRdCvzJMlG0PahtoG8FsgaKAvrznQdOqC.ypI-1794728614.1821113-1.0.1.1-Xh_FgvmE604ojAJC9Rs9tK8ZXaCF5ZMfjRI8sXQfLUJrAAEYwnvbA4P1AjTsbnwa8ba8.7N_RbPwDCCtKW.9feHfrVmITtg5KWc7P7m1GQ7Mo5XZAo8VOz2dUtJk6IqT; co_91d9d9e6af52e51a63b5728cffe5c08c_223=1; co_475366e5f71f95ac8f045afc5dc094ed_223=1; __cf_bm=.tILL.Ibpm5vuF.tDs4nhXpaZ5xIS2VgzOiKfdDvYr8-1794728614.1796358-1.0.1.1-_.BKCQBVvL1tkCUli7iimk_nurEMi91KZ0llIeRS4q3B6hyxf2jjlt.0a5ezZzqyDjlnSvgW_OcSXegYGsz_BWikcgvENAXtGHqTLj.KFZFoXqUnHGDMIidKapp9dTjf; co_fe8133945b8957cf6f3a1a93805a7a48_223=1; session_id=6282920971210630
+https://tims-001.sytes.net/main/secure/4d445d18ab0932daed2616c85e6e93c768eda7c39ee0a8fbc44f0d3fd2277afa/1794737616/foxsoccer.m3u8
