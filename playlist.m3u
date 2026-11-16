@@ -1,32 +1,4 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-16 00:51 UTC
-# streams  : 4
-
-#EXTINF:-1 tvg-name="[NBA] Dallas Mavericks vs Boston Celtics (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_dallas-mavericks-vs-boston-celtics_Dallas_Mavericks_vs_Boston_Cel" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Dallas Mavericks vs Boston Celtics (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/dallas-mavericks-vs-boston-celtics1080p2/index.m3u8?_e=1794819064&_n=7330c8f01dcda560&_t=KbaAqB1cdzFirtoNblyWlA
-
-#EXTINF:-1 tvg-name="[NBA] New York Knicks vs Toronto Raptors (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_new-york-knicks-vs-toronto-raptors_New_York_Knicks_vs_Toronto_Rap" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] New York Knicks vs Toronto Raptors (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/new-york-knicks-vs-toronto-raptors1080p2/index.m3u8?_e=1794819065&_n=ed2eb549f4f9fa82&_t=-B3YGzDelgt0NG3cjzTBgw
-
-#EXTINF:-1 tvg-name="[NBA] Houston Rockets vs Washington Wizards (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_houston-rockets-vs-washington-wizards_Houston_Rockets_vs_Washington_" tvg-id="NBA.Basketball.Dummy.us" group-title="NBA",[NBA] Houston Rockets vs Washington Wizards (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/houston-rockets-vs-washington-wizards1080p2/index.m3u8?_e=1794819065&_n=e7559f4ff59ed45e&_t=eANb3mkQj-2TvqdptuPD3w
-
-#EXTINF:-1 tvg-name="[NFL] San Francisco 49ers vs Dallas Cowboys (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_san-francisco-49ers-vs-dallas-cowboys_San_Francisco_49ers_vs_Dallas_" tvg-id="NFL.Dummy.us" group-title="NFL",[NFL] San Francisco 49ers vs Dallas Cowboys (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamfree.top&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:Referer: https://streamfree.top
-https://streamfree.top/live-externalcdn/san-francisco-49ers-vs-dallas-cowboys1080p/index.m3u8?_e=1794819066&_n=203da4aa1bb9a9ea&_t=TyO3Uebsm23e998c0z5_Bw
+# generated: 2026-11-16 07:57 UTC
+# streams  : 0
