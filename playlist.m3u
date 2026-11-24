@@ -1,4 +1,13 @@
 #EXTM3U
 # playlist : soccersurge + multi-source (verified, soccer + tennis)
-# generated: 2026-11-23 12:26 UTC
-# streams  : 0
+# generated: 2026-11-24 00:19 UTC
+# streams  : 1
+
+#EXTINF:-1 tvg-name="St. Louis City SC vs LAFC | 08:00 | 24/11/2026 [Wildgames]" tvg-logo="" tvg-id="Live.Event.us" group-title="MLS",St. Louis City SC vs LAFC | 08:00 | 24/11/2026 [Wildgames]
+#EXTVLCOPT:http-referrer=https://62fccff52ddf77da1ef7cddd9d3d644d.dyntiptoe.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-origin=https://62fccff52ddf77da1ef7cddd9d3d644d.dyntiptoe.net
+#EXTVLCOPT:http-cookie=co_aa479d8114c0cbda2cbc77431d83841d_223=1; __cf_bm=1EuZP6559rA35WpaYE5xcoeK8MqAIDdQY3qo2dUmsZ0-1795479535.315155-1.0.1.1-6rZrJyAC2jeD6mg14MmHJq3ZwuhMnPWloB.UJI1meCbpORzzPn7nSwZERYD0hdAp9Dwe7O90HSTaNpKZQRqugaV6yJVJJUZqrqFZfhu0X8tz9USLXGVXGB2u_.X9dWbD; GL_UI4=eJw9jUtugzAURSGAoR%2BQnsQCuoQQ12kYdtIddIwMfqROjB09G5ruvlYHnZ1zdaSbJMmurSHdWA3ZKgW89FK89cde7blA7LrpNM%2FHA%2Bdx5K%2F8IBAetB%2BCHA2GHCq%2FSApD2HIoRpJW1VAsTqGpoRzJfXukNoPcygWh%2FNCEs7vHQl4cQdaJU2RtI6d72DnfZk0F7HNcbVibR5Y0zyyBp5uRYXa0DFpFLc4kFUL6DtUkA54d%2FUCp0F%2BDuwE4o4b%2F%2Fu%2B1MNqud2AKNz1FdeEL6Re0vELj; hf1=1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://62fccff52ddf77da1ef7cddd9d3d644d.dyntiptoe.net/&User-Agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0&Origin=https://62fccff52ddf77da1ef7cddd9d3d644d.dyntiptoe.net&Cookie=co_aa479d8114c0cbda2cbc77431d83841d_223=1; __cf_bm=1EuZP6559rA35WpaYE5xcoeK8MqAIDdQY3qo2dUmsZ0-1795479535.315155-1.0.1.1-6rZrJyAC2jeD6mg14MmHJq3ZwuhMnPWloB.UJI1meCbpORzzPn7nSwZERYD0hdAp9Dwe7O90HSTaNpKZQRqugaV6yJVJJUZqrqFZfhu0X8tz9USLXGVXGB2u_.X9dWbD; GL_UI4=eJw9jUtugzAURSGAoR%2BQnsQCuoQQ12kYdtIddIwMfqROjB09G5ruvlYHnZ1zdaSbJMmurSHdWA3ZKgW89FK89cde7blA7LrpNM%2FHA%2Bdx5K%2F8IBAetB%2BCHA2GHCq%2FSApD2HIoRpJW1VAsTqGpoRzJfXukNoPcygWh%2FNCEs7vHQl4cQdaJU2RtI6d72DnfZk0F7HNcbVibR5Y0zyyBp5uRYXa0DFpFLc4kFUL6DtUkA54d%2FUCp0F%2BDuwE4o4b%2F%2Fu%2B1MNqud2AKNz1FdeEL6Re0vELj; hf1=1
+#EXTHTTP:Referer: https://62fccff52ddf77da1ef7cddd9d3d644d.dyntiptoe.net/|Origin: https://62fccff52ddf77da1ef7cddd9d3d644d.dyntiptoe.net|Cookie: co_aa479d8114c0cbda2cbc77431d83841d_223=1; __cf_bm=1EuZP6559rA35WpaYE5xcoeK8MqAIDdQY3qo2dUmsZ0-1795479535.315155-1.0.1.1-6rZrJyAC2jeD6mg14MmHJq3ZwuhMnPWloB.UJI1meCbpORzzPn7nSwZERYD0hdAp9Dwe7O90HSTaNpKZQRqugaV6yJVJJUZqrqFZfhu0X8tz9USLXGVXGB2u_.X9dWbD; GL_UI4=eJw9jUtugzAURSGAoR%2BQnsQCuoQQ12kYdtIddIwMfqROjB09G5ruvlYHnZ1zdaSbJMmurSHdWA3ZKgW89FK89cde7blA7LrpNM%2FHA%2Bdx5K%2F8IBAetB%2BCHA2GHCq%2FSApD2HIoRpJW1VAsTqGpoRzJfXukNoPcygWh%2FNCEs7vHQl4cQdaJU2RtI6d72DnfZk0F7HNcbVibR5Y0zyyBp5uRYXa0DFpFLc4kFUL6DtUkA54d%2FUCp0F%2BDuwE4o4b%2F%2Fu%2B1MNqud2AKNz1FdeEL6Re0vELj; hf1=1
+https://9r70o1.l948728p57nx.net:8443/hls/acgg75tlvrxeh.m3u8?s=4pYmXhTsRRgLpfSe4W9c_g&e=1795501136
